@@ -36,7 +36,7 @@ At any time you can select the Alpha key to go back to the main (A-Z letters) ke
 
 ![Alpha key](http://juliussweetland.github.io/OptiKey/images/Key_Alpha_Up.png)
 
-If you want diacritical letters or currency symbols select the Menu key and then the diacritic key (#1 in the screenshot below the menu key) or currency key (#2 in the screenshot below the menu key);
+If you want diacritical letters or currency symbols select the Menu key and then the diacritic key (#1 on the menu keyboard) or currency key (#2 on the menu keyboard);
 
 ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
@@ -45,4 +45,3 @@ If you want diacritical letters or currency symbols select the Menu key and then
 Again, there are more diacritical characters or currency symbols than it is possible to fit on one screen, so use the "1 of X", "2 of X" keys to move between the screens. As before, the Alpha key on each of those keyboards takes you back to the letters keyboard.
 
 ---
-
