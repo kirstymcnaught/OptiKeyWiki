@@ -1,7 +1,6 @@
 **[Overview](https://github.com/JuliusSweetland/OptiKey/wiki)**
 
-**[Get Started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
-* [Download Latest Release](https://github.com/JuliusSweetland/OptiKey/releases/latest)
+**[Download & Get Started](https://github.com/JuliusSweetland/OptiKey/wiki/Download-&-Get-Started)**
 
 **[Requirements](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements)**
 * [Devices & Operating Systems](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#device-os-requirements)
