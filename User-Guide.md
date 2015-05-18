@@ -17,3 +17,6 @@ or the BackMany key to delete the last whole word;
 ![BackMany key](http://juliussweetland.github.io/OptiKey/images/Key_BackMany_Up.png) 
 
 That's all there is to start selecting keys and typing words.
+
+---
+
