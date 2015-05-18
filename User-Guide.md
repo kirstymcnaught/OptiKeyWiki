@@ -6,6 +6,11 @@ Try it out - move your mouse cursor over OptiKey and notice how the current key 
 
 Complete a selection over a letter and it will be pressed and appear in the "scratchpad" at the top. You will also notice that some auto complete suggestions will appear above the scratchpad. Keep selecting letters to type a whole word, or select one of the auto complete suggestions to complete your word. 
 
-If you make a mistake you can use the backspace key ![BackOne key](http://juliussweetland.github.io/OptiKey/images/Key_BackOne_Up.png) to delete your last selection or ![BackMany key](http://juliussweetland.github.io/OptiKey/images/Key_BackMany_Up.png) to delete the last whole word. That's all there is to start selecting keys and typing words...
+If you make a mistake you can use the backspace key to delete your last selection; 
+![BackOne key](http://juliussweetland.github.io/OptiKey/images/Key_BackOne_Up.png) 
+or the BackMany key to delete the last whole word;
+![BackMany key](http://juliussweetland.github.io/OptiKey/images/Key_BackMany_Up.png) 
+
+That's all there is to start selecting keys and typing words...
 
 ![Alpha keyboard typing welcome sentence](http://juliussweetland.github.io/OptiKey/images/Keyboard_Alpha_Typing_Welcome_Sentence.png)
