@@ -8,6 +8,7 @@
 
 **[User Guide](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide)**
 * [Type Your First Word](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word)
+* [Numbers, Symbols & Diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#numbers-symbols-&-diacritics)
 
 **[License](https://github.com/JuliusSweetland/OptiKey/wiki/License)**
 
