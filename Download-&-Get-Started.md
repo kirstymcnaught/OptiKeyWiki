@@ -4,4 +4,4 @@ To get started you need to go to the [latest release](https://github.com/JuliusS
 
 Once the download completes run the file and follow the prompts to install Optikey.
 
-You will have to option to run OptiKey as soon as the installer completes, or you can run it at any time from your start menu or desktop icon if you choose to create one.
+You will have the option to run OptiKey as soon as the installer completes, or you can run it at any time from your start menu or desktop icon if you choose to create one.
