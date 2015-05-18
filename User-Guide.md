@@ -20,4 +20,4 @@ That's all there is to start selecting keys and typing words.
 
 ---
 
-<a name="numbers-symbols-and-diacritics">**Numbers, symbols and diacritics**</a>
+<a name="numbers-symbols-&-diacritics">**Numbers, symbols and diacritics**</a>
