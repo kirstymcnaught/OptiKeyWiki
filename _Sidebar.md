@@ -1,1 +1,1 @@
-[Home](https://github.com/JuliusSweetland/OptiKey/wiki)
+**[Home](https://github.com/JuliusSweetland/OptiKey/wiki)**
