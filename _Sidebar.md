@@ -10,4 +10,4 @@
 
 **[Contribute](https://github.com/JuliusSweetland/OptiKey/wiki/Contribute)**
 
-**[Email Me](mailto:optikeyfeedback@gmail.com)**
+**[Contact Me](mailto:optikeyfeedback@gmail.com)**
