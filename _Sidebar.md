@@ -1,0 +1,1 @@
+[Home](https://github.com/JuliusSweetland/OptiKey/wiki)
