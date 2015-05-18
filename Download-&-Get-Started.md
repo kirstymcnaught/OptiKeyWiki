@@ -1,0 +1,1 @@
+OptiKey is available for Windows (Vista or later). To get started you can <a href="https://github.com/JuliusSweetland/OptiKey/releases/latest">download the installer from the latest release.</a>
