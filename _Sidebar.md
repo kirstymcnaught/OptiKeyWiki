@@ -1,4 +1,4 @@
 **[Overview](https://github.com/JuliusSweetland/OptiKey/wiki)**
-**[Requirements]**
--[Supported Operating Systems]
--[Supported Eye Trackers]
+**[Requirements](https://github.com/JuliusSweetland/OptiKey/wiki)**
+-[Supported Operating Systems](https://github.com/JuliusSweetland/OptiKey/wiki)
+-[Supported Eye Trackers](https://github.com/JuliusSweetland/OptiKey/wiki)
