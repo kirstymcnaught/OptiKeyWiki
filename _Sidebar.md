@@ -9,3 +9,5 @@
 **[License](https://github.com/JuliusSweetland/OptiKey/wiki/License)**
 
 **[Contribute](https://github.com/JuliusSweetland/OptiKey/wiki/Contribute)**
+
+**[Email Me](mailto:optikeyfeedback@gmail.com)**
