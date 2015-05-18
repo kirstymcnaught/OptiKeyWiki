@@ -4,6 +4,8 @@ OptiKey should work on any Windows pc/laptop/tablet running at least Windows Vis
 
 The pc/laptop/tablet should be relatively modern, but high end specs are not required.
 
+---
+
 <a name="supported-eye-trackers">**Supported eye trackers**</a>
 
 * [TheEyeTribe](http://theeyetribe.com/)
