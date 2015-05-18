@@ -10,7 +10,6 @@ If you make a mistake you can use the backspace key to delete your last selectio
 ![BackOne key](http://juliussweetland.github.io/OptiKey/images/Key_BackOne_Up.png)
 
 or the BackMany key to delete the last whole word;
-
 ![BackMany key](http://juliussweetland.github.io/OptiKey/images/Key_BackMany_Up.png) 
 
 That's all there is to start selecting keys and typing words...
