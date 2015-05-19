@@ -1,1 +1,1 @@
-To collaborate, ask a question, request a feature, or have an issue that is not addressed on here? [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
+To collaborate, ask a question, request a feature, or get help with an issue that is not addressed here: [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
