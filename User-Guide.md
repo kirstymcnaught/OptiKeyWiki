@@ -177,7 +177,7 @@ Performing a Drag operation (#5 on the mouse keyboard) is slightly different as 
 
 The 'Repeat Last' key (#6 on the mouse keyboard) allows you to repeat the last mouse action taken, which can be useful if you want to scroll down a long web page one scroll at a time, for example.
 
-Why are modifier keys are included on the mouse keyboard? If you have Simulate Key Strokes key locked down then this section shows you which of the modifier keys (Shift, Ctrl, Win and Alt: #16 to #19 on the mouse keyboard) are pressed or locked down and allows you to release them. If you attempt a mouse action while a modifier key is pressed you may experience unexpected behaviour. For example clicking on a file in File Explorer while the Ctrl key is pressed adds the file to the current selection, rather than simply selecting the file.
+N.B. If you have the Simulate Key Strokes key locked down then keys #16 to #19 on the mouse keyboard show you the state of the modifier keys (Shift, Ctrl, Win and Alt) and allows you to release any which are pressed/locked down. If you attempt a mouse action while a modifier key is pressed then you may experience unexpected behaviour. For example clicking on a file in File Explorer while the Ctrl key is pressed adds the file to the current selection, rather than simply selecting the file.
 
 ---
 
