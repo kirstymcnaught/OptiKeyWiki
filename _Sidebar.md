@@ -11,6 +11,8 @@
 * [Type Your First Word](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word)
 * [Numbers, Symbols & Diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#numbers-symbols-&-diacritics)
 
+**[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
+
 **[License](https://github.com/JuliusSweetland/OptiKey/wiki/License)**
 
 **[Contribute](https://github.com/JuliusSweetland/OptiKey/wiki/Contribute)**
