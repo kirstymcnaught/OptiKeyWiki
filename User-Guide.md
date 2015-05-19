@@ -8,11 +8,11 @@ Try it out - move your mouse cursor over OptiKey and notice how the current key 
 
 Complete a selection over a letter and it will be pressed and appear in the "scratchpad" at the top. You will also notice that some auto complete suggestions will appear above the scratchpad. Keep selecting letters to type a whole word, or select one of the auto complete suggestions to complete your word. 
 
-If you make a mistake you can use the backspace key to delete your last selection;
+If you make a mistake you can use the backspace key to delete your last selection:
 
 ![BackOne key](http://juliussweetland.github.io/OptiKey/images/Key_BackOne_Up.png)
 
-or the BackMany key to delete the last whole word;
+or the BackMany key to delete the last whole word:
 
 ![BackMany key](http://juliussweetland.github.io/OptiKey/images/Key_BackMany_Up.png) 
 
@@ -22,21 +22,21 @@ That's all there is to start selecting keys and typing words.
 
 <a name="numbers-symbols-&-diacritics">**Numbers, symbols and diacritics**</a>
 
-At some point you'll probably want to type a number, symbol, or diactrical letter (e.g. an accented e). For the numbers and symbols keyboard select the Symbols key;
+At some point you'll probably want to type a number, symbol, or diactrical letter (e.g. an accented e). For the numbers and symbols keyboard select the Symbols key:
 
 ![Symbols key](http://juliussweetland.github.io/OptiKey/images/Key_Symbols_Up.png)
 
-There are too many symbols to fit on one screen (in fact there are 3 screens of symbols). You can toggle between the screens by selecing the keyboard number key, which progresses to the next keyboard and then loops back to the first again;
+There are too many symbols to fit on one screen (in fact there are 3 screens of symbols). You can toggle between the screens by selecing the keyboard number key, which progresses to the next keyboard and then loops back to the first again:
 
 ![1 of 3 key](http://juliussweetland.github.io/OptiKey/images/Key_Symbol_1of3_Up.png)
 ![2 of 3 key](http://juliussweetland.github.io/OptiKey/images/Key_Symbol_2of3_Up.png)
 ![3 of 3 key](http://juliussweetland.github.io/OptiKey/images/Key_Symbol_3of3_Up.png)
 
-At any time you can select the Alpha key to go back to the main (A-Z letters) keyboard;
+At any time you can select the Alpha key to go back to the main (A-Z letters) keyboard:
 
 ![Alpha key](http://juliussweetland.github.io/OptiKey/images/Key_Alpha_Up.png)
 
-If you want diacritical letters or currency symbols select the Menu key and then the diacritic key (#1 on the menu keyboard) or currency key (#2 on the menu keyboard);
+If you want diacritical letters or currency symbols select the Menu key and then the diacritic key (#1 on the menu keyboard) or currency key (#2 on the menu keyboard):
 
 ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
@@ -52,7 +52,7 @@ As an alternative to selecting keys with your mouse cursor, OptiKey also support
 
 1. Connect your tracker and start the tracker's application(s) (e.g. for TheEyeTribe you would start the client and server applications). 
 
-2. Complete any initial setup to get the tracker up and running; usually this involves getting yourself/your tracker/your screen in the correct position and competing a calibration. 
+2. Complete any initial setup to get the tracker up and running. Usually this involves getting yourself/your tracker/your screen in the correct position and competing a calibration. 
 
 3. Once it's tracking your eyes reliably start OptiKey.
 
@@ -74,7 +74,7 @@ OptiKey supports a number of selection methods to select a key (or a point on th
 
 1. To change the selection method open the Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab. 
 
-2. Under "Selection" you'll see "Key selection source" and "Point selection source"; the former is the setting to change the way keys are selected, whilst the latter is the setting to change the way points are selected when controlling the mouse.
+2. Under "Selection" you'll see "Key selection source" and "Point selection source". The former is the setting to change the way keys are selected, whilst the latter is the setting to change the way points are selected when controlling the mouse.
 
 3. When you change either method you will be shown other associated settings, for example if you select that you would like the "Key selection source" to be "Keyboard Key" then there will be a setting to change which key is used (and likewise for "Mouse button").
 
