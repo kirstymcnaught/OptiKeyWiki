@@ -163,6 +163,8 @@ Selecting a point becomes a two step process when using the magnifier:
 
 2. Direct your attention to exactly where you wish to click/scroll in the magnified image to perform the action at that point (or select outside the magnified area to cancel the action).
 
+![Performing a mouse action while using the Magnifier](http://juliussweetland.github.io/OptiKey/images/Clicking_On_Magnified_Folder.png)
+
 Performing a Drag operation (#5 on the mouse keyboard) is slightly different as two selections have to be made after you select the drag key:
 
 1. Select point one (this will be a two step process if the Magnifier key is pressed or locked down). This first selection will be where the mouse button is pressed and held down.
