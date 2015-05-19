@@ -121,13 +121,13 @@ You may have also noticed that some new keys are available now that the Simulate
 ![Win key](http://juliussweetland.github.io/OptiKey/images/Key_Win_Up.png)
 ![Alt key](http://juliussweetland.github.io/OptiKey/images/Key_Alt_Up.png)
 
-These work in exactly the same way as they do on a physical keyboard, and can be combined with other keys by holding them down:
-
-Try selecting one of them and you'll notice that it cycles through 3 states; UP, DOWN, and LOCKED DOWN (before returning to UP). For example, the Shift key progresses like this:
+These work in exactly the same way as they do on a physical keyboard, and can be combined with other keys by holding them down. Try selecting one of them and you'll notice that it cycles through 3 states; UP, DOWN, and LOCKED DOWN, before returning to UP. For example, the Shift key progresses like this:
 
 ![Shift key](http://juliussweetland.github.io/OptiKey/images/Key_Shift_Up.png)
 ![Shift key](http://juliussweetland.github.io/OptiKey/images/Key_Shift_Down.png)
 ![Shift key](http://juliussweetland.github.io/OptiKey/images/Key_Shift_Locked_Down.png)
+![Shift key](http://juliussweetland.github.io/OptiKey/images/Key_Shift_Up.png)
+etc...
 
 This makes it easy to press or lock down a number of keys together. For example, select Ctrl to press it down, and then press the "P" key to send the "Print" command to the active application. The Ctrl key will be automatically released after you select the "P" key, unless it is in the LOCKED DOWN state.
 
