@@ -68,3 +68,17 @@ As an alternative to selecting keys with your mouse cursor, OptiKey also support
 
 ---
 
+<a name="change-selection-method">**Change selection method**</a>
+
+OptiKey supports a number of selection methods to select a key (or a point on the screen when controlling the mouse). We've seen the fixation method in the [Type your first word section](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word), where you dwell over a key for a period of time until the selection is made, but you can also press a keyboard key or click a mouse button to indicate that you want to make a selection. 
+
+1. To change the selection method open the Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab. 
+
+2. Under "Selection" you'll see "Key selection source" and "Point selection source"; the former is the setting to change the way keys are selected, whilst the latter is the setting to change the way points are selected when controlling the mouse.
+
+3. When you change either method you will be shown other associated settings, for example if you select that you would like the "Key selection source" to be "Keyboard Key" then there will be a setting to change which key is used (and likewise for "Mouse button").
+
+Try it out - change the "Key selection source" to "Keyboard key". By default it will expect the "Ins"/"Insert" key, so click "OK" to save your changes (and restart OptiKey), direct your attention to a key, and press the "Ins" key once to select that key.
+
+---
+
