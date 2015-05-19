@@ -11,3 +11,5 @@ OptiKey can be used to simulate a physical keyboard (so you can type into your f
 ![OptiKey being used to control a mouse click](http://juliussweetland.github.io/OptiKey/images/Clicking_On_Magnified_Folder.png)
 
 It is themable and can be extended to support custom layouts, custom behaviour and new/customised languages.
+
+[Get started...](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)
