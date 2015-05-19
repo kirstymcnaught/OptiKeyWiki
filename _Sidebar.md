@@ -13,6 +13,7 @@
 * [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#using-eye-trackers)
 * [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-selection-method)
 * [Make OptiKey speak](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#make-optikey-speak)
+* [Simulate a physical keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-keyboard)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
 
