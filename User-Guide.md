@@ -45,3 +45,26 @@ If you want diacritical letters or currency symbols select the Menu key and then
 Again, there are more diacritical characters or currency symbols than it is possible to fit on one screen, so use the "1 of X", "2 of X" keys to move between the screens. As before, the Alpha key on each of those keyboards takes you back to the letters keyboard.
 
 ---
+
+<a name="using-eye-trackers">**Using eye trackers**</a>
+
+As an alternative to selecting keys with your mouse cursor, OptiKey also supports selection using your eyes ([currently supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)). 
+
+1. Connect your tracker and start the tracker's application(s) (e.g. for TheEyeTribe you would start the client and server applications). 
+
+2. Complete any initial setup to get the tracker up and running; usually this involves getting yourself/your tracker/your screen in the correct position and competing a calibration. 
+
+3. Once it's tracking your eyes reliably start OptiKey.
+
+4. Open OptiKey's Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab.
+
+5. Change the "Source" (under "Pointing") to your tracking device. 
+
+6. Leave the "Key selection source" and "Point selection source" set to "Fixation" for now). 
+
+7. Click "OK" to save your changes. OptiKey may need to restart, but your changes will be saved.
+
+8. When OptiKey starts up again it will be listening to your eye tracker so try looking around rather than using the mouse cursor to make key selections.
+
+---
+
