@@ -14,6 +14,7 @@
 * [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-selection-method)
 * [Make OptiKey speak](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#make-optikey-speak)
 * [Simulate a physical keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-keyboard)
+* [Simulate a physical mouse](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
 
