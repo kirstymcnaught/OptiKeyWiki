@@ -82,7 +82,7 @@ Try it out - change the "Key selection source" to "Keyboard key". By default it 
 
 ---
 
-<a name="making-optikey-speak">**Making OptiKey speak**</a>
+<a name="make-optikey-speak">**Making OptiKey speak**</a>
 
 1. Make key selections to type some text into the "scratchpad" (the area at the top of the OptiKey keyboard).
 
