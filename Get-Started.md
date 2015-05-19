@@ -1,4 +1,4 @@
-OptiKey is available for Windows (Vista or later).
+OptiKey is available for Windows (see the [Requirements](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements) page for more).
 
 1. Download the [latest installer](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.1.5/OptiKeySetup-1.1.5.exe)
 
