@@ -87,7 +87,8 @@ Try it out - change the "Key selection source" to "Keyboard key". By default it 
 1. Make key selections to type some text into the "scratchpad" (the area at the top of the OptiKey keyboard).
 
 2. Select the Speak key:
-![Speak key](http://juliussweetland.github.io/OptiKey/images/Key_Speak_Up.png) key.
+
+![Speak key](http://juliussweetland.github.io/OptiKey/images/Key_Speak_Up.png)
 
 3. The voice, rate of speech and volume are all changeable from the Management Console (with OptiKey focussed press ALT + M). 
 
