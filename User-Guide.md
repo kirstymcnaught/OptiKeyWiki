@@ -96,7 +96,7 @@ Try it out - change the "Key selection source" to "Keyboard key". By default it 
 
 ---
 
-<a name="simulating-a-physical-keyboard">**Simulating a physical keyboard**</a>
+<a name="simulate-a-physical-keyboard">**Simulate a physical keyboard**</a>
 
 Typing words into the "scratchpad" is great if you only want OptiKey to speak, but you can also use OptiKey to simulate keystrokes on a physical keyboard and type into other applications.
 
