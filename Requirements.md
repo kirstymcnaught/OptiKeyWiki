@@ -11,4 +11,4 @@ The pc/laptop/tablet should be relatively modern, but high end specs are not req
 * [TheEyeTribe](http://theeyetribe.com/)
 * [ITU GazeTracker](http://sourceforge.net/projects/gazetrackinglib/)
 
-Adding new input devices is fairly straightforward. If you have an unsupported tracker then get in touch and I can attempt to add support for it; [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
+Adding new input devices is fairly straightforward. If you have an unsupported tracker then get in touch and I can attempt to add support for it: [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
