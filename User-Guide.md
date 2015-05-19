@@ -81,3 +81,17 @@ OptiKey supports a number of selection methods to select a key (or a point on th
 Try it out - change the "Key selection source" to "Keyboard key". By default it will expect the "Ins"/"Insert" key, so click "OK" to save your changes (and restart OptiKey), direct your attention to a key, and press the "Ins" key once to select that key.
 
 ---
+
+<a name="making-optikey-speak">**Making OptiKey speak**</a>
+
+1. Make key selections to type some text into the "scratchpad" (the area at the top of the OptiKey keyboard).
+
+2. Select the Speak key:
+![Speak key](http://juliussweetland.github.io/OptiKey/images/Key_Speak_Up.png) key.
+
+3. The voice, rate of speech and volume are all changeable from the Management Console (with OptiKey focussed press ALT + M). 
+
+*Which voices you can choose depends on which voices are installed in your copy of Windows. Please google for instructions on how to add new voices as the method varies for each version of Windows.*
+
+---
+
