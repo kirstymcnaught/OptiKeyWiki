@@ -183,3 +183,33 @@ N.B. If you have the Simulate Key Strokes key locked down then keys #16 to #19 o
 
 ---
 
+##<a name="multi-key-selection">Multi-key selection</a>
+
+**Typing whole words**
+
+Instead of typing each letter of a word individually, it is possible to capture a whole word (or phrase) in one go. To activate multi-key selection select the Multi-key Selection key to lock it down:
+
+![Multi-key selection key up](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Up.png)
+ -> 
+![Multi-key selection key locked down](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_Turning_On_MultiKeyCapture.png)
+ -> 
+![Multi-key selection key locked down](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Locked_Down.png)
+
+The process of capturing a word using fixation selection then works like this;
+
+1. Select the first letter of the word, e.g. the "h" if you want to type "hello". You have begun capturing the word (or phrase).
+
+![Selecting the first letter](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_Starting.png)
+
+2. Direct your attention to each letter in the word. You don't have to select each one, just briefly register your interest in each letter; "e", "l", then "o". Don't worry about double letters like the "ll" in "hello" - OptiKey will figure that out for you.
+
+![Selecting the rest of the letters](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_The_Whole_Capture.png)
+
+3. When you get to the last letter select it to signal that you are finished capturing the word (or phrase). OptiKey will match what you captured with its dictionary of words and phrases and type the best match to the "scratchpad". Alternative suggestions will be displayed at the top, which you can select if OptiKey matched your capture to the wrong word.
+
+![Multi-key selection of hello completed](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_Complete.png)
+
+Multikey selection learns which words you use frequently and will improve its suggestions over time.
+
+**Typing whole phrases**
+
