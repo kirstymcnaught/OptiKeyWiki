@@ -211,3 +211,15 @@ Multikey selection learns which words you use frequently and will improve its su
 
 **Typing whole phrases**
 
+Whole phrases are types in the same way as whole words, but instead of typing each letter of each word you only type the first letter of each word. For example if the phrase "how are you" was in the dictionary, then you could type this as one multi-key selection like this:
+
+1. Select the first letter of the first word, i.e. the "h" from "how". This begins the capture.
+
+2. Direct your attention to the first letter of each word, so "a", then "y" in our example.
+
+3. Stay on the last letter ("y") to select it and signal that you are finished capturing. The set of matching words and phrases will be calculated and the best choice output to the scratchpad (the rest of the suggestions will appear at the top, above the scratchpad).
+
+Don't forget that OptiKey can only match your multi-key selection to what is stored in its dictionary - see ['Changing and editing the dictionary'] (https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide##changing-and-editing-the-dictionary) for more.
+
+---
+
