@@ -219,7 +219,7 @@ Whole phrases are types in the same way as whole words, but instead of typing ea
 
 3. Stay on the last letter ("y") to select it and signal that you are finished capturing. The set of matching words and phrases will be calculated and the best choice output to the scratchpad (the rest of the suggestions will appear at the top, above the scratchpad).
 
-Don't forget that OptiKey can only match your multi-key selection to what is stored in its dictionary - see ['Changing and editing the dictionary'] (https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide##changing-and-editing-the-dictionary) for more.
+Don't forget that OptiKey will match your multi-key selection against its dictionary - see ['Changing and editing the dictionary'] (https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide##changing-and-editing-the-dictionary) for info on how to add and remove words and phrases.
 
 ---
 
