@@ -1,4 +1,4 @@
-OptiKey is an free (and open source) assistive on-screen keyboard for Windows, with built in speech capabilities.
+OptiKey is a free, open source, assistive on-screen keyboard which runs on Windows. It was designed to be used with an eye-tracking device to bring keyboard control, mouse control and speech to people with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND). There is support for assistive buttons, as well as more conventional devices like the mouse and keyboard, opening up to everyone the ability to fully interact with a computer and communicate freely.
 
 ![The OptiKey keyboard showing the light and dark themes](http://juliussweetland.github.io/OptiKey/images/Keyboards_Alpha_Showing_Light_And_Dark_Themes.png)
 
