@@ -189,11 +189,9 @@ N.B. If you have the Simulate Key Strokes key locked down then keys #16 to #19 o
 
 Instead of typing each letter of a word individually, it is possible to capture a whole word (or phrase) in one go. To activate multi-key selection select the Multi-key Selection key to lock it down:
 
-![Multi-key selection key up](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Up.png)
- -> 
-![Multi-key selection key locked down](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_Turning_On_MultiKeyCapture.png)
- -> 
-![Multi-key selection key locked down](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Locked_Down.png)
+1. ![Multi-key selection key up](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Up.png)
+2. ![Multi-key selection key locked down](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_Turning_On_MultiKeyCapture.png)
+3. ![Multi-key selection key locked down](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Locked_Down.png)
 
 The process of capturing a word using fixation selection then works like this;
 
