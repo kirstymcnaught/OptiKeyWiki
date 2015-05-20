@@ -1,4 +1,4 @@
-<a name="type-your-first-word">**Type your first word**</a>
+##<a name="type-your-first-word">Type your first word</a>
 
 Run OptiKey and it will be displayed with a dark theme, position itself somewhere in the top left corner of your screen, and hover above all other applications. By default it uses your mouse cursor position for input and and selecting a key is performed by hovering over a key for about 1.5 seconds. 
 
@@ -20,7 +20,7 @@ That's all there is to start selecting keys and typing words.
 
 ---
 
-<a name="numbers-symbols-&-diacritics">**Numbers, symbols and diacritics**</a>
+##<a name="numbers-symbols-&-diacritics">Numbers, symbols and diacritics</a>
 
 At some point you'll probably want to type a number, symbol, or diactrical letter (e.g. an accented e). For the numbers and symbols keyboard select the Symbols key:
 
@@ -46,7 +46,7 @@ Again, there are more diacritical characters or currency symbols than it is poss
 
 ---
 
-<a name="using-eye-trackers">**Using eye trackers**</a>
+##<a name="using-eye-trackers">Using eye trackers</a>
 
 As an alternative to selecting keys with your mouse cursor, OptiKey also supports selection using your eyes ([currently supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)).
 
@@ -70,7 +70,7 @@ As an alternative to selecting keys with your mouse cursor, OptiKey also support
 
 ---
 
-<a name="change-selection-method">**Change selection method**</a>
+##<a name="change-selection-method">Change selection method</a>
 
 OptiKey supports a number of selection methods to select a key (or a point on the screen when controlling the mouse). We've seen the fixation method in the ['Type your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word) section, where you dwell over a key for a period of time until the selection is made, but you can also press a keyboard key or click a mouse button to indicate that you want to make a selection. 
 
@@ -84,7 +84,7 @@ Try it out - change the "Key selection source" to "Keyboard key". By default it 
 
 ---
 
-<a name="make-optikey-speak">**Make OptiKey speak**</a>
+##<a name="make-optikey-speak">Make OptiKey speak</a>
 
 1. Make key selections to type some text into the "scratchpad" (the area at the top of the OptiKey keyboard).
 
@@ -98,7 +98,7 @@ Try it out - change the "Key selection source" to "Keyboard key". By default it 
 
 ---
 
-<a name="simulate-a-physical-keyboard">**Simulate a physical keyboard**</a>
+##<a name="simulate-a-physical-keyboard">Simulate a physical keyboard</a>
 
 Typing words into the "scratchpad" is great if you only want OptiKey to speak, but you can also use OptiKey to simulate keystrokes on a physical keyboard and type into other applications.
 
@@ -143,7 +143,7 @@ There is also a new keyboard available to you if the Simulate Key Strokes key is
 
 ---
 
-<a name="simulate-a-physical-mouse">**Simulate a physical mouse**</a>
+##<a name="simulate-a-physical-mouse">Simulate a physical mouse</a>
 
 OptiKey is able to simulate mouse input, meaning you can click, drag and scroll as if using a physical mouse. To open the mouse keyboard select the Menu key and then the 'Mouse' key (#4 on the menu keyboard).
 
