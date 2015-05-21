@@ -48,7 +48,7 @@ Again, there are more diacritical characters or currency symbols than it is poss
 
 ##<a name="using-eye-trackers">Using eye trackers</a>
 
-As an alternative to selecting keys with your mouse cursor, OptiKey also supports selection using your eyes ([currently supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)).
+As an alternative to selecting keys with your mouse cursor, OptiKey also supports selection using your eyes ([details of the currently supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)).
 
 ![TheEyeTribe device setup](http://juliussweetland.github.io/OptiKey/images/theeyetribe-physical-setup.png)
 
