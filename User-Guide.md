@@ -90,7 +90,7 @@ Try it out - change the "Key selection source" to "Keyboard key". By default it 
 
 2. Select the Speak key:
 
-![Speak key](http://juliussweetland.github.io/OptiKey/images/Key_Speak_Up.png)
+    ![Speak key](http://juliussweetland.github.io/OptiKey/images/Key_Speak_Up.png)
 
 3. The voice, rate of speech and volume are all changeable from the Management Console (with OptiKey focussed press ALT + M). 
 
@@ -104,13 +104,13 @@ Typing words into the "scratchpad" is great if you only want OptiKey to speak, b
 
 1. To get started clear the scratchpad by selecting the Clear key:
 
-![Clear key](http://juliussweetland.github.io/OptiKey/images/Key_Clear_Up.png)
+    ![Clear key](http://juliussweetland.github.io/OptiKey/images/Key_Clear_Up.png)
 
 2. Select the Simulate Key Strokes key to turn keystroke simulation on (the key will stay locked down until you decide you want to release it by selecting it again):
 
-![Simulate Key Strokes key](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Up.png)
- -> 
-![Simulate Key Strokes key](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Locked_Down.png)
+    ![Simulate Key Strokes key](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Up.png)
+     -> 
+    ![Simulate Key Strokes key](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Locked_Down.png)
 
 3. Focus another application where you would like to begin typing, e.g. type a letter into Microsoft Word, or an email into Gmail. You can focus the other application by using a physical mouse to select it and bring it to the foreground, or use OptiKey to simulate the mouse selection (see ['Simulating a physical mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse)).
 
@@ -199,15 +199,15 @@ The process of capturing a word using fixation selection then works like this;
 
 1. Select the first letter of the word, e.g. the "h" if you want to type "hello". You have begun capturing the word (or phrase).
 
-![Selecting the first letter](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_Starting.png)
+    ![Selecting the first letter](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_Starting.png)
 
 2. Direct your attention to each letter in the word. You don't have to select each one, just briefly register your interest in each letter; "e", "l", then "o". Don't worry about double letters like the "ll" in "hello" - OptiKey will figure that out for you.
 
-![Selecting the rest of the letters](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_The_Whole_Capture.png)
+    ![Selecting the rest of the letters](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_The_Whole_Capture.png)
 
 3. When you get to the last letter select it to signal that you are finished capturing the word (or phrase). OptiKey will match what you captured with its dictionary of words and phrases and type the best match to the "scratchpad". Alternative suggestions will be displayed at the top, which you can select if OptiKey matched your capture to the wrong word.
 
-![Multi-key selection of hello completed](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_Complete.png)
+    ![Multi-key selection of hello completed](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_Complete.png)
 
 Multikey selection learns which words you use frequently and will improve its suggestions over time.
 
