@@ -159,7 +159,7 @@ The basic mouse actions (left, middle and right click, or scrolling - #1 to #4, 
 
 ![Mouse keyboard](http://juliussweetland.github.io/OptiKey/images/Keyboard_Mouse_Numbered.png)
 
-To increase your precision when making mouse selections you can press or lock down the Magnifier key:
+To increase your precision when making mouse selections you can switch on magnification by locking down the Magnifier key:
 
 ![Magnifier key locked down](http://juliussweetland.github.io/OptiKey/images/Key_Magnifier_Locked_Down.png)
 
