@@ -16,6 +16,8 @@
 * [Simulate a physical keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-keyboard)
 * [Simulate a physical mouse](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse)
 * [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection)
+  * [Typing whole words](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#typing-whole-words)
+  * [Typing whole phrases](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#typing-whole-phrases)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
 
