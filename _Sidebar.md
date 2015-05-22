@@ -18,6 +18,7 @@
 * [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection)
  * [Typing whole words](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#typing-whole-words)
  * [Typing whole phrases](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#typing-whole-phrases)
+* [Auto-capitalisation & auto-spacing](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#auto-capitalisation-&-auto-spacing)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
 
