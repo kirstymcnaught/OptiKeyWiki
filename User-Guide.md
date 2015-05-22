@@ -16,7 +16,7 @@ or the BackMany key to delete the last whole word:
 
 ![BackMany key](http://juliussweetland.github.io/OptiKey/images/Key_BackMany_Up.png) 
 
-That's all there is to start selecting keys and typing words.
+That's all there is to start selecting keys and typing words!
 
 ---
 
@@ -181,7 +181,7 @@ Performing a Drag operation (#5 on the mouse keyboard) is slightly different as 
 
 The 'Repeat Last' key (#6 on the mouse keyboard) allows you to repeat the last mouse action taken, which can be useful if you want to scroll down a long web page one scroll at a time, for example.
 
-N.B. If you have the Simulate Key Strokes key locked down then keys #16 to #19 on the mouse keyboard show you the state of the modifier keys (Shift, Ctrl, Win and Alt) and allows you to release any which are pressed/locked down. If you attempt a mouse action while a modifier key is pressed then you may experience unexpected behaviour. For example clicking on a file in File Explorer while the Ctrl key is pressed adds the file to the current selection, rather than simply selecting the file.
+*N.B. If you have the Simulate Key Strokes key locked down then keys #16 to #19 on the mouse keyboard show you the state of the modifier keys (Shift, Ctrl, Win and Alt) and allows you to release any which are pressed/locked down. If you attempt a mouse action while a modifier key is pressed then you may experience unexpected behaviour. For example clicking on a file in File Explorer while the Ctrl key is pressed adds the file to the current selection, rather than simply selecting the file.*
 
 ---
 
@@ -221,7 +221,7 @@ Whole phrases are types in the same way as whole words, but instead of typing ea
 
 3. Stay on the last letter ("y") to select it and signal that you are finished capturing. The set of matching words and phrases will be calculated and the best choice output to the scratchpad (the rest of the suggestions will appear at the top, above the scratchpad).
 
-Don't forget that OptiKey will match your multi-key selection against its dictionary - see ['Changing and editing the dictionary'] (https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide##changing-and-editing-the-dictionary) for info on how to add and remove words and phrases.
+*N.B. OptiKey can only find matches for your multi-key selection in its dictionary - see ['Changing and editing the dictionary'] (https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide##changing-and-editing-the-dictionary) for info on how to add and remove words and phrases.*
 
 ---
 
