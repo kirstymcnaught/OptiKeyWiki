@@ -225,7 +225,7 @@ Don't forget that OptiKey will match your multi-key selection against its dictio
 
 ---
 
-##<a name="auto-capitalisation-&-auto-spacing">Auto-capitalisation & auto-spacing</a>
+##<a name="auto-capitalisation-and-auto-spacing">Auto-capitalisation & auto-spacing</a>
 
 To help increase your typing rate OptiKey will work out if your next word is the start of a new sentence and press the Shift key for you to capitalise the next letter. This works when typing letter by letter, as well as typing whole words using multikey selection.
 
