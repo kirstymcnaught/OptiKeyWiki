@@ -227,11 +227,11 @@ Whole phrases are types in the same way as whole words, but instead of typing ea
 
 ##<a name="auto-capitalisation-and-auto-spacing">Auto-capitalisation & auto-spacing</a>
 
-To help increase your typing rate OptiKey will work out if your next word is the start of a new sentence and press the Shift key for you to capitalise the next letter. This works when typing letter by letter, as well as typing whole words using multikey selection.
+OptiKey can help to increase your typing rate by working out if your next word is the start of a new sentence and automatically pressing the Shift key for you to capitalise the next letter. This works when typing letter by letter, as well as typing whole words using multikey selection.
 
-OptiKey speeds things up further by automatically inserting spaces between words and sentences. This works best when using multikey selection to enter whole words and phrases.
+OptiKey can further speeds things up by automatically inserting spaces between words and sentences. This works best when using multi-key selection to enter whole words and phrases.
 
-*Both of these features are on by default, but can be toggled on or off from the Management Console (with OptiKey focussed press ALT + M).*
+*Both of these features are turned ON by default, but can be toggled on or off from the Management Console (with OptiKey focussed press ALT + M).*
 
 ---
 
