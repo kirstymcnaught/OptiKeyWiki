@@ -231,7 +231,7 @@ To help increase your typing rate OptiKey will work out if your next word is the
 
 OptiKey speeds things up further by automatically inserting spaces between words and sentences. This works best when using multikey selection to enter whole words and phrases.
 
-Both of these features are on by default, but can be toggled on or off from the Management Console (with OptiKey focussed press ALT + M).
+*Both of these features are on by default, but can be toggled on or off from the Management Console (with OptiKey focussed press ALT + M).*
 
 ---
 
