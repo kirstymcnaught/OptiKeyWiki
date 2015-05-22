@@ -225,3 +225,13 @@ Don't forget that OptiKey will match your multi-key selection against its dictio
 
 ---
 
+##<a name="auto-capitalisation-&-auto-spacing">Auto-capitalisation & auto-spacing</a>
+
+To help increase your typing rate OptiKey will work out if your next word is the start of a new sentence and press the Shift key for you to capitalise the next letter. This works when typing letter by letter, as well as typing whole words using multikey selection.
+
+OptiKey speeds things up further by automatically inserting spaces between words and sentences. This works best when using multikey selection to enter whole words and phrases.
+
+Both of these features are on by default, but can be toggled on or off from the Management Console (with OptiKey focussed press ALT + M).
+
+---
+
