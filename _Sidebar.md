@@ -23,7 +23,7 @@
  * [Edit the dictionary from the Management Console](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#edit-the-dictionary-from-the-management-console)
  * [Edit the dictionary from the scratchpad](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#edit-the-dictionary-from-the-scratchpad)
  * [Change the dictionary language](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-the-dictionary-language)
-* [Change OptiKey's size, position and opacity](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-size-position-and-opacity)
+* [Change size, position and opacity](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-size-position-and-opacity)
  * [Size & opacity keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#size-and-opacity-keyboard)
  * [Position & opacity keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#position-and-opacity-keyboard)
 * [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-the-theme)
