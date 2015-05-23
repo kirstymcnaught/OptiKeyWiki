@@ -307,40 +307,26 @@ OptiKey can be resized, moved and made more or less transparent. Select the Menu
 ![Size & Opacity keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Size_And_Opacity_Numbered.png)
 
     #1-8: Expand OptiKey in selected direction by number of pixels shown on key #9
-
     #9: Toggle through a sequence which controls how many pixels to resize by when using keys #1-8 and #10-17
-
     #10-17: Shrink OptiKey in selected direction by number of pixels shown on key #9
-
     #18: Restore OptiKey to previous size (if maximised)
-
     #19: Maximise OptiKey
-
     #20: Decrease opacity, i.e. make OptiKey more see-through
-
     #21: Increase opacity, i.e. make OptiKey less see-through
-
     #22: Return to previous (Menu) keyboard
 
 <a name="position-and-opacity-keyboard">**Position & opacity keyboard**</a>
 
 ![Position & Opacity keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Position_And_Opacity_Numbered.png)
 
-    #1-8: Move OptiKey in selected direction by number of pixels shown on key #9
-
-    #9: Toggle through a sequence which controls how many pixels to move by when using keys #1-8
-
-    #10-17: Jump (move) OptiKey to selected screen boundary
-
-    #18: Restore OptiKey to previous size (if maximised)
-
-    #19: Maximise OptiKey
-
-    #20: Decrease opacity, i.e. make OptiKey more see-through
-
-    #21: Increase opacity, i.e. make OptiKey less see-through
-
-    #22: Return to previous (Menu) keyboard
+ #1-8: Move OptiKey in selected direction by number of pixels shown on key #9
+ #9: Toggle through a sequence which controls how many pixels to move by when using keys #1-8
+ #10-17: Jump (move) OptiKey to selected screen boundary
+ #18: Restore OptiKey to previous size (if maximised)
+ #19: Maximise OptiKey
+ #20: Decrease opacity, i.e. make OptiKey more see-through
+ #21: Increase opacity, i.e. make OptiKey less see-through
+ #22: Return to previous (Menu) keyboard
 
 ---
 
