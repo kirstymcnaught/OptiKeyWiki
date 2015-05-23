@@ -247,7 +247,7 @@ The default dictionary contains many common words and phrases, but you will prob
 
 2. To add a new word or phrase type it (as a lower case word unless it is a proper noun, abbreviation, etc) in the box at the top (#1 in the screenshot) and click 'Add' to add it to the dictionary.
 
-3. To remove an entry just click the 'Delete' button next to it.
+3. To remove an entry just click the 'Delete' button next to it (#2 in the screenshot).
 
 4. Click 'OK' to save your changes.
 
@@ -274,6 +274,8 @@ To add a phrase it is very similar:
 2. Type the phrase exactly as you would like it to be available in the dictionary. You don't need to capitalise the first letter unless it is a proper noun as OptiKey will auto capitalise the first letter if it is the start of a new sentence (if that setting is turned on - see [Auto-capitalisation](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#auto-capitalisation-and-auto-spacing) for more).
 
 3. Select the Add To Dictionary key.
+
+    ![Editing the dictionary from the Management Console](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_AddToDictionary_Up.png)
 
 4. Confirm to add the phrase when asked. OptiKey will also ask you if you would like to add any new words that appear in your phrase - choose to confirm if the word is useful, or skip if not.
 
