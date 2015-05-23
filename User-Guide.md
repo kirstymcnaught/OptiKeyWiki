@@ -294,7 +294,7 @@ To change the dictionary language used by OptiKey:
 
 ---
 
-##<a name="change-optikeys-size-position-and-opacity">Change OptiKey's size, position and opacity</a>
+##<a name="change-size-position-and-opacity">Change size, position and opacity</a>
 
 OptiKey can be resized, moved and made more or less transparent. Select the Menu key and then the Size & Opacity key (#6 on the menu keyboard) or Position & Opacity key (#7 on the menu keyboard):
 
@@ -327,6 +327,12 @@ OptiKey can be resized, moved and made more or less transparent. Select the Menu
     #20: Decrease opacity, i.e. make OptiKey more see-through
     #21: Increase opacity, i.e. make OptiKey less see-through
     #22: Return to previous (Menu) keyboard
+
+---
+
+##<a name="change-theme">Change the theme</a>
+
+
 
 ---
 
