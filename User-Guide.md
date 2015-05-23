@@ -338,7 +338,7 @@ OptiKey can be resized, moved and made more or less transparent. Select the Menu
 
 3. Change the 'Theme' (#1 in the screenshot).
 
-![Change the theme from the Management Console](http://juliussweetland.github.io/OptiKey/images/Management_Console_Visual_Numbered.png)
+  ![Change the theme from the Management Console](http://juliussweetland.github.io/OptiKey/images/Management_Console_Visual_Numbered.png)
 
 4. Click the OK button at the bottom.
 
