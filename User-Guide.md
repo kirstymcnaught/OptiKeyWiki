@@ -354,10 +354,11 @@ If you only want to use the speech feature of OptiKey, then you can simplify Opt
 
 3. Change the 'Keyboard Set' to 'Speech Only' (#7 in the screenshot):
 
-  ![Change the theme from the Management Console](http://juliussweetland.github.io/OptiKey/images/Management_Console_Visual_Numbered.png)
+  ![Change the Keyboard Set from the Management Console](http://juliussweetland.github.io/OptiKey/images/Management_Console_Visual_Numbered.png)
 
-4. Click the OK button at the bottom to save your changes. OptiKey may need to restart.
+4. Click the OK button at the bottom to save your changes:
+
+  ![Speech only keyboard](http://juliussweetland.github.io/OptiKey/images/Keyboard_Alpha_Speech_Only.png)
 
 ---
-
 
