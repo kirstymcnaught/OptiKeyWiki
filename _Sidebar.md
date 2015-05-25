@@ -9,7 +9,6 @@
 
 **[User Guide](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide)**
 * [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word)
-* [Suggestions](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#suggestions)
 * [Numbers, Symbols & Diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#numbers-symbols-&-diacritics)
 * [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#using-eye-trackers)
 * [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-selection-method)
@@ -19,6 +18,7 @@
 * [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection)
  * [Typing whole words](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#typing-whole-words)
  * [Typing whole phrases](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#typing-whole-phrases)
+* [Suggestions](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#suggestions)
 * [Auto-capitalisation & auto-spacing](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#auto-capitalisation-and-auto-spacing)
 * [The dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#the-dictionary)
  * [Edit the dictionary from the Management Console](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#edit-the-dictionary-from-the-management-console)
