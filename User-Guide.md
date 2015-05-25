@@ -343,3 +343,21 @@ OptiKey can be resized, moved and made more or less transparent. Select the Menu
 4. Click the OK button at the bottom.
 
 ---
+
+##<a name="speech-only-mode">Speech only mode</a>
+
+If you only want to use the speech feature of OptiKey, then you can simplify OptiKey to only the keys you need:
+
+1. Open the Management Console (with OptiKey focussed press ALT + M).
+
+2. Select the 'Visuals' tab at the top.
+
+3. Change the 'Keyboard Set' to 'Speech Only' (#7 in the screenshot):
+
+  ![Change the theme from the Management Console](http://juliussweetland.github.io/OptiKey/images/Management_Console_Visual_Numbered.png)
+
+4. Click the OK button at the bottom to save your changes. OptiKey may need to restart.
+
+---
+
+
