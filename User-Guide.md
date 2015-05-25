@@ -18,31 +18,6 @@ or the BackMany key to delete the last whole word:
 
 That's all there is to start selecting keys and typing words!
 
----
-
-##<a name="suggestions">Suggestions</a>
-
-After typing each letter in a word or completing a multi-key selection (see [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection) for more), OptiKey will suggest words above the scratchpad. You can scroll through the suggestions using the Previous Suggestions and Next Suggestions keys:
-
-![Previous suggestions key](http://juliussweetland.github.io/OptiKey/images/Key_Previous_Suggestions_Up.png)
-
-![Next suggestions key](http://juliussweetland.github.io/OptiKey/images/Key_Next_Suggestions_Up.png)
-
-Select a suggestion to complete your current word, or swap the current multi-key selection match with the selection.
-
-![Selecting a suggestion](http://juliussweetland.github.io/OptiKey/images/Selecting_A_Suggestions.png)
-
-Auto-completion of words can be toggled on or off from the Management Console:
-
-1. Open the Management Console (with OptiKey focussed press ALT + M).
-
-2. Select the 'Words' tab at the top.
-
-3. Toggle the auto complete words checkbox (#4 in the screenshot):
-
-  ![Turn auto complete words setting on or off](http://juliussweetland.github.io/OptiKey/images/Management_Console_Words_Numbered.png)
-
-4. Click the OK button at the bottom to save your changes.
 
 ---
 
@@ -251,6 +226,32 @@ Whole phrases are types in the same way as whole words, but instead of typing ea
 
 ---
 
+##<a name="suggestions">Suggestions</a>
+
+After typing each letter in a word or completing a multi-key selection (see [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection) for more), OptiKey will suggest words above the scratchpad. You can scroll through the suggestions using the Previous Suggestions and Next Suggestions keys:
+
+![Previous suggestions key](http://juliussweetland.github.io/OptiKey/images/Key_Previous_Suggestions_Up.png)
+
+![Next suggestions key](http://juliussweetland.github.io/OptiKey/images/Key_Next_Suggestions_Up.png)
+
+Select a suggestion to complete your current word, or swap the current multi-key selection match with the selection.
+
+![Selecting a suggestion](http://juliussweetland.github.io/OptiKey/images/Selecting_A_Suggestions.png)
+
+Auto-completion of words can be toggled on or off from the Management Console:
+
+1. Open the Management Console (with OptiKey focussed press ALT + M).
+
+2. Select the 'Words' tab at the top.
+
+3. Toggle the auto complete words checkbox (#4 in the screenshot):
+
+  ![Turn auto complete words setting on or off](http://juliussweetland.github.io/OptiKey/images/Management_Console_Words_Numbered.png)
+
+4. Click the OK button at the bottom to save your changes.
+
+---
+
 ##<a name="auto-capitalisation-and-auto-spacing">Auto-capitalisation & auto-spacing</a>
 
 OptiKey can help to increase your typing rate by working out if your next word is the start of a new sentence and automatically pressing the Shift key for you to capitalise the next letter. This works when typing letter by letter, as well as typing whole words using multikey selection.
@@ -404,4 +405,3 @@ OptiKey will be temporarily disabled and wait for you to wake it by selecting th
 
 
 ---
-
