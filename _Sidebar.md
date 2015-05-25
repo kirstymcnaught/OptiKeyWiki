@@ -8,7 +8,8 @@
 * [Eye Trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)
 
 **[User Guide](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide)**
-* [Type Your First Word](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word)
+* [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word)
+* [Suggestions](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#suggestions)
 * [Numbers, Symbols & Diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#numbers-symbols-&-diacritics)
 * [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#using-eye-trackers)
 * [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-selection-method)
