@@ -28,6 +28,7 @@
  * [Position & opacity keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#position-and-opacity-keyboard)
 * [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-the-theme)
 * [Speech only mode](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#speech-only-mode)
+* [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#sleep)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
 
