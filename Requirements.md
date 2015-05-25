@@ -1,4 +1,4 @@
-##<a name="device-os-requirements">Supported Devices & Operating Systems</a>
+##<a name="device-os-requirements">Supported devices & operating systems</a>
 
 OptiKey should work on any Windows pc/laptop/tablet that is capable of running the .Net 4.5 Framework, which should be any version of Windows from Vista SP2 onwards. I believe this is the current list:
 
