@@ -1,15 +1,15 @@
 **[Overview](https://github.com/JuliusSweetland/OptiKey/wiki)**
 
-**[Get Started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
+**[Get started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 * [Download latest](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.1.5/OptiKeySetup-1.1.5.exe)
 
 **[Requirements](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements)**
-* [Devices & Operating Systems](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#device-os-requirements)
-* [Eye Trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)
+* [Devices & operating systems](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#device-os-requirements)
+* [Eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)
 
-**[User Guide](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide)**
+**[User guide](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide)**
 * [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word)
-* [Numbers, Symbols & Diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#numbers-symbols-&-diacritics)
+* [Numbers, symbols & diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#numbers-symbols-&-diacritics)
 * [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#using-eye-trackers)
 * [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-selection-method)
 * [Make OptiKey speak](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#make-optikey-speak)
