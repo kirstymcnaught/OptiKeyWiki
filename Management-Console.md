@@ -96,7 +96,7 @@
 
 2. Time until point becomess irrelevent (ms): If the source device (e.g. an eye tracker) timestamps the location data, then this setting controls how old a received point can be before it is considered too old to be useful. These "stale" points will be logged for debugging purposes and then discarded.
 
-3. Key selection source: The method used to select a key - see ('Change selection method')[https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-selection-method] for more.
+3. Key selection source: The method used to select a key. Possible methods are fixations, keyboard keys and mouse buttons.
 
 4. Key fixation time to lock-on (ms): Specific to 'Key selection source' of 'Fixations', this setting dictates how long you must direct your attention to a key (using whatever 'Source' you have selected, e.g. by looking at a key when using an eye tracking source) before a fixation begins. The lock-on period is designed so that a deliberate pause is required on a key before a fixation begins. Without a 'lock-on' period every key will immediately begin a fixation as you direct your attention around the keyboard, which makes the interface busy and less clear.
 
@@ -106,7 +106,7 @@
 
     N.B. When your attention returns to an incomplete fixation there will be an initial "lock-on" period again (the length of which is dictated by the 'Key fixation time to lock-on (ms)' setting). The fixation can time out and be discarded during this lock-on period.
 
-7. Point selection source:
+7. Point selection source: The method used to select a point when simulating a physical mouse (see ['Simulate a physical mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse) for more. Possible methods are fixations, keyboard keys and mouse buttons.
 
 8. Point fixation time to lock-on (ms):
 
