@@ -19,6 +19,7 @@
 7. Keyboard set: The set of keyboards to use.
 
     'Standard' is the default set and includes the most features.
+
     'Speech Only' is a simplified keyboard set, designed when you only want to use OptiKey to type and speak words and sentences.
 
 <a name="visuals-font">**Font**</a>
