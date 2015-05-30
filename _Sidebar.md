@@ -39,6 +39,7 @@
 * [Sound settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds)
  * [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds-speech)
  * [Sound effects](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds-sounds-effects)
+* [Word settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#words)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
 
