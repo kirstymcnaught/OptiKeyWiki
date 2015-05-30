@@ -180,4 +180,4 @@
 
 2. Check for updates on startup: Enable/disable the automatic check for newer versions of OptiKey. If update checks are enabled, and an update exist, then a splash screen is displayed for a few seconds to prompt you to download the new version.
 
-3. Debugging mode: Enable/disable debugging mode, which displays the current capture rate of the position source, the points detected during a multi-key capture, and turns on verbose logging, which is useful to debug problems with OptiKey.
+3. Debugging mode: Enable/disable debugging mode, which displays the current capture rate of the position source, the points detected during a multi-key capture, and turns on verbose logging, which is helpful when debugging problems with OptiKey.
