@@ -156,3 +156,22 @@ N.B. When your attention returns to an incomplete fixation there will be an init
 
 ---
 
+##<a name="dictionary">Dictionary management</a>
+
+![Management Console Dictionary tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Dictionary_Numbered.png)
+
+1. Add new entry:
+
+2. Delete existing entry:
+
+---
+
+##<a name="other">Other settings</a>
+
+![Management Console Other tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Other_Numbered.png)
+
+1. Show splash screen on startup:
+
+2. Check for updates on startup:
+
+3. Debugging mode:
