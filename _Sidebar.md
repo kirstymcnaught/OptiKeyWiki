@@ -45,6 +45,8 @@
  * [Pointing with a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#pointing-with-a-mouse)
  * [Selecting with a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#selecting-with-a-mouse)
  * [Selecting with a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#selecting-with-a-keyboard)
+* [Dictionary management](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#dictionary)
+* [Other settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#other)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
 
