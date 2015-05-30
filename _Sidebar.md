@@ -31,6 +31,11 @@
 * [Speech only mode](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#speech-only-mode)
 * [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#sleep)
 
+* [Management console](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console)
+ * [Look](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#visuals-look)
+ * [Font](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#visuals-font)
+ * [Notifications](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#visuals-notifications)
+
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
 
 **[License](https://github.com/JuliusSweetland/OptiKey/wiki/License)**
