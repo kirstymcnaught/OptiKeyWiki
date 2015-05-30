@@ -1,4 +1,4 @@
-##<a name="visuals">Visuals</a>
+##<a name="visuals">Visual settings</a>
 
 ![Management Console Visual tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Visual_Numbered.png)
 
@@ -37,9 +37,9 @@
 
 ---
 
-##<a name="sounds">Sounds</a>
+##<a name="sounds">Sound settings</a>
 
-![Management Console Sounds tab](Management_Console_Sounds_Numbered.png)
+![Management Console Sounds tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Sounds_Numbered.png)
 
 <a name="sounds-speech">**Speech**</a>
 
@@ -66,6 +66,92 @@
 10. Mouse double click: The sound to play when a mouse double click is simulated.
 
 11. Mouse scroll: The sound to play when a mouse scroll is simulated.
+
+---
+
+##<a name="words">Word settings</a>
+
+![Management Console Words tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Words_Numbered.png)
+
+1. Language: The dictionary used when auto-completing words and generating multi-key selection matches.
+
+2. Auto space between words: Whether a space will be automatically injected between words.
+
+3. Auto capitalise words: Whether the Shift key will be automatically pressed to capitalise the first letter of the next word when a new sentence is detected.
+
+4. Auto complete words: Whether suggestions will be generated to complete an in-progress word.
+
+5. Maximum number of dictionary matches: How many word matches will be generated for a multi-key selection.
+
+---
+
+##<a name="pointing-and-selecting">Pointing & selecting settings</a>
+
+![Management Console Pointing and Selecting tab with TheEyeTribe position and selecting source](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_EyeTribe_Numbered.png)
+
+<a name="pointing-and-selecting-with-an-eye-tracker">**Pointing & selecting with an eye tracker**</a>
+
+1. Source: Which device is providing location data, e.g. the mouse, an eye tracker, etc.
+
+2. Time until point becomess irrelevent (ms): If the source device (e.g. an eye tracker) timestamps the location data, then this setting controls how old a received point can be before it is considered too old to be useful. These "stale" points will be logged for debugging purposes and then discarded.
+
+3. Key selection source: The method used to select a key - see ('Change selection method')[https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-selection-method] for more.
+
+4. Key fixation time to lock-on (ms): Specific to 'Key selection source' of 'Fixations', this setting dictates how long you must direct your attention to a key (using whatever 'Source' you have selected, e.g. by looking at a key when using an eye tracking source) before a fixation begins. The lock-on period is designed so that a deliberate pause is required on a key before a fixation begins. Without a 'lock-on' period every key will immediately begin a fixation as you direct your attention around the keyboard, which makes the interface busy and less clear.
+
+5. Key fixation time to complete (ms): Specific to 'Key selection source' of 'Fixations', this setting dictates how long you must direct your attention to a key (using whatever 'Source' you have selected, e.g. by looking at a key when using an eye tracking source) before a fixation completes. A lower number means fixations complete faster and you can type at a more rapid pace, but your likelihood of making unintended selections also increases. A higher number means fixations complete more slowly, restricting your typing pace, but reducing the chance of unintended selections.
+
+6. Incomplete key fixation time to live (ms): Specific to 'Key selection source' of 'Fixations', this setting dictates the period of time to keep an in-progress fixation when that key loses attention, e.g. you direct your attention at the letter "A" until the fixation is 50% complete, at which point you look away to the letter "L" - the fixation on the letter "A" will remain and can be continued for the period of time defined by this setting. If the fixation is not resumed by returning your attention to the "A" key then it will be discarded.
+
+N.B. When your attention returns to an incomplete fixation there will be an initial "lock-on" period again (the length of which is dictated by the 'Key fixation time to lock-on (ms)' setting). The fixation can time out and be discarded during this lock-on period.
+
+7. Point selection source:
+
+8. Point fixation time to lock-on (ms):
+
+9. Point fixation time to complete (ms):
+
+10. Point lock-on radius (pixels):
+
+11. Point fixation radius (pixels):
+
+12. Minimum dwell time on a key to include in capture (ms):
+
+13. Capture timeout (ms):
+
+<a name="pointing-with-a-mouse">**Pointing with a mouse**</a>
+
+![Management Console Pointing and Selecting tab with mouse position source](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Mouse_Pointing_Section_Numbered.png)
+
+1. Source:
+
+2. Mouse position sample interval (ms):
+
+3. Time until point becomes irrelevent (ms):
+
+<a name="selecting-with-a-mouse">**Selecting with a mouse**</a>
+
+![Management Console Pointing and Selecting tab with mouse selection trigger](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Mouse_Button_Trigger_Section_Numbered.png)
+
+1. Key selection source:
+
+2. Selection mouse button:
+
+3. Point selection source:
+
+4. Selection mouse button:
+
+<a name="selecting-with-a-keyboard">**Selecting with a keyboard**</a>
+
+![Management Console Pointing and Selecting tab with keyboard selection trigger](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Keyboard_Key_Trigger_Section_Numbered.png)
+
+1. Key selection source:
+
+2. Selection keyboard key:
+
+3. Point selection source:
+
+4. Selection keyboard key:
 
 ---
 
