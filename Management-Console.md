@@ -108,13 +108,13 @@
 
 7. Point selection source: The method used to select a point when simulating a physical mouse (see ['Simulate a physical mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse) for more. Possible methods are fixations, keyboard keys and mouse buttons.
 
-8. Point fixation time to lock-on (ms):
+8. Point fixation time to lock-on (ms): Specific to 'Point selection source' of 'Fixations', this setting dictates how long you must direct your attention to a point (using whatever 'Source' you have selected, e.g. by looking at a point on the screen when using an eye tracking source) before a fixation begins. The lock-on period is designed so that a deliberate pause is required on an area of the screen before a fixation begins. Without a 'lock-on' period point selections will begin as soon as you direct your attention to any point on the screen, which makes point selection difficult.
 
-9. Point fixation time to complete (ms):
+9. Point fixation time to complete (ms): Specific to 'Point selection source' of 'Fixations', this setting dictates how long you must direct your attention to a point (using whatever 'Source' you have selected, e.g. by looking at a key when using an eye tracking source) before a fixation completes. A lower number means fixations complete faster and you can make selections at a more rapid pace, but your likelihood of making unintended selections also increases. A higher number means fixations complete more slowly, restricting your selection pace, but reducing the chance of unintended selections.
 
-10. Point lock-on radius (pixels):
+10. Point lock-on radius (pixels): Specific to 'Point selection source' of 'Fixations', this setting dictates the size of the initial 'lock-on' area. Your attention must remain completely inside this area for the lock-on time before a fixation begins. A larger radius results in a larger lock-on area (the area is a circle) making it easier to keep your attention within the bounds and begin a fixation, but reduces the accuracy of your selection. A smaller radius results in a smaller lock-on area making it more challenging to keep your attention within the bounds and begin a fixation, but increasing the accuracy of your selection.
 
-11. Point fixation radius (pixels):
+11. Point fixation radius (pixels): Specific to 'Point selection source' of 'Fixations', this setting dictates the size of the fixation area (after the initial lock-on). Your attention must remain completely inside this area for the fixation to complete. A larger radius results in a larger fixation area (the area is a circle) making it easier to keep your attention within the bounds and complete the fixation, but more difficult to deliberately break the fixation by directing your attention elsewhere. A smaller radius results in a smaller fixation area making it more challenging to keep your attention within the bounds and complete the fixation, but easer to deliberately break the fixation by directing your attention elsewhere. 
 
 12. Minimum dwell time on a key to include in capture (ms):
 
