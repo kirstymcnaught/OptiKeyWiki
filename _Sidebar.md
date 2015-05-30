@@ -40,6 +40,11 @@
  * [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds-speech)
  * [Sound effects](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds-sounds-effects)
 * [Word settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#words)
+* [Pointing & selecting settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#pointing-and-selecting)
+ * [Pointing & selecting with an eye tracker](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#pointing-and-selecting-with-an-eye-tracker)
+ * [Pointing with a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#pointing-with-a-mouse)
+ * [Selecting with a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#selecting-with-a-mouse)
+ * [Selecting with a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#selecting-with-a-keyboard)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
 
