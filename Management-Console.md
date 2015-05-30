@@ -164,9 +164,11 @@
 
 ![Management Console Dictionary tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Dictionary_Numbered.png)
 
-1. Add new entry:
+1. Add new entry: Type a new dictionary entry (word or phrase) and click the 'Add' button to include in the dictionary. Click 'OK' to persist your changed.
 
-2. Delete existing entry:
+    N.B. Unless the word is a proper noun, or should always be capitalised, the new entry should be in lower case.
+
+2. Delete existing entry: Click the 'Delete' button next to any entry that you wish to remove from the dictionary. Click 'OK' to persist your changed.
 
 ---
 
