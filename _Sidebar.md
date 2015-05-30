@@ -36,6 +36,9 @@
  * [Look](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#visuals-look)
  * [Font](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#visuals-font)
  * [Notifications](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#visuals-notifications)
+* [Sound settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds)
+ * [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds-speech)
+ * [Sound effects](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds-sounds-effects)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
 
