@@ -50,6 +50,16 @@
 * [Other settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#other)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
+* [Smart Screen warning](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#smart-screen-warning)
+* [Cannot open Management Console](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#cannot-open-management-console)
+* [Eye tracker won't start or stops](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#eye-tracker-wont-start-or-stops)
+* [Factory reset all settings](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#factory-reset-all-settings)
+* [Factory reset the dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#factory-reset-the-dictionary)
+* [Multiple monitors](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#multiple-monitors)
+* [No Menu key](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#no-menu-key)
+* [Mouse simulation issues](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#mouse-simulation-issues)
+* [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#multi-key-selection-issues)
+* [Other issues](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#other-issues)
 
 **[License](https://github.com/JuliusSweetland/OptiKey/wiki/License)**
 
