@@ -29,7 +29,7 @@ If the console is still not opening then check that OptiKey is not currently sim
 
 3. Check the eye tracking software's logs, for example if you are using TheEyeTribe tracker then both the server and client applications produce logs. Are there any messages explaining that something has gone wrong (these are usually marked with WARNING or ERROR). Not sure how to find the logs or how to read them then please email me at [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com).
 
-* Poor eye tracking performance/accuracy.*
+*Poor eye tracking performance/accuracy.*
 
 1. Check that the eye tracking device is connected securely to the computer/laptop/tablet.
 
@@ -113,33 +113,54 @@ If you are unable to see the Menu key you may be running in 'Speech Only' mode (
 
 *Mouse actions are not working as expected.*
 
-Mouse actions (clicking, scrolling, etc) can be impacted by certain keys, called modifier keys (Shift, Ctrl, Win, or Alt). If you are attempting to click/scroll/other mouse action and nothing/something unexpected is happening, then it may be because one of these keys is pressed and you have the Simulate Key Strokes key locked down (see ('Simulate a physical keyboard'[https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-keyboard] for more). The mouse keyboard contains a section to show you the state of the modifier keys - you can release the modifier keys individually from the mouse keyboard, or return to the main keyboard and release the Simulate Key Strokes key.
+Mouse actions (clicking, scrolling, etc) can be impacted by certain keys, called modifier keys (Shift, Ctrl, Win, or Alt). If you are attempting to click/scroll/other mouse action and nothing/something unexpected is happening, then it may be because one of these keys is pressed and you have the Simulate Key Strokes key locked down (see ['Simulate a physical keyboard'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-keyboard) for more). The mouse keyboard contains a section to show you the state of the modifier keys - you can release the modifier keys individually from the mouse keyboard, or return to the main keyboard and release the Simulate Key Strokes key.
 
 ---
 
+##<a name="multi-key-selection-issues">Multi-key selection issues</a>
 
-Bad or failed multikey selection matches - too sensitive, word/phrase not in dictionary.
-If you are finding that multikey selections are producing bad or unexpected results then it may be that OptiKey is being too sensitive or not sensitive enough when registering your interest in the letters which make up your intended word. In other words OptiKey may be including letters you did not mean to glance at, or missing letters you intentionally glance at. First decided which you think is most likely; if you are given matches which include letters that you only glanced at accidentally then OptiKey is probably being too sensitive. If, however, it is missing letters that you looked at intentionally then it is probably not being sensitive enough.
+*Bad or failed multikey selection matches - too sensitive, word/phrase not in dictionary.*
 
-To decrease OptiKey's sensitivity:
-1.With OptiKey focussed press ALT + M to open the Management Console.
-2.Select the 'Pointing & Selecting' tab and scroll down to the "Multi-Key Selection" section.
-3.Change the setting 'Minimum dwell time on a key to include in capture (ms)' to a larger value. If the current value is 50ms, for example, then try 100ms (a 10th of a second), or even larger. This setting controls how long you need to direct your attention to each key (letter) in a multi-key selection before OptiKey registers your interest in that letter. If you set the value to 500(ms) then you would need to hold your attention on each key (letter) in the multi-key selection for half a second before OptiKey would consider you "interested" in that letter. 
+If you are finding that multi-key selections are producing bad or unexpected results then it may be that OptiKey is being too sensitive or not sensitive enough when registering your interest in the letters which make up your intended word. In other words OptiKey may be including letters you did not mean to glance at, or missing letters you intentionally glance at. 
 
-To increase OptiKey's sensitivity:
-1.With OptiKey focussed press ALT + M to open the Management Console.
-2.Select the 'Pointing & Selecting' tab and scroll down to the "Multi-Key Selection" section.
-3.Change the setting 'Minimum dwell time on a key to include in capture (ms)' to a smaller value. If the current value is 250ms, for example, then try 100ms (a 10th of a second), or even smaller. This setting controls how long you need to direct your attention to each key (letter) in a multi-key selection before OptiKey registers your interest in that letter. If you set the value to 100(ms) then you would need to hold your attention on each key (letter) in the multi-key selection for a tenth of a second before OptiKey would consider you "interested" in that letter.
+First decide which you think is most likely; if you are given matches which include letters that you only glanced at accidentally then OptiKey is probably being too sensitive. If, however, it is missing letters that you looked at intentionally then it is probably not being sensitive enough.
 
-Not sure whether the sensitivity should be decreased or increased? Send me an email with as much detail as possible about what you attempted to capture and what OptiKey suggested. I'll work with you to figure out the problem and suggest how to tweak your settings to improve your experience.
+**To decrease OptiKey's sensitivity:**
 
+1. With OptiKey focussed press ALT + M to open the Management Console.
 
-Crash? Unexpected behaviour? Something else wrong?  
-If something isn't working as you'd expect, you encounter a crash, a freeze, or something else horrible, then let me know and I'll get it fixed for you. I need something from you though; as much information about the problem as you can supply. Here's the ideal list of things your email will contain;
-1. Logs. Developers love logs. You'll need to turn on 'Debugging mode' first (in the Management Console which is accessed by pressing ALT+M, in the 'Other' section). Turn that on then do whatever you did before to cause the unexpected problem, crash, or whatever it was, then close OptiKey. The logs are stored in a special directory which is personal to you. On Windows this will be (open File Explorer and find this directory);
-C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland\Logs
-Grab the latest log file (the modified date on the file will be the most recent) and attach it to an email to optikeyfeedback@gmail.com, but don't send it just yet! I also need...
+2. Select the 'Pointing & Selecting' tab and scroll down to the "Multi-Key Selection" section.
+
+3. Change the setting 'Minimum dwell time on a key to include in capture (ms)' to a larger value. If the current value is 50ms, for example, then try 100ms (a 10th of a second), or even larger. This setting controls how long you need to direct your attention to each key (letter) in a multi-key selection before OptiKey registers your interest in that letter. If you set the value to 500(ms) then you would need to hold your attention on each key (letter) in the multi-key selection for half a second before OptiKey would consider you "interested" in that letter. 
+
+**To increase OptiKey's sensitivity:**
+
+1. With OptiKey focussed press ALT + M to open the Management Console.
+
+2. Select the 'Pointing & Selecting' tab and scroll down to the "Multi-Key Selection" section.
+
+3. Change the setting 'Minimum dwell time on a key to include in capture (ms)' to a smaller value. If the current value is 250ms, for example, then try 100ms (a 10th of a second), or even smaller. This setting controls how long you need to direct your attention to each key (letter) in a multi-key selection before OptiKey registers your interest in that letter. If you set the value to 100(ms) then you would need to hold your attention on each key (letter) in the multi-key selection for a tenth of a second before OptiKey would consider you "interested" in that letter.
+
+Not sure whether the sensitivity should be decreased or increased? Send me an email at [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com) with as much detail as possible about what you attempted to capture and what OptiKey suggested. I'll work with you to figure out the problem and suggest how to tweak your settings to improve your experience.
+
+---
+
+##<a name="other-issues">Other issues</a>
+
+*Crash? Unexpected behaviour? Something else wrong?*
+
+If something isn't working as you'd expect, you encounter a crash, a freeze, or something else horrible, then let me know by emailing me and I'll get it fixed for you. I need as much information about the problem as you can supply. Here's the ideal list of things your email will contain;
+
+1. Logs. Developers love logs. You'll need to turn on 'Debugging mode' first (in the 'Other'tab of the Management Console, which is accessed by pressing ALT + M with OptiKey focussed). Turn that setting on then do whatever you did before to cause the unexpected problem, crash, or whatever it was, then close OptiKey. The logs are stored in a special directory which is personal to you. On Windows this will be (open File Explorer and find this directory);
+
+**C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland\Logs**
+
+Grab the latest log file (the modified date on the file will be the most recent) and attach it to an email to [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com), but don't send it just yet! I also need...
+
 2. A short description of what you were doing when the problem occurred.
+
 3. What is the problem? A crash? OptiKey did one thing and you were expecting something else? 
+
 4. Anything else that you think is useful. Screenshots are amazing.
-I know it's demanding, but if you give me great info then I'll fix it and no-one else will have to send be that lot again.
+
+I know it's demanding, but if you give me great info then it's much easier for me to find and fix the problem.
