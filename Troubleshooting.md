@@ -19,7 +19,7 @@ If the console is still not opening then check that OptiKey is not currently sim
 
 ---
 
-##<a name="eye-tracker-issues">Eye tracker issues</a>
+##<a name="eye-tracker-wont-start-or-stops">Eye tracker won't start or stops</a>
 
 *Eye tracker not working or stops working.*
 
@@ -55,7 +55,7 @@ If the console is still not opening then check that OptiKey is not currently sim
 
 ---
 
-##<a name="factory-reset">Factory reset settings</a>
+##<a name="factory-reset-all-settings">Factory reset all settings</a>
 
 *Factory resetting / defaulting all settings.*
 
@@ -70,6 +70,10 @@ If you would like to return OptiKey to the state it is in when you first install
 4. Delete the other directories. For me that means deleting "OptiKey.exe_Url_2dm1ifc0wqzcnmfgnsyhbssrcdx5zgbz", but your folder names will vary.
 
 5. Start OptiKey again.
+
+---
+
+##<a name="factory-reset-the-dictionary">Factory reset the dictionary</a>
 
 *Resetting the dictionary.*
 
