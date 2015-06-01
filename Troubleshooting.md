@@ -59,11 +59,11 @@ If the console is still not opening then check that OptiKey is not currently sim
 
 *Factory resetting / defaulting all settings.*
 
-If you would like to return OptiKey to the state it is in when you first install it (all settings back to their original factory values), delete all of the directories that start with **"OptiKey.exe_"** in your roaming app data directory (C:\Users\*YOUR_USER_NAME*\AppData\Roaming\JuliusSweetland). For me (with a username of Julius) the steps would be;
+If you would like to return OptiKey to the state it is in when you first install it (all settings back to their original factory values), delete all of the directories that start with **"OptiKey.exe_"** in your roaming app data directory (C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland). For me (with a username of Julius) the steps would be;
 
 1. Close OptiKey if it is running.
 
-2. Navigate to C:\Users\*Julius*\AppData\Roaming\JuliusSweetland (don't worry if you don't see the "AppData" directory, it is hidden by default. Just type the path into the navigation bar at the top of File Explorer).
+2. Navigate to C:\Users\Julius\AppData\Roaming\JuliusSweetland (don't worry if you don't see the "AppData" directory, it is hidden by default. Just type the path into the navigation bar at the top of File Explorer).
 
 3. You will see one directory in there called "OptiKey" - leave that. It contains your log files and customised dictionary(ies).
 
@@ -77,7 +77,7 @@ If you would like to return OptiKey to the state it is in when you first install
 
 *Resetting the dictionary.*
 
-I wouldn't recommend this - perhaps just edit your dictionary in the Management Console (with OptiKey focussed press ALT + M) and then select the "Dictionary" tab. If you want to completely discard your current dictionary (including all data about which words you use commonly), then delete one or all of the dictionary files from your roaming app data directory (C:\Users\*YOUR_USER_NAME*\AppData\Roaming\JuliusSweetland\JuliusSweetland\OptiKey\Dictionaries). For me (with a username of Julius) the steps would be;
+I wouldn't recommend this - perhaps just edit your dictionary in the Management Console (with OptiKey focussed press ALT + M) and then select the "Dictionary" tab. If you want to completely discard your current dictionary (including all data about which words you use commonly), then delete one or all of the dictionary files from your roaming app data directory (C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland\JuliusSweetland\OptiKey\Dictionaries). For me (with a username of Julius) the steps would be;
 
 1. Close OptiKey if it is running.
 
