@@ -73,7 +73,7 @@ As an alternative to selecting keys with your mouse cursor, OptiKey also support
 
 ##<a name="change-selection-method">Change selection method</a>
 
-OptiKey supports a number of selection methods to select a key (or a point on the screen when controlling the mouse). We've seen the fixation method in the ['Type your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word) section, where you dwell over a key for a period of time until the selection is made, but you can also press a keyboard key or click a mouse button to indicate that you want to make a selection. 
+OptiKey supports a number of selection methods to select a key or select a point on the screen (when controlling the mouse). We've seen the fixation method in the ['Type your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word) section, where you dwell over a key for a period of time until the selection is made, but you can also press a keyboard key or click a mouse button to indicate that you want to make a selection. 
 
 1. To change the selection method open the Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab. 
 
