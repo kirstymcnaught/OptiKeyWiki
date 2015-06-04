@@ -49,7 +49,7 @@ Again, there are more diacritical characters or currency symbols than it is poss
 
 ##<a name="using-eye-trackers">Using eye trackers</a>
 
-As an alternative to selecting keys with your mouse cursor, OptiKey also supports selection using your eyes ([details of the currently supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)).
+OptiKey supports selection using your eyes ([details of the currently supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)).
 
 ![TheEyeTribe device setup](http://juliussweetland.github.io/OptiKey/images/theeyetribe-physical-setup.png)
 
@@ -68,6 +68,8 @@ As an alternative to selecting keys with your mouse cursor, OptiKey also support
 7. Click "OK" to save your changes. OptiKey may need to restart, but your changes will be saved.
 
 8. When OptiKey starts up again it will be listening to your eye tracker so try looking around rather than using the mouse cursor to make key selections.
+
+N.B. OptiKey will attempt to use your eye tracking device on each run (unless you change the Pointing source back to the mouse). The eye tracking device must be connected, the engine (software) must be running and it must be calibrated and ready to be used *before* OptiKey is started each time.
 
 ---
 
