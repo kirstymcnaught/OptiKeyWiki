@@ -69,7 +69,7 @@ OptiKey supports selection using your eyes ([details of the currently supported 
 
 8. When OptiKey starts up again it will be listening to your eye tracker so try looking around rather than using the mouse cursor to make key selections.
 
-N.B. OptiKey will attempt to use your eye tracking device on each run (unless you change the Pointing source back to the mouse). The eye tracking device must be connected, the engine (software) must be running and it must be calibrated and ready to be used *before* OptiKey is started each time.
+**N.B.** OptiKey will attempt to use your eye tracking device on each run (unless you change the Pointing source back to the mouse). The eye tracking device must be connected, the engine (software) must be running and it must be calibrated and ready to be used **before** OptiKey is started each time.
 
 ---
 
