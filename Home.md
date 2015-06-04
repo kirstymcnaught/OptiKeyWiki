@@ -1,6 +1,8 @@
-OptiKey is a free, open source, assistive on-screen keyboard which runs on Windows. It was designed to be used with an eye-tracking device to bring keyboard control, mouse control and speech to people with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
+OptiKey is an assistive on-screen keyboard which runs on Windows. It was designed to be used with an eye-tracking device to bring keyboard control, mouse control and speech to people with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
 
 The software includes a huge set of characters and symbols, support for word prediction and “swiping”, and a lot of customisable features such as visual themes, keyboard size, position, etc. It works out of the box once you have your eye-tracking device installed and allows selections to be made using physical buttons, dwell selection, etc. If you do not have an eye tracking device you can use OptiKey with a mouse.
+
+OptiKey can be downloaded for free and is fully open-source.
 
 ![The OptiKey keyboard showing the light and dark themes](http://juliussweetland.github.io/OptiKey/images/Keyboards_Alpha_Showing_Light_And_Dark_Themes.png)
 
