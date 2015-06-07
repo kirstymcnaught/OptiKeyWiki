@@ -2,7 +2,8 @@
 
 ![Management Console Visual tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Visual_Numbered.png)
 
-   <a name="visuals-look">**Look**</a>
+<a name="visuals-look" />
+    **Look**
 
 1. Theme: The look and feel of OptiKey.
 
