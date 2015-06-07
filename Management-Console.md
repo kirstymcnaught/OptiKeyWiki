@@ -22,7 +22,7 @@
 
     'Speech Only' is a simplified keyboard set, designed when you only want to use OptiKey to type and speak words and sentences.
 
-<a name="visuals-font">**Font**</a>
+    <a name="visuals-font">**Font**</a>
 
 8. Font family: The font to use throught OptiKey. This does not affect the Management Console.
 
