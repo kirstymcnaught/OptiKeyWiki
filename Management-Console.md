@@ -2,7 +2,7 @@
 
 ![Management Console Visual tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Visual_Numbered.png)
 
-* <a name="visuals-look">**Look**</a>
+<a name="visuals-look">**Look**</a>
 
 1. Theme: The look and feel of OptiKey.
 
@@ -22,7 +22,7 @@
 
     'Speech Only' is a simplified keyboard set, designed when you only want to use OptiKey to type and speak words and sentences.
 
-  * <a name="visuals-font">**Font**</a>
+    <a name="visuals-font">**Font**</a>
 
 8. Font family: The font to use throught OptiKey. This does not affect the Management Console.
 
@@ -42,7 +42,7 @@
 
 ![Management Console Sounds tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Sounds_Numbered.png)
 
-    <a name="sounds-speech">**Speech**</a>
+<a name="sounds-speech">**Speech**</a>
 
 1. Voice: The voice to use when OptiKey speaks the contents of the scratchpad. The available set of voices depends on which TTS (Text To Speech) voices you have installed in Windows. Additional voices can be installed from the Microsoft website, or purchased through 3rd party companies. Please email me at optikeyfeedback@gmail.com if you are unsure how to do this, or would like to share a good source of voices.
 
@@ -90,7 +90,7 @@
 
 ![Management Console Pointing and Selecting tab with TheEyeTribe position and selecting source](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_EyeTribe_Numbered.png)
 
-    <a name="pointing-with-an-eye-tracker">**Pointing with an eye tracker**</a>
+<a name="pointing-with-an-eye-tracker">**Pointing with an eye tracker**</a>
 
 1. Source: Which device is providing location data, e.g. the mouse, an eye tracker, etc. In this example the source is TheEyeTribe eye tracker.
 
@@ -124,7 +124,7 @@
 
 13. Capture timeout (ms): The maximum duration of a multi-key capture. If a multi-key capture exceeds this amount of time the capture will be discarded.
 
-    <a name="pointing-with-a-mouse">**Pointing with a mouse**</a>
+<a name="pointing-with-a-mouse">**Pointing with a mouse**</a>
 
 ![Management Console Pointing and Selecting tab with mouse position source](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Mouse_Pointing_Section_Numbered.png)
 
@@ -134,7 +134,7 @@
 
 3. Time until point becomes irrelevent (ms): As described above.
 
-    <a name="selection-with-a-mouse">**Selection with a mouse**</a>
+<a name="selection-with-a-mouse">**Selection with a mouse**</a>
 
 ![Management Console Pointing and Selecting tab with mouse selection trigger](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Mouse_Button_Trigger_Section_Numbered.png)
 
@@ -146,7 +146,7 @@
 
 4. Selection mouse button: The Mouse Button used to trigger a point selection.
 
-    <a name="selection-with-a-keyboard">**Selection with a keyboard**</a>
+<a name="selection-with-a-keyboard">**Selection with a keyboard**</a>
 
 ![Management Console Pointing and Selecting tab with keyboard selection trigger](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Keyboard_Key_Trigger_Section_Numbered.png)
 
