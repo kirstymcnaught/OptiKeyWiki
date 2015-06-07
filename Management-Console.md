@@ -8,9 +8,9 @@
 
 2. Scratchpad # of lines: How many lines of text to display in the scratchpad at the top of OptiKey (where your typed words appear). Fewer lines = large text.
 
-3. Cursor width (px): The width of the displayed cursor (mouse pointer) when simulating mouse input. Specified in device independent pixels (px).
+3. Cursor width (pixels): The width of the displayed cursor (mouse pointer) when simulating mouse input. Specified in pixels.
 
-4. Cursor height (px): The height of the displayed cursor (mouse pointer) when simulating mouse input. Specified in device independent pixels (px).
+4. Cursor height (pixels): The height of the displayed cursor (mouse pointer) when simulating mouse input. Specified in pixels.
 
 5. Magnify source (percentage of screen): Size of the area which will be captured around the selected point for magnification.
 
