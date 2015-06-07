@@ -136,7 +136,7 @@
 
 <a name="selection-with-a-mouse">**Selection with a mouse**</a>
 
-![Management Console Pointing and Selecting tab with mouse selection trigger](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Mouse_Button_Trigger_Section_Numbered.png2)
+![Management Console Pointing and Selecting tab with mouse selection trigger](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Mouse_Button_Trigger_Section_Numbered.png)
 
 1. Key selection source: The method used to select a key. Possible methods are fixations, keyboard keys and mouse buttons. In this example the source is a Mouse Button.
 
@@ -148,7 +148,7 @@
 
 <a name="selection-with-a-keyboard">**Selection with a keyboard**</a>
 
-![Management Console Pointing and Selecting tab with keyboard selection trigger](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Keyboard_Key_Trigger_Section_Numbered.png2)
+![Management Console Pointing and Selecting tab with keyboard selection trigger](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Keyboard_Key_Trigger_Section_Numbered.png)
 
 1. Key selection source: The method used to select a key. Possible methods are fixations, keyboard keys and mouse buttons. In this example the source is a Keyboard Key.
 
