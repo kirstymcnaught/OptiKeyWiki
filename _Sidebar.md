@@ -1,7 +1,7 @@
 **[Overview](https://github.com/JuliusSweetland/OptiKey/wiki)**
 
 **[Get started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
-* [Download latest](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.1.7/OptiKeySetup-1.1.7.exe)
+* [Download latest](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.1.8/OptiKeySetup-1.1.8.exe)
 
 **[Requirements](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements)**
 * [Devices & operating systems](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#device-os-requirements)
