@@ -55,11 +55,11 @@ OptiKey supports selection using your eyes ([details of the currently supported 
 
 1. Connect your tracker and start the tracker's application(s) as required (e.g. for TheEyeTribe you would start the client and server applications). 
 
-2. Complete any initial setup to get the tracker up and running. Usually this involves getting yourself/your tracker/your screen in the correct position and competing a calibration. Some trackers (such as the Tobii EyeX) do store calibrations in user profiles and do not need to be calibrated before each use.
+2. Complete any initial setup to get the tracker up and running. Usually this involves getting yourself/your tracker/your screen in the correct position and competing a calibration. Some trackers (such as the Tobii EyeX) store user profiles so you do not need to complete a calibration every time.
 
 3. Once it's tracking your eyes reliably start OptiKey.
 
-4. Open OptiKey's Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab.
+4. As this is the first time you have used your eye tracker with OptiKey you will need to tell OptiKey which device you want to use. Open OptiKey's Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab.
 
 5. Change the "Source" (under "Pointing") to your tracking device. 
 
