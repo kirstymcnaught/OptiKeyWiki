@@ -83,7 +83,7 @@ OptiKey supports a number of selection methods to select a key or select a point
 
 3. When you change either method you will be shown other associated settings, for example if you select that you would like the "Key selection source" to be "Keyboard Key" then there will be a setting to change which key is used (and likewise for "Mouse button").
 
-Try it out - change the "Key selection source" to "Keyboard key". By default it will expect the "Ins"/"Insert" key, so click "OK" to save your changes (and restart OptiKey), direct your attention to a key, and press the "Ins" key once to select that key.
+Try it out - change the "Key selection source" to "Keyboard key" and select which key you want to use to make selections. Click "OK" to save your changes (and restart OptiKey), then direct your attention to a key and press your chosen keyboard key once to make your selection.
 
 ---
 
