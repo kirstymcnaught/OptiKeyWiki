@@ -1,4 +1,4 @@
-**[Overview](https://github.com/JuliusSweetland/OptiKey/wiki)**
+**[Home](https://github.com/JuliusSweetland/OptiKey/wiki)**
 
 **[Get started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 * [Download latest](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.1.8/OptiKeySetup-1.1.8.exe)
