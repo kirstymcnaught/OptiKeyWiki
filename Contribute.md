@@ -2,7 +2,7 @@ This is an open source project and I would love for there to be a community of v
 
 * Add support for more languages (dictionaries, as well as localising OptiKey)
 * Improve the algorithms which matches multi-key selections to dictionary words
-* Add word completion / incorrect spelling suggestions
+* Add incorrect spelling tolerance and correction
 * Add next word suggestions
 * Support for accessible buttons, sip/puff tubes, brain potential detection, and lots of other human interfaces
 * and lots more...
