@@ -1,6 +1,8 @@
 ##<a name="device-os-requirements">Supported devices & operating systems</a>
 
-OptiKey should work on a Windows pc/laptop/tablet that is capable of running the .Net 4.5 Framework, which should be any version of Windows from Vista SP2 up to Windows 8.1. It will not run on Windows RT tablets.
+OptiKey should work on a Windows pc/laptop/tablet that is capable of running the .Net 4.5 Framework, which should be any version of Windows from Vista SP2 up to Windows 8.1.
+
+It will not run on Windows RT tablets.
 
 Your device should be relatively modern/capable, but very high end specs are not required by OptiKey. 
 
