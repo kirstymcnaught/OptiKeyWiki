@@ -75,7 +75,13 @@ OptiKey supports selection using your eyes ([details of the currently supported 
 
 ##<a name="change-selection-method">Change selection method</a>
 
-OptiKey supports a number of selection methods to select a key or select a point on the screen (when controlling the mouse). If you've been following this guide then we've been using the fixation method from the ['Type your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word) section, where you dwell over a key for a period of time until the selection is made. If you prefer to make key or point selections using another method then you can also press a keyboard key or click a mouse button instead. You can also combine different methods to, for example, use fixations when selecting keys, but a keyboard key when making point (mouse) selections.
+OptiKey supports a number of selection methods to select a key or select a point on the screen (when controlling the mouse). If you've been following this guide then we've been using the fixation method from the ['Type your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word) section, where you dwell over a key for a period of time until the selection is made.
+
+You can also make selections using a keyboard key or a mouse button instead. This opens up the possibility of using accessibility switches & buttons, breath-operated controllers ("sip and puff"), or any device which can trigger a key stroke or mouse click.
+
+**N.B. I have not tested OptiKey with accessibility devices so your mileage may vary, but I would be very happy to hear your feedback or fix any problems that you encounter.**
+
+You can also combine different methods to, for example, use fixations when selecting keys, but a keyboard key when making point (mouse) selections.
 
 1. To change the selection method open the Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab. 
 
