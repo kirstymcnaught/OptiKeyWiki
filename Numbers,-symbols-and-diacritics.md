@@ -1,6 +1,6 @@
 At some point you'll probably want to type a number, symbol, or diactrical letter (e.g. an accented e).
 
-To get to the numbers and symbols keyboard select the 'Numbers & Symbols' key directly from the main 'Alpha' (letters) keyboard:
+To get to the 'Numbers & Symbols' keyboard select the 'Numbers & Symbols' key directly from the main 'Alpha' (letters) keyboard:
 
 ![Symbols key](http://juliussweetland.github.io/OptiKey/images/Key_Symbols_Up.png)
 
@@ -37,5 +37,10 @@ The diacritics keyboards look like this:
 ![Diacritics keyboard 1 of 3](http://juliussweetland.github.io/OptiKey/images/Keyboard_Diacritic_LowerCase_1of3.png)
 ![Diacritics keyboard 2 of 3](http://juliussweetland.github.io/OptiKey/images/Keyboard_Diacritic_LowerCase_2of3.png)
 ![Diacritics keyboard 3 of 3](http://juliussweetland.github.io/OptiKey/images/Keyboard_Diacritic_LowerCase_3of3.png)
+
+The currency keyboards look like this:
+
+![Currency keyboard 1 of 2](http://juliussweetland.github.io/OptiKey/images/Keyboard_Currencies_1of2.png)
+![Currency keyboard 2 of 2](http://juliussweetland.github.io/OptiKey/images/Keyboard_Currencies_2of2.png)
 
 Again, there are more diacritical characters or currency symbols than it is possible to fit on one screen, so use the "1 of X", "2 of X" keys to move between the screens. As before, the Alpha key on each of those keyboards takes you back to the letters keyboard.
