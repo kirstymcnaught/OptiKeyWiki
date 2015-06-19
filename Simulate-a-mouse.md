@@ -12,9 +12,17 @@ The basic mouse actions (left, middle and right click, or scrolling - #11, #12, 
 
 ![Mouse keyboard](http://juliussweetland.github.io/OptiKey/images/Keyboard_Mouse_Numbered.png)
 
-To increase your precision when making mouse selections you can switch on magnification by locking down the Magnifier key:
+When scrolling the number of wheel clicks to apply is indicated on key #10. Select this key to change the amount.
 
+To increase your precision when making mouse selections you can switch on magnification by pressing, or locking down the Magnifier key. The key is tri-state and progresses on each selection like so:
+
+![Magnifier key up](http://juliussweetland.github.io/OptiKey/images/Key_Magnifier_Up.png)
+ ⇨ 
+![Magnifier key locked down](http://juliussweetland.github.io/OptiKey/images/Key_Magnifier_Down.png)
+ ⇨ 
 ![Magnifier key locked down](http://juliussweetland.github.io/OptiKey/images/Key_Magnifier_Locked_Down.png)
+ ⇨ 
+![Magnifier key up](http://juliussweetland.github.io/OptiKey/images/Key_Magnifier_Up.png)
 
 Selecting a point becomes a two step process when using the magnifier:
 
