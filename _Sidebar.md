@@ -30,21 +30,11 @@
 * [Speech only mode](https://github.com/JuliusSweetland/OptiKey/wiki/Speech-only-mode)
 * [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/Sleep)
 
-**[Management console (settings)](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console)**
-* [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#visuals)
- * [Look](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#visuals-look)
- * [Font](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#visuals-font)
- * [Notifications](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#visuals-notifications)
+**Management console screens:**
+* [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings)
 * [Sound settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds)
- * [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds-speech)
- * [Sound effects](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds-sounds-effects)
 * [Word settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#words)
 * [Pointing & selecting settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#pointing-and-selecting)
- * [Pointing with an eye tracker](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#pointing-with-an-eye-tracker)
- * [Selection with fixations](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#selection-with-fixations)
- * [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#multi-key-selection)
- * [Selection with a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#selection-with-a-mouse)
- * [Selection with a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#selection-with-a-keyboard)
 * [Dictionary management](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#dictionary)
 * [Other settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#other)
 
