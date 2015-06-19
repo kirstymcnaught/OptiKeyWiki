@@ -2,9 +2,9 @@
 
 **[Get started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 
-**[Requirements](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements)**
-* [Devices & operating systems](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#device-os-requirements)
-* [Eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)
+**[System requirements](https://github.com/JuliusSweetland/OptiKey/wiki/System-requirements)**
+
+**[Supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)**
 
 **User guides:**
 * [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)
