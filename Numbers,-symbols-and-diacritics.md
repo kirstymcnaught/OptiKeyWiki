@@ -12,7 +12,7 @@ At any time you can select the Alpha key to go back to the main (A-Z letters) ke
 
 ![Alpha key](http://juliussweetland.github.io/OptiKey/images/Key_Alpha_Up.png)
 
-If you want diacritical letters or currency symbols select the Menu key and then the diacritic key (#1 on the menu keyboard) or currency key (#2 on the menu keyboard):
+If you want diacritical letters or currency symbols select the Menu key and then the diacritic key (#3 on the menu keyboard) or currency key (#4 on the menu keyboard):
 
 ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
