@@ -4,7 +4,7 @@ OptiKey is able to simulate mouse input, meaning you can click, drag and scroll 
 
 ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
 
-The basic mouse actions (left, middle and right click, or scrolling - #1 to #4, and #7 to #14 on the mouse keyboard) are performed by:
+The basic mouse actions (left, middle and right click, or scrolling - #11, #12, #13, #15, and #1-#9 on the mouse keyboard) are performed by:
 
 1. Selecting the desired mouse action key (e.g. left click).
 
