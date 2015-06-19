@@ -12,7 +12,7 @@
 * [Numbers, symbols & diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics)
 * [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers)
 * [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method)
-* [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#speech)
+* [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Speech)
 * [Simulate a physical keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-keyboard)
 * [Simulate a physical mouse](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse)
 * [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection)
