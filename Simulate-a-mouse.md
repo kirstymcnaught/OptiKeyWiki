@@ -24,12 +24,10 @@ Selecting a point becomes a two step process when using the magnifier:
 
 ![Performing a mouse action while using the Magnifier](http://juliussweetland.github.io/OptiKey/images/Clicking_On_Magnified_Folder.png)
 
-Performing a Drag operation (#5 on the mouse keyboard) is slightly different as two selections have to be made after you select the drag key:
+Performing a Drag operation (#16 on the mouse keyboard) is slightly different as two selections have to be made after you select the drag key:
 
 1. Select point one (this will be a two step process if the Magnifier key is pressed or locked down). This first selection will be where the mouse button is pressed and held down.
 
 2. Select point two (again, a two step process if using the magnify feature) - this will be the point to which the mouse cursor is dragged and released.
 
-The 'Repeat Last' key (#6 on the mouse keyboard) allows you to repeat the last mouse action taken, which can be useful if you want to scroll down a long web page one scroll at a time, for example.
-
-*N.B. If you have the Simulate Key Strokes key locked down then keys #16 to #19 on the mouse keyboard show you the state of the modifier keys (Shift, Ctrl, Win and Alt) and allows you to release any which are pressed/locked down. If you attempt a mouse action while a modifier key is pressed then you may experience unexpected behaviour. For example clicking on a file in File Explorer while the Ctrl key is pressed adds the file to the current selection, rather than simply selecting the file.*
+The 'Repeat Last' key (#14 on the mouse keyboard) allows you to repeat the last mouse action taken, which can be useful if you want to scroll down a long web page one scroll at a time, for example.
