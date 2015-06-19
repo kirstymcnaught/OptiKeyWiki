@@ -26,8 +26,11 @@ You may have also noticed that some new keys are available now that the Simulate
 These work in exactly the same way as they do on a physical keyboard, and can be combined with other keys by holding them down. Try selecting one of them and you'll notice that it cycles through 3 states; UP, DOWN, and LOCKED DOWN, before returning to UP. For example, the Shift key progresses like this:
 
 ![Shift key](http://juliussweetland.github.io/OptiKey/images/Key_Shift_Up.png)
+ ⇨ 
 ![Shift key](http://juliussweetland.github.io/OptiKey/images/Key_Shift_Down.png)
+ ⇨ 
 ![Shift key](http://juliussweetland.github.io/OptiKey/images/Key_Shift_Locked_Down.png)
+ ⇨ 
 ![Shift key](http://juliussweetland.github.io/OptiKey/images/Key_Shift_Up.png)
 etc...
 
