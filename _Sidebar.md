@@ -35,7 +35,7 @@
 * [Sound settings](https://github.com/JuliusSweetland/OptiKey/wiki/Sound-settings)
 * [Word settings](https://github.com/JuliusSweetland/OptiKey/wiki/Word-settings)
 * [Pointing & selecting settings](https://github.com/JuliusSweetland/OptiKey/wiki/Pointing-&-selecting-settings)
-* [Dictionary management](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#dictionary)
+* [Dictionary management](https://github.com/JuliusSweetland/OptiKey/wiki/Dictionary-management)
 * [Other settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#other)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
