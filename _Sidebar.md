@@ -46,7 +46,7 @@
 * [Multiple monitors](https://github.com/JuliusSweetland/OptiKey/wiki/Multiple-monitors)
 * [No Menu key](https://github.com/JuliusSweetland/OptiKey/wiki/No-Menu-key)
 * [Mouse simulation issues](https://github.com/JuliusSweetland/OptiKey/wiki/Mouse-simulation-issues)
-* [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#multi-key-selection-issues)
+* [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection-issues)
 * [Other issues](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#other-issues)
 
 **[License](https://github.com/JuliusSweetland/OptiKey/wiki/License)**
