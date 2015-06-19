@@ -28,7 +28,7 @@
 * [Transparency](https://github.com/JuliusSweetland/OptiKey/wiki/Transparency)
 * [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme)
 * [Speech only mode](https://github.com/JuliusSweetland/OptiKey/wiki/Speech-only-mode)
-* [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#sleep)
+* [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/Sleep)
 
 **[Management console (settings)](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console)**
 * [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#visuals)
