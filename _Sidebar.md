@@ -37,8 +37,8 @@
 * [Dictionary management](https://github.com/JuliusSweetland/OptiKey/wiki/Dictionary-management)
 * [Other settings](https://github.com/JuliusSweetland/OptiKey/wiki/Other-settings)
 
-**[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
-* [Smart Screen warning](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#smart-screen-warning)
+**Troubleshooting:**
+* [Smart Screen warning](https://github.com/JuliusSweetland/OptiKey/wiki/Smart-Screen-warning)
 * [Cannot open Management Console](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#cannot-open-management-console)
 * [Eye tracker won't start or stops](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#eye-tracker-wont-start-or-stops)
 * [Factory reset all settings](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#factory-reset-all-settings)
