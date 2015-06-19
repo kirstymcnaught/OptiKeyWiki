@@ -36,7 +36,7 @@
 * [Word settings](https://github.com/JuliusSweetland/OptiKey/wiki/Word-settings)
 * [Pointing & selecting settings](https://github.com/JuliusSweetland/OptiKey/wiki/Pointing-&-selecting-settings)
 * [Dictionary management](https://github.com/JuliusSweetland/OptiKey/wiki/Dictionary-management)
-* [Other settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#other)
+* [Other settings](https://github.com/JuliusSweetland/OptiKey/wiki/Other-settings)
 
 **[Troubleshooting](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting)**
 * [Smart Screen warning](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#smart-screen-warning)
