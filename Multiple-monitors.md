@@ -1,0 +1,1 @@
+OptiKey is designed to work on 1 monitor only. Attempting to move it between monitors, or across multiple monitors will almost certainly result in incorrect behaviour. If this is a requirement for you then I can attempt to support it. Please email me at [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com).
