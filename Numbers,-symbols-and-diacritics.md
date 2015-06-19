@@ -1,6 +1,9 @@
 At some point you'll probably want to type a number, symbol, or diactrical letter (e.g. an accented e). For the numbers and symbols keyboard select the Symbols key:
 
 ![Symbols key](http://juliussweetland.github.io/OptiKey/images/Key_Symbols_Up.png)
+![Symbols keyboard 1 of 3](http://juliussweetland.github.io/OptiKey/images/Keyboard_Symbols_1of3.png)
+![Symbols keyboard 2 of 3](http://juliussweetland.github.io/OptiKey/images/Keyboard_Symbols_2of3.png)
+![Symbols keyboard 3 of 3](http://juliussweetland.github.io/OptiKey/images/Keyboard_Symbols_3of3.png)
 
 There are too many symbols to fit on one screen (in fact there are 3 screens of symbols). You can toggle between the screens by selecing the keyboard number key, which progresses to the next keyboard and then loops back to the first again:
 
