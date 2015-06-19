@@ -1,4 +1,4 @@
-**With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Management Console, then select the 'Pointing & Selecting' tab at the top. The Management Console must be accessed using a physical mouse and keyboard.**
+With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Management Console, then select the 'Pointing & Selecting' tab at the top. The Management Console must be accessed using a physical mouse and keyboard.
 
 ![Management Console Pointing and Selecting tab with TheEyeTribe position and selecting source](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_EyeTribe_Numbered.png)
 
