@@ -6,7 +6,7 @@ Instead of typing each letter of a word individually, it is possible to capture 
 2. ![Multi-key selection key locked down](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_Turning_On_MultiKeyCapture.png)
 3. ![Multi-key selection key locked down](http://juliussweetland.github.io/OptiKey/images/Key_MultiKeySelection_Locked_Down.png)
 
-N.B. The Multi-key Selection key is tri-state meaning it can be up, down for just one multi-key capture, or locked down for many multi-key captures. The key progresses like this:
+**N.B. The Multi-key Selection key is tri-state meaning it can be up, down for just one multi-key capture, or locked down for many multi-key captures. The key progresses like this:**
 
 ![Multi-key selection key up](http://juliussweetland.github.io/OptiKey/images/Key_MultiKeySelection_Up.png)
  ⇨ 
