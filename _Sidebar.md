@@ -33,7 +33,7 @@
 **Management console screens:**
 * [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings)
 * [Sound settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#sounds)
-* [Word settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#words)
+* [Word settings](https://github.com/JuliusSweetland/OptiKey/wiki/Word-settings)
 * [Pointing & selecting settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#pointing-and-selecting)
 * [Dictionary management](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#dictionary)
 * [Other settings](https://github.com/JuliusSweetland/OptiKey/wiki/Management-Console#other)
