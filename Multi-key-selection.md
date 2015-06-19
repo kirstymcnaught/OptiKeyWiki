@@ -6,7 +6,7 @@ Instead of typing each letter of a word individually, it is possible to capture 
 2. ![Multi-key selection key locked down](http://juliussweetland.github.io/OptiKey/images/Typing_Hello_MultiKeyCapture_Turning_On_MultiKeyCapture.png)
 3. ![Multi-key selection key locked down](http://juliussweetland.github.io/OptiKey/images/Key_MultiKeySelection_Locked_Down.png)
 
-**N.B. The Multi-key Selection key is tri-state meaning it can be up, down for just one multi-key capture, or locked down for many multi-key captures. The key progresses like this:**
+**N.B. You'll notice that the Multi-key Selection key cycles through 3 states; UP, DOWN, and LOCKED DOWN, before returning to UP, meaning it can be off, on for just one multi-key capture, or permanently on for many multi-key captures. The progression as each selection is made looks like this:**
 
 ![Multi-key selection key up](http://juliussweetland.github.io/OptiKey/images/Key_MultiKeySelection_Up.png)
  ⇨ 
@@ -15,6 +15,7 @@ Instead of typing each letter of a word individually, it is possible to capture 
 ![Multi-key selection key locked down](http://juliussweetland.github.io/OptiKey/images/Key_MultiKeySelection_Locked_Down.png)
  ⇨ 
 ![Multi-key selection key up](http://juliussweetland.github.io/OptiKey/images/Key_MultiKeySelection_Up.png)
+etc
 
 The process of capturing a word using fixation selection then works like this;
 
