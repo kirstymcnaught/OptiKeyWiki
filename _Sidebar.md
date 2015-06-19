@@ -9,7 +9,7 @@
 
 **User guides:**
 * [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)
-* [Numbers, symbols & diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#numbers-symbols-&-diacritics)
+* [Numbers, symbols & diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics)
 * [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#using-eye-trackers)
 * [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-selection-method)
 * [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#speech)
