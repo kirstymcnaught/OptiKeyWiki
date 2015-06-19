@@ -1,4 +1,4 @@
-**With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Management Console, then select the 'Words' tab at the top. The Management Console must be accessed using a physical mouse and keyboard.**
+With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Management Console, then select the 'Words' tab at the top. The Management Console must be accessed using a physical mouse and keyboard.
 
 ![Management Console Words tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Words_Numbered.png)
 
