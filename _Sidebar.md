@@ -7,7 +7,7 @@
 * [Devices & operating systems](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#device-os-requirements)
 * [Eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)
 
-**User guide
+**User guide**
 * [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)
 * [Numbers, symbols & diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#numbers-symbols-&-diacritics)
 * [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#using-eye-trackers)
