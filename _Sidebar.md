@@ -41,7 +41,7 @@
 * [Smart Screen warning](https://github.com/JuliusSweetland/OptiKey/wiki/Smart-Screen-warning)
 * [Cannot open Management Console](https://github.com/JuliusSweetland/OptiKey/wiki/Cannot-open-Management-Console)
 * [Eye tracker problems](https://github.com/JuliusSweetland/OptiKey/wiki/Eye-tracker-problems)
-* [Factory reset all settings](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#factory-reset-all-settings)
+* [Factory reset all settings](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-all-settings)
 * [Factory reset the dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#factory-reset-the-dictionary)
 * [Multiple monitors](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#multiple-monitors)
 * [No Menu key](https://github.com/JuliusSweetland/OptiKey/wiki/Troubleshooting#no-menu-key)
