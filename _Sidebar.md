@@ -26,7 +26,7 @@
  * [Change the dictionary language](https://github.com/JuliusSweetland/OptiKey/wiki/The-dictionary#change-the-dictionary-language)
 * [Change size & position](https://github.com/JuliusSweetland/OptiKey/wiki/Change-size,-position-and-opacity)
 * [Transparency](https://github.com/JuliusSweetland/OptiKey/wiki/Transparency)
-* [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#change-the-theme)
+* [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme)
 * [Speech only mode](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#speech-only-mode)
 * [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#sleep)
 
