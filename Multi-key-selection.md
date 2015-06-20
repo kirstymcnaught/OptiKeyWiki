@@ -1,4 +1,4 @@
-<a name="typing-whole-words">**Typing whole words**</a>
+**Typing whole words**
 
 Instead of typing each letter of a word individually, it is possible to capture a whole word (or phrase) in one go. To activate multi-key selection select the Multi-key Selection key to press or lock it down:
 
@@ -33,7 +33,9 @@ The process of capturing a word using fixation selection then works like this;
 
 Multikey selection learns which words you use frequently and will improve its suggestions over time.
 
-<a name="typing-whole-phrases">**Typing whole phrases**</a>
+---
+
+**Typing whole phrases**
 
 Whole phrases are types in the same way as whole words, but instead of typing each letter of each word you only type the first letter of each word. For example if the phrase "how are you" was in the dictionary, then you could type this as one multi-key selection like this:
 
