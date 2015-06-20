@@ -10,11 +10,11 @@ Alternatively select the 'Numbers & Symbols' key from the menu keyboard:
 
 1. Select the 'Menu' key:
 
-![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
+    ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
 2. Select the 'Numbers & Symbols' key (#2 on the menu keyboard):
 
-![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
+    ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
 
 The 'Numbers & Symbols' keyboards look like this:
 
@@ -42,11 +42,11 @@ If you want diacritical letters (letters with accents etc):
 
 Select the 'Menu' key:
 
-![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
+    ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
 2. Select the 'Diacritics' key (#3 on the menu keyboard):
 
-![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
+    ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
 
 The diacritics keyboards look like this:
 
@@ -64,11 +64,11 @@ If you want currency symbols:
 
 Select the 'Menu' key:
 
-![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
+    ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
 2. Select the 'Currency' key (#4 on the menu keyboard):
 
-![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
+    ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
 
 The currency keyboards look like this:
 
