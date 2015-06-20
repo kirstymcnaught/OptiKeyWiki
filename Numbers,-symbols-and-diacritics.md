@@ -1,6 +1,4 @@
-At some point you'll probably want to type a number, symbol, diactrical letter (e.g. an accented e), or currency symbol.
-
----
+At some point you'll probably want to type a number, symbol, diactrical letter (e.g. an accented e), or currency symbol...
 
 **The numbers & symbols keyboards**
 
