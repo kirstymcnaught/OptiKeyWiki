@@ -18,7 +18,7 @@
 * [Suggestions](https://github.com/JuliusSweetland/OptiKey/wiki/Suggestions)
 * [Auto-capitalisation & auto-spacing](https://github.com/JuliusSweetland/OptiKey/wiki/Auto-capitalisation-&-auto-spacing)
 * [The dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/The-dictionary)
-* [Change size & position](https://github.com/JuliusSweetland/OptiKey/wiki/Change-size,-position-and-opacity)
+* [Size & position](https://github.com/JuliusSweetland/OptiKey/wiki/Size-&-position)
 * [Transparency](https://github.com/JuliusSweetland/OptiKey/wiki/Transparency)
 * [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme)
 * [Speech only mode](https://github.com/JuliusSweetland/OptiKey/wiki/Speech-only-mode)
