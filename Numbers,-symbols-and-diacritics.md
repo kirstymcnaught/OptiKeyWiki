@@ -29,6 +29,9 @@ There are too many symbols to fit on one screen (in fact there are 3 screens of 
 ![2 of 3 key](http://juliussweetland.github.io/OptiKey/images/Key_Symbol_2of3_Up.png)
  ⇨ 
 ![3 of 3 key](http://juliussweetland.github.io/OptiKey/images/Key_Symbol_3of3_Up.png)
+ ⇨ 
+![1 of 3 key](http://juliussweetland.github.io/OptiKey/images/Key_Symbol_1of3_Up.png)
+etc
 
 At any time you can select the Alpha key to go back to the main (A-Z letters) keyboard:
 
