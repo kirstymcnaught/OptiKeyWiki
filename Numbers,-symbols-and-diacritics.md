@@ -43,7 +43,7 @@ At any time you can select the Alpha key to go back to the main (A-Z letters) ke
 
 If you want diacritical letters (letters with accents etc):
 
-Select the 'Menu' key:
+1. Select the 'Menu' key:
 
     ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
