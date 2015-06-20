@@ -8,4 +8,4 @@
 
 4. Click the OK button at the bottom.
 
-*See [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings) for more.*
+*See [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings) for more on visual settings.*
