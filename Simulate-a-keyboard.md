@@ -41,8 +41,20 @@ This makes it easy to press or lock down a number of keys together. For example,
 
 It is a good idea to check if any of these "modifier" keys (Shift, Ctrl, Win, Alt) are pressed if you experience unexpected behaviour while typing into another application as they can impact your key selections.
 
-There is also a new keyboard available to you if the Simulate Key Strokes key is pressed; the 'Physical' keyboard (#5 on the menu keyboard), which you'll find by selecting the Menu key. This keyboard contains all the other keyboard keys we've not covered yet, such as ESCAPE, INSERT, ARROW KEYS, FUNCTION KEYS, etc.
+---
 
-![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
+**The physical keyboard**
 
-![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
+There is also a new keyboard available to you if the Simulate Key Strokes key is pressed; the 'Physical' keyboard. This keyboard contains "other" keys from a standard keyboard, e.g. the function keys (F1-F12, PG UP, PG DN, INSERT, etc). To access it:
+
+1. Select the 'Menu' key:
+
+    ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
+
+2. Select the 'Physical' key (#5 on the menu keyboard):
+
+    ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
+
+The 'Physical' keyboards look like this:
+
+![Symbols keyboard 1 of 3](http://juliussweetland.github.io/OptiKey/images/Keyboard_Physical.png)
