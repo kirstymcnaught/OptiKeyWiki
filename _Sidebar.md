@@ -1,6 +1,6 @@
 **[Home](https://github.com/JuliusSweetland/OptiKey/wiki)**
 
-**[Get started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
+**[Getting started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 
 **[System requirements](https://github.com/JuliusSweetland/OptiKey/wiki/System-requirements)**
 
