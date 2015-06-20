@@ -65,7 +65,7 @@ You can toggle between the diacritic keyboard screens by selecting the keyboard 
 
 If you want currency symbols:
 
-Select the 'Menu' key:
+1. Select the 'Menu' key:
 
     ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
