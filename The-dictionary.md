@@ -42,8 +42,9 @@ To add a phrase it is very similar:
 
 4. Confirm to add the phrase when asked. OptiKey will also ask you if you would like to add any new words that appear in your phrase - choose to confirm if the word is useful, or skip if not.
 
+---
 
-<a name="change-the-dictionary-language">**Change the dictionary language**</a>
+**Change the dictionary language**
 
 To change the dictionary language used by OptiKey:
 
