@@ -15,8 +15,6 @@
 * [Simulate a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard)
 * [Simulate a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-mouse)
 * [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection)
- * [Typing whole words](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection#typing-whole-words)
- * [Typing whole phrases](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection#typing-whole-phrases)
 * [Suggestions](https://github.com/JuliusSweetland/OptiKey/wiki/Suggestions)
 * [Auto-capitalisation & auto-spacing](https://github.com/JuliusSweetland/OptiKey/wiki/Auto-capitalisation-&-auto-spacing)
 * [The dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/The-dictionary)
