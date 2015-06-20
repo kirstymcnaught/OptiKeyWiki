@@ -11,3 +11,5 @@ If you only want to use the speech feature of OptiKey, then you can simplify Opt
 4. Click the OK button at the bottom to save your changes:
 
   ![Speech only keyboard](http://juliussweetland.github.io/OptiKey/images/Keyboard_Alpha_Speech_Only.png)
+
+*See [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings) for more on visual settings.*
