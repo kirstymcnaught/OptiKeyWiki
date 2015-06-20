@@ -1,4 +1,4 @@
-<a name="edit-the-dictionary-from-the-management-console">**Edit the dictionary from the Management Console**</a>
+**Edit the dictionary from the Management Console**
 
 The default dictionary contains many common words and phrases, but you will probably want to customise it by adding and removing entries. You can view and customise the dictionary from the Management Console:
 
@@ -12,7 +12,9 @@ The default dictionary contains many common words and phrases, but you will prob
 
 4. Click 'OK' to save your changes.
 
-<a name="edit-the-dictionary-from-the-scratchpad">**Edit the dictionary from the scratchpad**</a>
+---
+
+**Edit the dictionary from the scratchpad**
 
 You can also add words and phrases directly from the scratchpad by pressing the Add To Dictionary key. OptiKey will examine the words and sentences that you have already typed into the scratchpad and ask you which you would like to add to the dictionary:
 
