@@ -1,10 +1,14 @@
-OptiKey can be resized and moved. Select the Menu key and then the Size key (#6 on the menu keyboard) or Position key (#7 on the menu keyboard):
+**Size**
 
-![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
+1. Select the 'Menu' key:
 
-![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
+    ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
-<a name="size-keyboard">**Size keyboard**</a>
+2. Select the 'Size' key (#6 on the menu keyboard):
+
+    ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
+
+The size keyboard looks like this:
 
 ![Size keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Size_Numbered.png)
 
@@ -15,7 +19,19 @@ OptiKey can be resized and moved. Select the Menu key and then the Size key (#6 
     #19: Maximise OptiKey
     #20: Return to previous (Menu) keyboard
 
-<a name="position-keyboard">**Position keyboard**</a>
+---
+
+**Position**
+
+1. Select the 'Menu' key:
+
+    ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
+
+2. Select the 'Position' key (#7 on the menu keyboard):
+
+    ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
+
+The position keyboard looks like this:
 
 ![Position & Opacity keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Position_Numbered.png)
 
