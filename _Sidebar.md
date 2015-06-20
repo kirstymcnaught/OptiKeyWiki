@@ -23,6 +23,7 @@
 * [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme)
 * [Speech only mode](https://github.com/JuliusSweetland/OptiKey/wiki/Speech-only-mode)
 * [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/Sleep)
+* [Speed up & slow down](https://github.com/JuliusSweetland/OptiKey/wiki/Speed-up-&-slow-down)
 * [Shut down](https://github.com/JuliusSweetland/OptiKey/wiki/Shut-down)
 
 **Management console screens:**
