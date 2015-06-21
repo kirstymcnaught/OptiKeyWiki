@@ -1,9 +1,9 @@
 OptiKey is available for Windows (see the [Requirements](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements) page for more).
 
-1. Go to the [LATEST RELEASE PAGE](https://github.com/JuliusSweetland/OptiKey/releases/latest) and grab the setup file from the 'Downloads' section.
+1. [Download the latest installer](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.2.3/OptiKeySetup-1.2.3.exe).
 
-2. Run the downloaded file and follow the prompts to install Optikey.
+2. Run the file and follow the prompts to install Optikey.
 
-3. You will have the option to run OptiKey as soon as the installer completes, or you can run it at any time from your start menu or desktop icon if you choose to create one.
+3. Run OptiKey.
 
-4. Read the user guide to learn about about the many features available. Start by ['Typing your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word).
+4. Read the user guide. ['Typing your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) will get you going.
