@@ -2,11 +2,7 @@
 
 **[Download Latest Release ⇩](https://github.com/JuliusSweetland/OptiKey/releases/latest)**
 
-**[Getting started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
-
-**[System requirements](https://github.com/JuliusSweetland/OptiKey/wiki/System-requirements)**
-
-**[Supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)**
+**[Get started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 
 **User guides:**
 * [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)
@@ -47,6 +43,10 @@
 * [Mouse simulation issues](https://github.com/JuliusSweetland/OptiKey/wiki/Mouse-simulation-issues)
 * [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection-issues)
 * [Other issues](https://github.com/JuliusSweetland/OptiKey/wiki/Other-issues)
+
+**[Supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)**
+
+**[System requirements](https://github.com/JuliusSweetland/OptiKey/wiki/System-requirements)**
 
 **[License](https://github.com/JuliusSweetland/OptiKey/wiki/License)**
 
