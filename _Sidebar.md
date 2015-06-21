@@ -1,5 +1,7 @@
 **[Home](https://github.com/JuliusSweetland/OptiKey/wiki)**
 
+**[LATEST RELEASE](https://github.com/JuliusSweetland/OptiKey/releases/latest)**
+
 **[Getting started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 
 **[System requirements](https://github.com/JuliusSweetland/OptiKey/wiki/System-requirements)**
