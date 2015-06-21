@@ -6,4 +6,6 @@ OptiKey is available for Windows (see the [Requirements](https://github.com/Juli
 
 3. Run OptiKey.
 
-4. Read ['typing your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) to begin. From there you can read the other user guides and learn about OptiKey's many great features.
+4. Read ['Typing your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) to learn how to start using OptiKey.
+
+5. Unleash the power of OptiKey by reading the rest of the user guides, which are listed on the right of this website.
