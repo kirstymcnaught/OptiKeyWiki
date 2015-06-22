@@ -2,7 +2,7 @@ OptiKey is available for Windows (see the [Requirements](https://github.com/Juli
 
 1. [Click here to download OptiKey](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.2.3/OptiKeySetup-1.2.3.exe).
 
-2. Run the file and follow the prompts to install Optikey.
+2. Run the file and follow the prompts to install OptiKey.
 
 3. Run OptiKey.
 
