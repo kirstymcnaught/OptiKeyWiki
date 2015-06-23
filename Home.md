@@ -8,13 +8,11 @@ OptiKey is fully open-source and free. Forever.
 
 ![The OptiKey keyboard showing the light and dark themes](http://juliussweetland.github.io/OptiKey/images/Keyboards_Alpha_Showing_Light_And_Dark_Themes.png)
 
----
-
-OptKey can be used as a complete replacement for your physical keyboard and mouse, allowing you to type and click anyway. It can also generate speech.
+Type quickly using the "swiping" and word completion features. OptiKey will automatically insert spaces between words and capitalise letters for you. You can even type whole phrases in a single selection.
 
 ![OptiKey being used to type into Word](http://juliussweetland.github.io/OptiKey/images/Typing_Into_Word.png)
 
-Increase your typing speed by using the "swiping" or word completion features. OptiKey can also automatically insert spaces between words and capitalise letters for you.
+OptKey can be used as a complete replacement for your physical keyboard and mouse, allowing you to type and click anywhere. It can also generate speech.
 
 ![OptiKey being used to control a mouse click](http://juliussweetland.github.io/OptiKey/images/Clicking_On_Magnified_Folder.png)
 
