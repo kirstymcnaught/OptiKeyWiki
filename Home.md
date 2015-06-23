@@ -2,7 +2,7 @@
 
 OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with an eye-tracking device to bring keyboard control, mouse control and speech to people with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
 
-The software includes a huge set of characters and symbols, support for word prediction and “swiping”, and a lot of customisable features such as visual themes, keyboard size, position, etc. It works out of the box once you have your eye-tracking device installed and allows selections to be made using physical buttons, dwell selection, etc. If you do not have an eye tracking device you can use OptiKey with a mouse.
+It works out of the box once you have your eye-tracking device installed and allows selections to be made using physical buttons, dwell selection, etc. If you do not have an eye tracking device you can use OptiKey with a mouse.
 
 OptiKey is fully open-source and free. Forever.
 
@@ -10,7 +10,9 @@ OptiKey is fully open-source and free. Forever.
 
 ---
 
-OptKey can be used as a complete replacement for your physical keyboard and mouse and has been built to support interaction from assistive input devices (eye-tracking devices, sip/puff tubes, brain-computer interfaces, assistive buttons, etc), as well as standard input device (mouse, keyboard, microphone). The aim of OptiKey is to give everyone the ability to fully interact with a computer and communicate freely.
+OptKey can be used as a complete replacement for your physical keyboard and mouse and has been built to support interaction from assistive input devices (eye-tracking devices, sip/puff tubes, brain-computer interfaces, assistive buttons, etc), as well as standard input device (mouse, keyboard, microphone). 
+
+The software includes a huge set of characters and symbols, support for word prediction and “swiping”, and a lot of customisable features such as visual themes, keyboard size, position, , etc. The aim of OptiKey is to give everyone the ability to fully interact with a computer and communicate freely.
 
 ![OptiKey being used to type into Word](http://juliussweetland.github.io/OptiKey/images/Typing_Into_Word.png)
 
