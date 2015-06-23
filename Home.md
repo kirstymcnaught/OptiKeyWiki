@@ -10,7 +10,7 @@ OptiKey is fully open-source and free. Forever.
 
 ---
 
-OptKey can be used as a complete replacement for your physical keyboard and mouse and has been built to support interaction from assistive input devices (eye-tracking devices, sip/puff tubes, brain-computer interfaces, assistive buttons, etc), as well as standard input device (mouse, keyboard, microphone). The software includes a huge set of characters and symbols, support for word completion and “swiping”, and a lot of customisable features such as visual themes, keyboard size, position, etc. 
+OptKey can be used as a complete replacement for your physical keyboard and mouse and has been built to support interaction from assistive input devices (eye-tracking devices, sip/puff tubes, brain-computer interfaces, assistive buttons, etc), as well as standard input device (mouse, keyboard, microphone). 
 
 The aim of OptiKey is to give everyone the ability to fully interact with a computer and communicate freely.
 
