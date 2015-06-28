@@ -4,7 +4,7 @@
 
 **[Get started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 
-**[Why](https://github.com/JuliusSweetland/OptiKey/wiki/Why%3F)**
+**[Why?](https://github.com/JuliusSweetland/OptiKey/wiki/Why%3F)**
 
 **User guides:**
 * [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)
