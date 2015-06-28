@@ -4,6 +4,8 @@
 
 **[Get started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 
+**[Why](https://github.com/JuliusSweetland/OptiKey/wiki/Why%3F)**
+
 **User guides:**
 * [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)
 * [Numbers, symbols & diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics)
