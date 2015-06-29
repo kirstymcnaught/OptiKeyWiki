@@ -2,6 +2,8 @@
 
 **[Download ⇩](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.2.8b/OptiKeySetup-1.2.8.exe)**
 
+**[Watch the demo video](https://www.youtube.com/watch?v=Cgnamj5SA3Y)**
+
 **[Get started...](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 
 **[Why?](https://github.com/JuliusSweetland/OptiKey/wiki/Why%3F)**
