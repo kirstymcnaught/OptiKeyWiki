@@ -1,4 +1,4 @@
-*Bad or failed multikey selection matches - too sensitive, word/phrase not in dictionary.*
+*Bad or failed multikey selection matches*
 
 If you are finding that multi-key selections are producing bad or unexpected results then it may be that OptiKey is being too sensitive or not sensitive enough when registering your interest in the letters which make up your intended word. In other words OptiKey may be including letters you did not mean to glance at, or missing letters you intentionally glance at. 
 
