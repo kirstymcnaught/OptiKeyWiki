@@ -42,6 +42,8 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Managemen
 
 16. Capture timeout (ms): The maximum duration of a multi-key capture. If a multi-key capture exceeds this amount of time the capture will be discarded.
 
+---
+
 <a name="pointing-with-a-mouse">**Pointing with a mouse**</a>
 
 ![Management Console Pointing and Selecting tab with mouse position source](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Mouse_Pointing_Section_Numbered.png)
@@ -51,6 +53,8 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Managemen
 2. Mouse position sample interval (ms): How often the mouse position is sampled. Lower values are more efficient, but result in less accurate location data.
 
 3. Time until point becomes irrelevent (ms): As described above.
+
+---
 
 <a name="selection-with-a-mouse">**Selection with a mouse**</a>
 
@@ -67,6 +71,8 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Managemen
     ![Management Console Pointing and Selecting tab with mouse selection trigger - Multi-key selection section](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Button_Trigger_Multi_Key_Selection_Numbered.png)
 
 5. Stop signal: When a multi-key selection capture has begun by pressing the mouse button, this setting dictates how should that session is ended. Available options are to release the button, or to press the same button again to stop the capture.
+
+---
 
 <a name="selection-with-a-keyboard">**Selection with a keyboard**</a>
 
