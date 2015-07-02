@@ -58,6 +58,10 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Managemen
 
 4. Selection mouse button: The Mouse Button used to trigger a point selection.
 
+![Management Console Pointing and Selecting tab with mouse selection trigger - Multi-key selection section](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Button_Trigger_Multi_Key_Selection_Numbered.png)
+
+5. Stop signal: When a multi-key selection capture has begun by pressing the mouse button, how should that session end. Available options are to release the button, or to press the same button again to stop the capture.
+
 <a name="selection-with-a-keyboard">**Selection with a keyboard**</a>
 
 ![Management Console Pointing and Selecting tab with keyboard selection trigger](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Keyboard_Key_Trigger_Section_Numbered.png)
@@ -69,3 +73,7 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Managemen
 3. Point selection source: The method used to select a point when simulating a physical mouse (see ['Simulate a physical mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse) for more. Possible methods are fixations, keyboard keys and mouse buttons. In this example the source is a Keyboard Key.
 
 4. Selection keyboard key: The Keyboard Key used to trigger a point selection.
+
+![Management Console Pointing and Selecting tab with mouse selection trigger - Multi-key selection section](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Button_Trigger_Multi_Key_Selection_Numbered.png)
+
+5. Stop signal: When a multi-key selection capture has begun by pressing the mouse button, how should that session end. Available options are to release the button, or to press the same button again to stop the capture.
