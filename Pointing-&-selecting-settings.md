@@ -60,7 +60,7 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Managemen
 
     ![Management Console Pointing and Selecting tab with mouse selection trigger - Multi-key selection section](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Button_Trigger_Multi_Key_Selection_Numbered.png)
 
-5. Stop signal: When a multi-key selection capture has begun by pressing the mouse button, how should that session end. Available options are to release the button, or to press the same button again to stop the capture.
+5. Stop signal: When a multi-key selection capture has begun by pressing the mouse button, this setting dictates how should that session is ended. Available options are to release the button, or to press the same button again to stop the capture.
 
 <a name="selection-with-a-keyboard">**Selection with a keyboard**</a>
 
@@ -76,4 +76,4 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Managemen
 
     ![Management Console Pointing and Selecting tab with mouse selection trigger - Multi-key selection section](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Button_Trigger_Multi_Key_Selection_Numbered.png)
 
-5. Stop signal: When a multi-key selection capture has begun by pressing the mouse button, how should that session end. Available options are to release the button, or to press the same button again to stop the capture.
+5. Stop signal: When a multi-key selection capture has begun by pressing the keyboard key, this setting dictates how should that session is ended. Available options are to release the key, or to press the same key again to stop the capture.
