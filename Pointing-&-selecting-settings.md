@@ -32,9 +32,15 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard to open the Managemen
 
     <a name="multi-key-selection">**Multi-key selection**</a>
 
-12. Minimum dwell time on a key to include in capture (ms): When a multi-key selection (see ['Multi-key selection'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection) for more) is in progress this setting dictates the minimum amount of time that you must direct your attention to each key in order to register your interest in that key. Lower values allow you to complete the multi-key selection more quickly, but increase the chance that you will accidentally register interest in keys you are not actually interested in, resulting in less accurate matches. Higher values increase the amount of time required to complete each multi-key selection, but decrease the chance of registering keys accidentally.
+12. Selection progress indicator fills pie - Only available if the key or point selection sources are 'Fixations', this controls the selection progress animation that is displayed on the key or at the point being selected. This setting animates a pie chart filling from nothing to a full pie as selection progresses. This setting may be active together with 'Selection progress indicator shrinks' to combine both animations if desired.
 
-13. Capture timeout (ms): The maximum duration of a multi-key capture. If a multi-key capture exceeds this amount of time the capture will be discarded.
+13. Selection progress indicator shrinks - Only available if the key or point selection sources are 'Fixations', this controls the selection progress animation that is displayed on the key or at the point being selected. This setting animates a shrinking circle designed to draw your eye in to the centre of the key, or towards the point being selected. This setting may be active together with 'Selection progress indicator shrinks' to combine both animations if desired.
+
+14. Selection progress indicator shrinks to final proportion - Only available if 'Selection progress indicator shrinks' is true, this setting controls the smallest size of the shrinking circle that indicates selection. The value is a proportion of the initial, full size of the circle, so 0.2 means that the circle shrinks to 20% of its initial size. 0.1 = the circle shrinks to 10% of its initial size. 0.0 = the circle shrinks to nothing.
+
+15. Minimum dwell time on a key to include in capture (ms): When a multi-key selection (see ['Multi-key selection'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection) for more) is in progress this setting dictates the minimum amount of time that you must direct your attention to each key in order to register your interest in that key. Lower values allow you to complete the multi-key selection more quickly, but increase the chance that you will accidentally register interest in keys you are not actually interested in, resulting in less accurate matches. Higher values increase the amount of time required to complete each multi-key selection, but decrease the chance of registering keys accidentally.
+
+16. Capture timeout (ms): The maximum duration of a multi-key capture. If a multi-key capture exceeds this amount of time the capture will be discarded.
 
 <a name="pointing-with-a-mouse">**Pointing with a mouse**</a>
 
