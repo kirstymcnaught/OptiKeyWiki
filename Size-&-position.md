@@ -33,7 +33,7 @@ The size keyboard looks like this:
 
 The position keyboard looks like this:
 
-![Position & Opacity keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Position_Numbered.png)
+![Position keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Position_Numbered.png)
 
     #1-8: Move OptiKey in selected direction by number of pixels shown on key #9
     #9-16: Jump (move) OptiKey to selected screen boundary
