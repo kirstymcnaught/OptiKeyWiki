@@ -38,9 +38,10 @@ The position keyboard looks like this:
 
     #1-8: Move OptiKey in selected direction by number of pixels shown on key #19
     #9-16: Move OptiKey by jumping it to the selected screen boundary
-    #17: Arrange windows around OptiKey horizontally (above and below)
-    #18: Arrange windows around OptiKey vertically (side by side)
-    #19: Toggle through a sequence which controls how many pixels to move by when using keys #1-8
-    #20: Restore OptiKey to previous size (if maximised)
-    #21: Maximise OptiKey
-    #22: Return to previous (Menu) keyboard
+    #17: Toggle through a sequence which controls how many pixels to move by when using keys #1-8
+    #18: Restore OptiKey to previous size (if maximised)
+    #19: Maximise OptiKey
+    #20: Arrange windows around OptiKey horizontally (above and below)
+    #21: Arrange windows around OptiKey vertically (side by side)
+    #22: Maximise all other windows (not OptiKey) - useful to restore the Windows 8 start menu and Windows Store applications to full screen
+    #23: Return to previous (Menu) keyboard
