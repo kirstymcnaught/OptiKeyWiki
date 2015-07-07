@@ -46,4 +46,4 @@ The position keyboard looks like this:
     #22: Maximise all other windows (not OptiKey) - useful to restore the Windows 8 start menu and Windows Store applications to full screen
     #23: Return to previous (Menu) keyboard
 
-**N.B.** When arranging other windows horizontally or vertically you may sometimes notice that a window is positioned correctly, but is not re-sized as you would expect. This is due to a restriction on the other window which prevents it from being made smaller than a specific width/height. unfortunately there is nothing I can do about this as these restrictions are beyond my control.
+**N.B.** When arranging other windows horizontally or vertically you may sometimes notice that a window is positioned correctly, but is not re-sized as you would expect. This is due to a restriction on the other window which prevents it from being made smaller than a specific width/height. Unfortunately there is nothing I can do about this as these restrictions are beyond my control.
