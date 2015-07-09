@@ -2,7 +2,7 @@
 
 **[Download ⇩](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.3.3/OptiKeySetup-1.3.3.exe)**
 
-**[Watch the demo video](https://www.youtube.com/watch?v=Cgnamj5SA3Y)**
+**[Videos](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)**
 
 **[Get started...](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 
