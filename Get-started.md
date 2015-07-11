@@ -1,3 +1,5 @@
+**First steps...**
+
 OptiKey is available for Windows (see the [Requirements](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements) page for more).
 
 1. [Click here to download OptiKey](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.3.3/OptiKeySetup-1.3.3.exe).
@@ -12,7 +14,7 @@ OptiKey is available for Windows (see the [Requirements](https://github.com/Juli
 
 ---
 
-If after trying OptiKey using your mouse you would like to try using it with an eye tracker, then the general steps and requirements are:
+**Progressing to use an eye tracking device...**
 
 1. You will need a computer/laptop/tablet that meets the minimum requirements of your chosen eye tracker. Very broadly speaking you will need at least an Intel i5 processor, at least one USB 3.0 port (USB 2.0 will not work with most tracking devices) and a screen size large enough to be used comfortably (13-15" minimum) and no more than 24" (although it may be possible to use a larger screen if Windows is limited to only cover 24", e.g. when using Parallels to run Windows on a Mac).
 
