@@ -22,8 +22,6 @@ OptiKey is available for Windows (see the [Requirements](https://github.com/Juli
 
 3. [Follow these steps](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers) which guide you through the process of setting up your tracker to work with OptiKey.
 
-4. Have fun controlling your computer and speaking using only your eyes.
-
-5. Drop me a message to let me know how well OptiKey is working for you. Your feedback is invaluable.
+4. Have fun controlling your computer and speaking using only your eyes. If you have time please consider sending me an email to let me know how you are finding OptiKey - your feedback is invaluable. [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
 
 *If you are unsure which computer/laptop/tablet to purchase and are considering spending a lot of money then please email me - I can offer personal advice on how to target the sweet spot between cost and performance (and screen size).*
