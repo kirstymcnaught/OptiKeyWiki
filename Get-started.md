@@ -10,6 +10,7 @@ OptiKey is available for Windows (see the [Requirements](https://github.com/Juli
 
 5. Unleash the power of OptiKey by reading the rest of the user guides, which are listed on the right of this website.
 
+---
 
 If after trying OptiKey using your mouse you would like to try using it with an eye tracker, then the general steps and requirements are:
 
