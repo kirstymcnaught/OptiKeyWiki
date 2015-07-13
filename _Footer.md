@@ -1,1 +1,1 @@
-To collaborate, ask a question, request a feature, or get help with an issue that is not addressed here please contact me. [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com) / @OptiKey_Julius
+To collaborate, ask a question, request a feature, or get help with an issue that is not addressed here please contact me via email [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com), or on twitter @OptiKey_Julius
