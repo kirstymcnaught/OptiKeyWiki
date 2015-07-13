@@ -16,7 +16,7 @@ OptiKey is available for Windows (see the [Requirements](https://github.com/Juli
 
 **Progressing to use an eye tracking device...**
 
-1. You will need a computer/laptop/tablet that meets the minimum requirements of your chosen eye tracker. Very broadly speaking you will need at least an Intel i5 processor, at least one USB 3.0 port (USB 2.0 will not work with most tracking devices) and a screen size large enough to be used comfortably (13-15" minimum) and no more than 24" (although it may be possible to use a larger screen if Windows is limited to only cover 24", e.g. when using Parallels to run Windows on a Mac).
+1. You will need a computer/laptop/tablet that meets the minimum requirements of your chosen eye tracker. Very broadly speaking you will need at least an Intel i5 processor, at least one USB 3.0 port (USB 2.0 will not work with most tracking devices, although I think you may be able to use the Tobii REX over USB 2.0) and a screen size large enough to be used comfortably (13-15" minimum) and no more than 24" (although it may be possible to use a larger screen if Windows is limited to only cover 24", e.g. when using Parallels to run Windows on a Mac).
 
 2. Purchase one of the low cost eye tracking devices. I would recommend the [Tobii EyeX tracker](http://www.tobii.com/en/eye-experience/buy/) or [Eye Tribe tracker](https://theeyetribe.com/products/)
 
