@@ -4,7 +4,9 @@ OptiKey supports selection using your eyes using one of the following eye tracke
 * [TheEyeTribe](https://theeyetribe.com/order/)
 * [ITU GazeTracker] (http://nuigroup.com/forums/viewthread/5022/)
 * [Tobii REX](http://www.tobii.com/en/eye-experience/buy/buy-rex/)
-* [Tobii PCEye Go](http://www.tobii.com/PCEye2011)
+* [Tobii PCEye Go](http://www.tobii.com/PCEye2011)*
+
+**Provided that the PCEye Go runs firmware version 1.1.5 or later*
 
 ![TheEyeTribe device setup](http://juliussweetland.github.io/OptiKey/images/theeyetribe-physical-setup.png)
 
