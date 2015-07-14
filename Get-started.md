@@ -20,7 +20,7 @@ OptiKey is available for Windows (see the [Requirements](https://github.com/Juli
 
 2. Purchase one of the low cost eye tracking devices. I would recommend the [Tobii EyeX tracker](http://www.tobii.com/en/eye-experience/buy/) or [Eye Tribe tracker](https://theeyetribe.com/products/)
 
-3. [Follow these steps](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers) which guide you through the process of setting up your tracker to work with OptiKey.
+3. [Follow the steps on the 'Using eye trackers' page](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers) which guide you through the process of setting up your tracker to work with OptiKey.
 
 4. Have fun controlling your computer and speaking using only your eyes. If you have time please consider sending me an email to let me know how you are finding OptiKey - your feedback is invaluable. [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
 
