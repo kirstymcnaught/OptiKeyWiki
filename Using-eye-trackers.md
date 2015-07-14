@@ -1,10 +1,10 @@
 OptiKey supports the following low cost eye trackers:
 
-* [Tobii EyeX](http://www.tobii.com/en/eye-experience/buy/)
-* [TheEyeTribe](https://theeyetribe.com/order/)
-* [ITU GazeTracker] (http://nuigroup.com/forums/viewthread/5022/)
-* [Tobii REX](http://www.tobii.com/en/eye-experience/buy/buy-rex/)
-* [Tobii PCEye Go](http://www.tobii.com/PCEye2011)*
+* [Tobii EyeX](http://www.tobii.com/en/eye-experience/buy/) - approx $139 / €99
+* [TheEyeTribe](https://theeyetribe.com/order/) - approx $99
+* [ITU GazeTracker] (http://nuigroup.com/forums/viewthread/5022/) - cost varies as this is a DIY project
+* [Tobii REX](http://www.tobii.com/en/eye-experience/buy/buy-rex/) - approx $795 / €595
+* [Tobii PCEye Go](http://www.tobii.com/PCEye2011)* - $?
 
 **Provided that the PCEye Go runs firmware version 1.1.5 or later - [click here for more info](https://github.com/JuliusSweetland/OptiKey/wiki/Using-the-Tobii-PCEye-Go-tracker)*
 
