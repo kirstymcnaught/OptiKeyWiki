@@ -1,4 +1,4 @@
-OptiKey supports selection using your eyes using one of the following eye trackers:
+OptiKey supports the following low cost eye trackers:
 
 * [Tobii EyeX](http://www.tobii.com/en/eye-experience/buy/)
 * [TheEyeTribe](https://theeyetribe.com/order/)
