@@ -6,7 +6,7 @@ OptiKey supports the following low cost eye trackers:
 * [Tobii REX](http://www.tobii.com/en/eye-experience/buy/buy-rex/)
 * [Tobii PCEye Go](http://www.tobii.com/PCEye2011)*
 
-**Provided that the PCEye Go runs firmware version 1.1.5 or later*
+**Provided that the PCEye Go runs firmware version 1.1.5 or later - [click here for more info](https://github.com/JuliusSweetland/OptiKey/wiki/Using-the-Tobii-PCEye-Go-tracker)*
 
 ![TheEyeTribe device setup](http://juliussweetland.github.io/OptiKey/images/theeyetribe-physical-setup.png)
 
