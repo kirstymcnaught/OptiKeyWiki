@@ -1,4 +1,9 @@
-OptiKey supports selection using your eyes ([details of the currently supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements#supported-eye-trackers)).
+OptiKey supports selection using your eyes using one of the following eye trackers:
+
+* [Tobii EyeX](http://www.tobii.com/en/eye-experience/buy/)
+* [Tobii EyeX](http://www.tobii.com/en/eye-experience/buy/)
+* [Tobii EyeX](http://www.tobii.com/en/eye-experience/buy/)
+* [Tobii EyeX](http://www.tobii.com/en/eye-experience/buy/)
 
 ![TheEyeTribe device setup](http://juliussweetland.github.io/OptiKey/images/theeyetribe-physical-setup.png)
 
