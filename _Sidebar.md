@@ -1,6 +1,6 @@
 **[Home](https://github.com/JuliusSweetland/OptiKey/wiki)**
 
-**[Download ⇩](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.3.4/OptiKeySetup-1.3.4.exe)**
+**[Download ⇩](https://github.com/JuliusSweetland/OptiKey/releases/download/v1.3.5/OptiKeySetup-1.3.5.exe)**
 
 **[Videos](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)**
 
