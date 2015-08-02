@@ -16,9 +16,9 @@
 
 4. Don't look down - keep the screen & tracker level with your eyeline. Looking down closes your eyelid over your eye, reducing tracking accuracy.
 
-5. Calibrate the eye tracker to an area less than the total screen size.
+5. Calibrate the eye tracker to an area less than the total screen size if you are experiencing poor performance at the screen edges. Alternatively sit slightly further from the screen.
 
-6. Only screen sizes up to 24 inches are supported by trackers like GazeTracker and TheEyeTribe. Check the limitations.
+6. Only screen sizes up to 24 inches are supported by trackers like GazeTracker and TheEyeTribe, or 27 inches for the Tobii EyeX. Check the limitations.
 
 7. If available, calibrate for more points (12 rather than 9, for example).
 
