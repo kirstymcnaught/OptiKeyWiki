@@ -14,7 +14,7 @@
 
 3. Is there too much light coming in through a window or a direct light source? Eye trackers typically use infra-red light, so can be confused if there is a strong source of IR light near you, such as the sun.
 
-4. Don't look down - keep the keyboard level with your eyeline. Looking down closes your eyelid over your eye, reducing tracking accuracy.
+4. Don't look down - keep the screen & tracker level with your eyeline. Looking down closes your eyelid over your eye, reducing tracking accuracy.
 
 5. Calibrate the eye tracker to an area less than the total screen size.
 
