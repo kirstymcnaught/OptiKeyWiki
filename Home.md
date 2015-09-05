@@ -1,5 +1,7 @@
 ![OptiKey logo](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/OptiKey-logo-600x200.png)
 
+**N.B. Version 2.0.0 has been released! This wiki and videos need to be updated to cover version 2, so please feel free to drop me an email (address at the bottom of every page) if something doesn't make sense, or isn't clear. I'll have this site updated ASAP.**
+
 OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with a low cost eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations, such as people living with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
 
 [![YouTube demo](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/OptiKey-YouTube.png)](https://www.youtube.com/watch?v=Cgnamj5SA3Y "OptiKey demo")
