@@ -1,6 +1,6 @@
 *Crash? Unexpected behaviour? Something else wrong?*
 
-**Anti-virus programs can cause problems with OptiKey (and many other applications)...**
+**Anti-virus programs can cause problems!**
 If OptiKey is crashing when you start it up then try temporarily disabling your anti-virus program and trying again. If that fixes things then try adding this directory to your anti-virus exceptions (folders the virus scanner will leave alone): 
 **C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland** and let me know so I can work out a way to fix this!
 
