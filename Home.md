@@ -1,6 +1,8 @@
 ![OptiKey logo](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/OptiKey-logo-600x200.png)
 
-**N.B. v2.0.0 has just been released so some of this website is out of date. Please feel free to drop me an email if something doesn't make sense, or isn't clear, otherwise I'll have this site updated ASAP.**
+**N.B.1 Version 2 has just been released so some of this website is out of date. Please feel free to drop me an email if something doesn't make sense, or isn't clear, otherwise I'll have this site updated ASAP.**
+
+**N.B.2 Some of you are experiencing crashes which I believe are caused by anti-virus programs - please try disabling your anti-virus if OptiKey crashes on startup and drop me an email so I can figure out how to work around this problem.**
 
 OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with a low cost eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations, such as people living with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
 
