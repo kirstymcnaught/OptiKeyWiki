@@ -14,7 +14,7 @@ OptiKey can be used as an alternative to a physical keyboard, allowing you to ty
 
 ![OptiKey being used to type into Word](http://juliussweetland.github.io/OptiKey/images/Typing_Into_Word.png)
 
-OptKey can replace your mouse, allowing you to click, scroll and drag with precision anywhere on screen.
+OptiKey can replace your mouse, allowing you to click, scroll and drag with precision anywhere on screen.
 
 ![OptiKey being used to control a mouse click](http://juliussweetland.github.io/OptiKey/images/Clicking_On_Magnified_Folder.png)
 
