@@ -1,12 +1,12 @@
 OptiKey supports the following low cost eye trackers:
 
-* [**Tobii EyeX¹**](http://www.tobii.com/en/eye-experience/buy/) - listed price (as at 15-Jul-2015) **$139 / €99**
+* [**Tobii EyeX ¹**](http://www.tobii.com/en/eye-experience/buy/) - listed price (as at 15-Jul-2015) **$139 / €99**
 * [**TheEyeTribe**](https://theeyetribe.com/order/) - listed price (as at 15-Jul-2015) **$99**
 * [ITU GazeTracker] (http://nuigroup.com/forums/viewthread/5022/) - cost varies as this is a DIY project
-* [Tobii REX¹](http://www.tobii.com/en/eye-experience/buy/buy-rex/) - listed price (as at 15-Jul-2015) $795 / €595
-* [Tobii PCEye Go¹²](http://www.tobiiati-webshop.com/products/tobii-pceye-go) - listed price $1,995
-* [Tobii X2-30¹](http://www.tobii.com/en/eye-tracking-research/global/products/hardware/tobii-x2-30-eye-tracker/) - prices are difficult to find, but an article from 2013 lists the price as $20,000 AUD (roughly $15,000 USD) + TAX
-* [Tobii X2-60¹](http://www.tobii.com/en/eye-tracking-research/global/products/hardware/tobii-x2-60-eye-tracker/) - prices are difficult to find, but an article from 2013 lists the price as $40,000 AUD (roughly $30,000 USD) + TAX
+* [Tobii REX ¹](http://www.tobii.com/en/eye-experience/buy/buy-rex/) - listed price (as at 15-Jul-2015) $795 / €595
+* [Tobii PCEye Go ¹ ²](http://www.tobiiati-webshop.com/products/tobii-pceye-go) - listed price $1,995
+* [Tobii X2-30 ¹](http://www.tobii.com/en/eye-tracking-research/global/products/hardware/tobii-x2-30-eye-tracker/) - prices are difficult to find, but an article from 2013 lists the price as $20,000 AUD (roughly $15,000 USD) + TAX
+* [Tobii X2-60 ¹](http://www.tobii.com/en/eye-tracking-research/global/products/hardware/tobii-x2-60-eye-tracker/) - prices are difficult to find, but an article from 2013 lists the price as $40,000 AUD (roughly $30,000 USD) + TAX
 
 ¹ All Tobii eye trackers must be used with the Tobii EyeX Engine available for [download here](http://www.tobii.com/en/eye-experience/dev/eyex-engine/)
 
