@@ -1,4 +1,4 @@
-I wouldn't recommend this - perhaps just edit your dictionary in the Management Console (with OptiKey focussed press ALT + M) and then select the "Dictionary" tab. If you want to completely discard your current dictionary (including all data about which words you use commonly), then delete one or all of the dictionary files from your roaming app data directory (C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland\JuliusSweetland\OptiKey\Dictionaries). For me (with a username of Julius) the steps would be;
+I wouldn't recommend this - perhaps just edit your dictionary in the Management Console (with OptiKey focussed press ALT + M) and then select the "Dictionary" tab. If you want to completely discard your current dictionary (including all data about which words you use commonly), then delete one or all of the **dictionary files** (e.g. BritishEnglish.dic) from your roaming app data directory (C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland\JuliusSweetland\OptiKey\Dictionaries). For me (with a username of Julius) the steps would be;
 
 1. Close OptiKey if it is running.
 
