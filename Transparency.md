@@ -4,7 +4,7 @@ OptiKey can be made partially transparent so that you can see through to whateve
 
     ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
-2. Select either the 'Decrease Opactity' key (#8 on the menu keyboard) or the 'Increase Opacity' key (#9 on the menu keyboard):
+2. Select either the 'Decrease Opacity' key or the 'Increase Opacity' key:
 
     ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
 
