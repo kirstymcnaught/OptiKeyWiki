@@ -1,4 +1,4 @@
-Run OptiKey and it will be displayed with a dark theme, position itself somewhere in the top left corner of your screen, and hover above all other applications. By default it uses your mouse cursor position for input and and selecting a key is performed by hovering over a key for about 1.5 seconds. 
+Run OptiKey for the first time and it will be displayed with a dark theme, position itself at the top of your screen (docked), and ensure that any other running applications are positioned in the remaining free space. By default it uses your mouse cursor position for input and selecting a key is performed by hovering over a key for about 1.5 seconds.
 
 ![Alpha keyboard typing welcome sentence](http://juliussweetland.github.io/OptiKey/images/Keyboard_Alpha_Typing_Welcome_Sentence.png)
 
