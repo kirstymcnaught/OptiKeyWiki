@@ -1,4 +1,4 @@
-If you would like to return OptiKey to the state it is in when you first install it (all settings back to their original factory values), delete all of the directories that start with **"OptiKey.exe_"** in your roaming app data directory (C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland). For me (with a username of Julius) the steps would be;
+If you would like to return OptiKey to the state it is in when you first install it (all settings back to their original factory values), delete all of the **directories** that start with **"OptiKey.exe_"** in your roaming app data directory (C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland). For me (with a username of Julius) the steps would be;
 
 1. Close OptiKey if it is running.
 
