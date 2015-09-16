@@ -47,7 +47,7 @@ If you want diacritical letters (letters with accents etc):
 
     ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
-2. Select the 'Diacritics' key (#3 on the menu keyboard):
+2. Select the 'Diacritics' key:
 
     ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
 
@@ -69,7 +69,7 @@ If you want currency symbols:
 
     ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
-2. Select the 'Currency' key (#4 on the menu keyboard):
+2. Select the 'Currency' key:
 
     ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
 
