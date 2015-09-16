@@ -44,7 +44,6 @@
 * [Factory reset the dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-the-dictionary)
 * [Multiple monitors](https://github.com/JuliusSweetland/OptiKey/wiki/Multiple-monitors)
 * [No menu key, no mouse key](https://github.com/JuliusSweetland/OptiKey/wiki/No-Menu-key,-no-mouse-key)
-* [Mouse simulation issues](https://github.com/JuliusSweetland/OptiKey/wiki/Mouse-simulation-issues)
 * [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection-issues)
 * [Other issues](https://github.com/JuliusSweetland/OptiKey/wiki/Other-issues)
 
