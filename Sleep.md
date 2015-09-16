@@ -1,10 +1,10 @@
-You can put OptiKey to sleep while you take a rest or do something else:
+You can put OptiKey to sleep while you take a rest or do something else by selecting the 'Sleep' key (available on most keyboards and from the menu):
 
 1. Select the 'Menu' key:
 
     ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
-2. Select the 'Sleep' key (#10 on the menu keyboard):
+2. Select the 'Sleep' key:
 
     ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
 
