@@ -30,7 +30,7 @@ It is a good idea to check if any of these "modifier" keys (Shift, Ctrl, Win, Al
 
 N.B. It is useful to clear the scratchpad (by selecting the Clear key) when changing where you are typing (e.g. when starting a new email, or moving to another application):
 
-    ![Clear key](http://juliussweetland.github.io/OptiKey/images/Key_Clear_Up.png)
+![Clear key](http://juliussweetland.github.io/OptiKey/images/Key_Clear_Up.png)
 
 ---
 
