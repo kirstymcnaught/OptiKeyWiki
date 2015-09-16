@@ -1,21 +1,8 @@
-Typing words into the "scratchpad" is great if you only want OptiKey to speak, but you can also use OptiKey to simulate keystrokes on a physical keyboard and type into other applications.
+OptiKey is always simulating keystrokes (i.e. outputting what you type as if you are using a keyboard) , unless you are in the "Conversation" keyboard. Here is how keystroke simulation works:
 
-1. To get started clear the scratchpad by selecting the Clear key:
+1. Focus another application where you would like to begin typing, e.g. you want to type a letter into Microsoft Word, or an email into Gmail. You can focus the other application by using a physical mouse to select it and bring it to the foreground, or use OptiKey to simulate the mouse selection (see ['Simulating a physical mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse)).
 
-    ![Clear key](http://juliussweetland.github.io/OptiKey/images/Key_Clear_Up.png)
-
-2. Select the Simulate Key Strokes key to turn keystroke simulation on (the key will stay locked down until you decide you want to release it by selecting it again):
-
-    ![Simulate Key Strokes key](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Up.png)
-     ⇨ 
-    ![Simulate Key Strokes key](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Locked_Down.png)
-     ⇨ 
-    ![Simulate Key Strokes key](http://juliussweetland.github.io/OptiKey/images/Key_SimulateKeyStrokes_Up.png)
-    etc
-
-3. Focus another application where you would like to begin typing, e.g. type a letter into Microsoft Word, or an email into Gmail. You can focus the other application by using a physical mouse to select it and bring it to the foreground, or use OptiKey to simulate the mouse selection (see ['Simulating a physical mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse)).
-
-4. Select keys to type as usual. As you make each selection it will appear in both the scratchpad and your selected application. The BackOne and BackMany keys can be used to correct any mistakes (introduced in the ['Type your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word) section).
+2. Select keys in OptiKey to type letters and words as usual. As you make each key selection it will appear in both the scratchpad and your selected application. The BackOne and BackMany keys can be used to correct any mistakes (introduced in the ['Type your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word) section).
 
 ![Simulating a physical keyboard to type into Microsoft Word](http://juliussweetland.github.io/OptiKey/images/Typing_Into_Word.png)
 
@@ -41,11 +28,15 @@ This makes it easy to press or lock down a number of keys together. For example,
 
 It is a good idea to check if any of these "modifier" keys (Shift, Ctrl, Win, Alt) are pressed if you experience unexpected behaviour while typing into another application as they can impact your key selections.
 
+N.B. It is useful to clear the scratchpad (by selecting the Clear key) when changing where you are typing (e.g. when starting a new email, or moving to another application):
+
+    ![Clear key](http://juliussweetland.github.io/OptiKey/images/Key_Clear_Up.png)
+
 ---
 
 **The physical keyboard**
 
-There is also a new keyboard available to you if the Simulate Key Strokes key is pressed; the 'Physical' keyboard. This keyboard contains "other" keys from a standard keyboard, e.g. the function keys (F1-F12, PG UP, PG DN, INSERT, etc). To access it:
+The 'Physical' keyboard contains the "other" keys from a standard keyboard, e.g. the function keys (F1-F12, PG UP, PG DN, INSERT, etc). To access it:
 
 1. Select the 'Menu' key:
 
