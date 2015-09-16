@@ -1,4 +1,4 @@
-OptiKey is able to simulate mouse input, meaning you can click, drag and scroll as if using a physical mouse. To open the mouse keyboard either select the 'Mouse' key which appears on most keyboards in the bottom right, or select the 'Mouse' key from the menu keyboard:
+OptiKey is able to simulate mouse input, meaning you can click, drag and scroll as if using a physical mouse. To open the mouse keyboard either select the 'Mouse' key which appears on most keyboards, or select the 'Mouse' key from the menu keyboard:
 
 1. Select the 'Menu' key:
 
