@@ -42,7 +42,7 @@ The 'Physical' keyboard contains the "other" keys from a standard keyboard, e.g.
 
     ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
-2. Select the 'Physical' key (#5 on the menu keyboard):
+2. Select the 'Physical' key:
 
     ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
 
