@@ -7,4 +7,6 @@ This is an open source project and I would love for there to be a community of v
 * Support for accessible buttons, sip/puff tubes, brain potential detection, and lots of other human interfaces
 * and lots more...
 
-If you are interested in helping to push this project forward please email me at [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com).
+If you are interested in helping to push this project forward please email me at [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com), or if you are a software dev please take a look at the current set of issues on the [GitHub issue tracker](https://github.com/JuliusSweetland/OptiKey/issues).
+
+Thank you!
