@@ -22,7 +22,7 @@ The basic mouse actions (left, middle and right click, or scrolling) are perform
 
 2. A large mouse cursor will be displayed to show where OptiKey is pointing. Direct your attention to the point where you wish to perform the mouse action and hold it there. A progress indicator will indicate that you are performing a selection. When the progress indicator completes your mouse action (a click, or scroll) will be performed at that point.
 
-When scrolling the number of wheel clicks to apply is indicated on key #10. Select this key to change the amount.
+When scrolling the number of wheel clicks to apply is indicated on the key labelled "Scroll by x clicks". Select this key to change the amount.
 
 ---
 
