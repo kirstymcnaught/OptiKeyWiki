@@ -52,6 +52,6 @@ To change the dictionary language used by OptiKey:
 
     ![Change the dictionary language from the Management Console](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Words_Numbered.png)
 
-2. Select the desired language (#1 in the screenshot).
+2. Select the desired language.
 
 3. Click 'OK' to save your changes.
