@@ -12,7 +12,7 @@ Alternatively select the 'Numbers & Symbols' key from the menu keyboard:
 
     ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
 
-2. Select the 'Numbers & Symbols' key (#2 on the menu keyboard):
+2. Select the 'Numbers & Symbols' key:
 
     ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
 
