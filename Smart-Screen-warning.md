@@ -1,3 +1,3 @@
-*When I try to install or run OptiKey on Windows 8 I see a Smart Screen warning saying that OptiKey is an unrecognised and potentially dangerous application.*
+*When I try to install or run OptiKey on Windows 8 (or above) I see a Smart Screen warning saying that OptiKey is an unrecognised and potentially dangerous application.*
 
 Due to the fact that OptiKey is a new application Windows will consider it un unknown entity for a little while and warn people installing it that it may not be trustworthy. Don't worry - it doesn't mean that the installer you are using has been compromised. Click "MORE INFO" and then "RUN ANYWAY" and the installation/run will continue normally. I expect this warning to go away as OptiKey matures and Windows starts recognising it as a "safe" application.
