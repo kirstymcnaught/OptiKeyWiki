@@ -6,9 +6,9 @@ The default dictionary contains many common words and phrases, but you will prob
 
     ![Editing the dictionary from the Management Console](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Dictionary_Numbered.png)
 
-2. To add a new word or phrase type it (as a lower case word unless it is a proper noun, abbreviation, etc) in the box at the top (#1 in the screenshot) and click 'Add' to add it to the dictionary.
+2. To add a new word or phrase type it (as a lower case word unless it is a proper noun, abbreviation, etc) in the box at the top and click 'Add' to add it to the dictionary.
 
-3. To remove an entry just click the 'Delete' button next to it (#2 in the screenshot).
+3. To remove an entry just click the 'Delete' button next to it.
 
 4. Click 'OK' to save your changes.
 
