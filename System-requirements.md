@@ -1,4 +1,6 @@
-OptiKey should work on a Windows pc/laptop/tablet that is capable of running the .Net 4.5 Framework (*not including Windows RT tablets*), which should be any version of Windows from Vista SP2 up to Windows 10 (and beyond).
+OptiKey should work on a Windows pc/laptop/tablet that is capable of running the .Net 4.5 Framework (*not including Windows RT tablets*), which should be any version of Windows from Vista SP2 up to Windows 8.1. 
+
+Windows 10 is supported, but some users have experienced issues where the Management Console does not display correctly. I am investigating and hope to have this resolved ASAP.
 
 Your device should be relatively modern/capable, but high end computer specs are not required by OptiKey.
 
