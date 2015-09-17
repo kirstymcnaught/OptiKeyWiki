@@ -22,4 +22,4 @@ To communicate naturally with those around you click the 'Speak' button and Opti
 
 [Get started...](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)
 
-**N.B.This wiki is in the process of being updated to cover the changes recently released in v2. Most information is correct, but some screenshots and info (especially regarding the available settings in the management console) may be out of date.**
+**N.B.This wiki is in the process of being updated to cover the changes recently released in v2. Most information is correct, but some screenshots and info (especially regarding the available settings in the management console) may be slightly out of date.**
