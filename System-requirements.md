@@ -2,4 +2,4 @@ OptiKey should work on a Windows pc/laptop/tablet that is capable of running the
 
 Your device should be relatively modern/capable, but high end computer specs are not required by OptiKey.
 
-**N.B.** If you are using an eye tracking device your pc/laptop/tablet will need to meet the minimum requirements of your eye tracker's software. These are typically more than enough for OptiKey to run flawlessly.
+If you are using an eye tracking device your pc/laptop/tablet will need to meet the minimum requirements of your eye tracker's software. These are typically more than enough for OptiKey to run flawlessly.
