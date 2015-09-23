@@ -8,7 +8,7 @@ OptiKey can be controlled with a mouse, but really comes into its own when contr
 
 3. Once it's tracking your eyes reliably start OptiKey.
 
-4. As this is the first time you have used your eye tracker with OptiKey you will need to tell OptiKey which device you want to use. Open OptiKey's Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab.
+4. If this is the first time you have used your eye tracker with OptiKey you will need to tell OptiKey which device you want to use. Open OptiKey's Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab.
 
 5. Change the "Source" (under "Pointing") to your tracking device. 
 
