@@ -1,9 +1,9 @@
 OptiKey can be controlled with a mouse, or an eye tracker (the preferred method), but it is also possible to use a standard webcam. There are a number of free applications which can use your webcam to track your head movements and translate those into movements of your mouse cursor on screen. As OptiKey can be controlled using the cursor position this means you can control OptiKey using head movements captured via your webcam. This method is a very different experience from using an eye tracking device, but can be very effective.
 
-These applications have been tested with OptiKey and are all free:
-* [Enable Viacam](http://eviacam.sourceforge.net/index.php) - this project is also open source
-* [Camera Mouse](http://www.cameramouse.org/)
-* [Open Gazer](http://www.inference.phy.cam.ac.uk/opengazer/)
+These applications should all work with OptiKey:
+* [Enable Viacam](http://eviacam.sourceforge.net/index.php) - free and open source
+* [Camera Mouse](http://www.cameramouse.org/) - free
+* [Open Gazer](http://www.inference.phy.cam.ac.uk/opengazer/) - free and open source
 
 *You could also try any other solution (hardware or software) which can control the mouse position effectively could also be used, e.g. the [Quha Zono](http://www.quha.com/products-2/zono/), although hardware solution like these can be expensive.*
 
