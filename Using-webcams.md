@@ -4,7 +4,8 @@ These applications have been tested with OptiKey and are all free:
 * [Enable Viacam](http://eviacam.sourceforge.net/index.php) - this project is also open source
 * [Camera Mouse](http://www.cameramouse.org/)
 * [Open Gazer](http://www.inference.phy.cam.ac.uk/opengazer/)
-* Any other solution (hardware or software) which can control the mouse position effectively could also be used, e.g. the [Quha Zono](http://www.quha.com/products-2/zono/), although hardware solution like these can be expensive.
+
+*You could also try any other solution (hardware or software) which can control the mouse position effectively could also be used, e.g. the [Quha Zono](http://www.quha.com/products-2/zono/), although hardware solution like these can be expensive.*
 
 1. Start whichever application you have chosen to control your cursor position via your webcam, e.g. 'Enable Viacam'. Configure it and make sure it is moving the mouse comfortably and reliably.
 
