@@ -12,6 +12,7 @@
 * [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)
 * [Numbers, symbols & diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics)
 * [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers)
+* [Using webcams](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams)
 * [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method)
 * [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Speech)
 * [Simulate a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard)
