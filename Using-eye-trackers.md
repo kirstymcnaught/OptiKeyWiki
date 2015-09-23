@@ -12,7 +12,7 @@ OptiKey can be controlled with a mouse, but really comes into its own when contr
 
 5. Change the "Source" (under "Pointing") to your tracking device. 
 
-6. Leave the "Key selection source" and "Point selection source" set to "Fixation" for now). 
+6. Leave the "Key selection source" and "Point selection source" set to "Fixation" for now. 
 
 7. Click "OK" to save your changes. OptiKey may need to restart, but your changes will be saved.
 
