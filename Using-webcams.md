@@ -9,7 +9,7 @@ These applications should all work with OptiKey:
 
 1. Start whichever application you have chosen to control your cursor position via your webcam, e.g. 'Enable Viacam'. Configure it and make sure it is moving the mouse comfortably and reliably.
 
-2. If you have changed which device OptiKey is using for input (e.g. to an eye tracker) then you will need to tell OptiKey to listen to cursor position again:
+2. If you have changed which device OptiKey is using for input (e.g. to an eye tracker) then you will need to tell OptiKey to listen to your mouse cursor position again.
 
 3. Open OptiKey's Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab.
 
