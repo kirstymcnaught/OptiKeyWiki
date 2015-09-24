@@ -15,6 +15,7 @@
 * [Using webcams](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams)
 * [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method)
 * [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Speech)
+* [Voice banking](https://github.com/JuliusSweetland/OptiKey/wiki/Voice-banking)
 * [Simulate a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard)
 * [Simulate a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-mouse)
 * [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection)
