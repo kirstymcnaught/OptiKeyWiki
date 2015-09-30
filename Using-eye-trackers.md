@@ -1,6 +1,6 @@
 OptiKey can be controlled with a mouse, but really comes into its own when controlled with an eye tracker. [The list of supported eye tracking devices is available here](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers).
 
-![TheEyeTribe device setup](http://juliussweetland.github.io/OptiKey/images/theeyetribe-physical-setup.png)
+![TheEyeTribe device setup](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/theeyetribe-physical-setup.png)
 
 1. Connect your tracker and start the tracker's application(s) as required (e.g. for TheEyeTribe you would start the client and server applications). 
 
