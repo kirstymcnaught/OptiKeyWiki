@@ -12,11 +12,11 @@ OptiKey was written to challenge the outrageously expensive, unreliable and diff
 
 OptiKey can be used as an alternative to a physical keyboard, allowing you to type into any application. OptiKey can automatically insert spaces between words and capitalise letters for you to increase your typing rate. You can even type whole words and phrases in a single selection by "swiping" or using "auto-complete".
 
-![OptiKey being used to type into Word](http://juliussweetland.github.io/OptiKey/images/Typing_Into_Word.png)
+![OptiKey being used to type into Word](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Typing_Into_Word.png)
 
 OptiKey can replace your mouse, allowing you to click, scroll and drag with precision anywhere on screen.
 
-![OptiKey being used to control a mouse click](http://juliussweetland.github.io/OptiKey/images/Clicking_On_Magnified_Folder.png)
+![OptiKey being used to control a mouse click](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Clicking_On_Magnified_Folder.png)
 
 To communicate naturally with those around you select the 'Speak' key and OptiKey will convert what you have typed into speech.
 
