@@ -16,13 +16,15 @@ The mouse keyboard looks like this:
 
 **Basic mouse actions**
 
-The "Do at point" mouse actions (including left, middle and right click, or scrolling) are performed by:
+The "Do at point..." mouse actions (including left, middle and right click, or scrolling) are performed by:
 
 1. Selecting the desired mouse action key (e.g. left click).
 
 2. A large mouse cursor will be displayed to show where OptiKey is pointing. Direct your attention to the point where you wish to perform the mouse action and hold it there. A progress indicator will indicate that you are performing a selection. When the progress indicator completes your mouse action (a click, or scroll) will be performed at that point.
 
 When scrolling the number of wheel clicks to apply is indicated on the key labelled "Scroll by x clicks". Select this key to change the amount.
+
+The "Do at current location..." mouse actions occur at the current location of the mouse cursor, so you will not select the point at which to perform the action. There are special actions in this section to press and hold down the left, middle, and right mouse buttons, and then release them again later. This allows you to perform certain drag actions manually, e.g. move the cursor to a specific point, press and hold down the left mouse button, move the mouse down manually, and then release the left mouse button again.
 
 ---
 
