@@ -16,7 +16,7 @@ The mouse keyboard looks like this:
 
 **Basic mouse actions**
 
-The basic mouse actions (left, middle and right click, or scrolling) are performed by:
+The "Do at point" mouse actions (including left, middle and right click, or scrolling) are performed by:
 
 1. Selecting the desired mouse action key (e.g. left click).
 
