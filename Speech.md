@@ -2,7 +2,7 @@
 
 2. Select the Speak key (it will turn blue while the speech is being read out):
 
-    ![Speak key](http://juliussweetland.github.io/OptiKey/images/Key_Speak_Up.png)
+    ![Speak key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Speak_Up.png)
 
 3. If you want to stop the in-progress speech at any time select the Speak key again (while it is still blue). This is useful if you accidentally intruct OptiKey to speak before you are ready and the "scratchpad" has a lot of text.
 
