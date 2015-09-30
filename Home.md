@@ -8,7 +8,7 @@ It works out of the box once you have your eye-tracking device installed and all
 
 OptiKey was written to challenge the outrageously expensive, unreliable and difficult to use AAC (alternative and augmentative communication) products on the market. It is, therefore, fully open-source and free. Forever.
 
-![The OptiKey keyboard showing the light and dark themes](http://juliussweetland.github.io/OptiKey/images/Keyboards_Alpha_Showing_Light_And_Dark_Themes.png)
+![The OptiKey keyboard showing the light and dark themes](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboards_Alpha_Showing_Light_And_Dark_Themes.png)
 
 OptiKey can be used as an alternative to a physical keyboard, allowing you to type into any application. OptiKey can automatically insert spaces between words and capitalise letters for you to increase your typing rate. You can even type whole words and phrases in a single selection by "swiping" or using "auto-complete".
 
