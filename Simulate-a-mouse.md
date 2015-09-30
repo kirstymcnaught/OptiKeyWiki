@@ -2,15 +2,15 @@ OptiKey is able to simulate mouse input, meaning you can click, drag and scroll 
 
 1. Select the 'Menu' key:
 
-    ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
+    ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
 
 2. Select the 'Mouse' key:
 
-    ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
+    ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
 
 The mouse keyboard looks like this:
 
-![Mouse keyboard](http://juliussweetland.github.io/OptiKey/images/Keyboard_Mouse_Numbered.png)
+![Mouse keyboard](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Mouse_Numbered.png)
 
 ---
 
@@ -30,13 +30,13 @@ When scrolling the number of wheel clicks to apply is indicated on the key label
 
 To increase your precision when making mouse selections you can switch on magnification by pressing, or locking down the Magnifier key. You'll notice that the Magnification key cycles through 3 states; UP, DOWN, and LOCKED DOWN, before returning to UP, meaning the magnify functionality can be off, on for just the next mouse action, or permanently on. The progression as you select the key looks like this:
 
-![Magnifier key up](http://juliussweetland.github.io/OptiKey/images/Key_Magnifier_Up.png)
+![Magnifier key up](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Magnifier_Up.png)
  ⇨ 
-![Magnifier key locked down](http://juliussweetland.github.io/OptiKey/images/Key_Magnifier_Down.png)
+![Magnifier key locked down](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Magnifier_Down.png)
  ⇨ 
-![Magnifier key locked down](http://juliussweetland.github.io/OptiKey/images/Key_Magnifier_Locked_Down.png)
+![Magnifier key locked down](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Magnifier_Locked_Down.png)
  ⇨ 
-![Magnifier key up](http://juliussweetland.github.io/OptiKey/images/Key_Magnifier_Up.png)
+![Magnifier key up](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Magnifier_Up.png)
 etc
 
 Selecting a point becomes a two step process when using the magnifier:
@@ -45,7 +45,7 @@ Selecting a point becomes a two step process when using the magnifier:
 
 2. Direct your attention to exactly where you wish to click/scroll in the magnified image to perform the action at that point (or select outside the magnified area to cancel the action).
 
-![Performing a mouse action while using the Magnifier](http://juliussweetland.github.io/OptiKey/images/Clicking_On_Magnified_Folder.png)
+![Performing a mouse action while using the Magnifier](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Clicking_On_Magnified_Folder.png)
 
 ---
 
