@@ -6,10 +6,10 @@ If you only want to use the speech feature of OptiKey, then you can simplify Opt
 
 3. Change the keyboard set to 'Speech Only':
 
-  ![Change the keyboard set from the Management Console](http://juliussweetland.github.io/OptiKey/images/Management_Console_Visual_Numbered.png)
+  ![Change the keyboard set from the Management Console](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Visual_Numbered.png)
 
 4. Click the OK button at the bottom to save your changes:
 
-  ![Speech only keyboard](http://juliussweetland.github.io/OptiKey/images/Keyboard_Alpha_Speech_Only.png)
+  ![Speech only keyboard](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Alpha_Speech_Only.png)
 
 *See [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings) for more on visual settings.*
