@@ -48,7 +48,7 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-scree
 
 <a name="pointing-with-a-mouse">**Pointing with a mouse**</a>
 
-![Management Console Pointing and Selecting tab with mouse position source](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Mouse_Pointing_Section_Numbered.png)
+![Management Console Pointing and Selecting tab with mouse position source](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Pointing_And_Selecting_Mouse_Pointing_Section_Numbered.png)
 
 1. Source: Which device is providing location data, e.g. the mouse, an eye tracker, etc. In this example the source is the mouse.
 
@@ -60,7 +60,7 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-scree
 
 <a name="selection-with-a-mouse">**Selection with a mouse**</a>
 
-![Management Console Pointing and Selecting tab with mouse selection trigger](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Mouse_Button_Trigger_Section_Numbered.png)
+![Management Console Pointing and Selecting tab with mouse selection trigger](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Pointing_And_Selecting_Mouse_Button_Trigger_Section_Numbered.png)
 
 1. Key selection source: The method used to select a key. Possible methods are fixations, keyboard keys and mouse buttons. In this example the source is a Mouse Button.
 
@@ -70,7 +70,7 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-scree
 
 4. Selection mouse button: The Mouse Button used to trigger a point selection.
 
-    ![Management Console Pointing and Selecting tab with mouse selection trigger - Multi-key selection section](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Button_Trigger_Multi_Key_Selection_Numbered.png)
+    ![Management Console Pointing and Selecting tab with mouse selection trigger - Multi-key selection section](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Pointing_And_Selecting_Button_Trigger_Multi_Key_Selection_Numbered.png)
 
 5. Stop signal: When a multi-key selection capture has begun by pressing the mouse button, this setting dictates how should that session is ended. Available options are to release the button, or to press the same button again to stop the capture.
 
@@ -78,7 +78,7 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-scree
 
 <a name="selection-with-a-keyboard">**Selection with a keyboard**</a>
 
-![Management Console Pointing and Selecting tab with keyboard selection trigger](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Keyboard_Key_Trigger_Section_Numbered.png)
+![Management Console Pointing and Selecting tab with keyboard selection trigger](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Pointing_And_Selecting_Keyboard_Key_Trigger_Section_Numbered.png)
 
 1. Key selection source: The method used to select a key. Possible methods are fixations, keyboard keys and mouse buttons. In this example the source is a Keyboard Key.
 
@@ -88,6 +88,6 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-scree
 
 4. Selection keyboard key: The Keyboard Key used to trigger a point selection.
 
-    ![Management Console Pointing and Selecting tab with mouse selection trigger - Multi-key selection section](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_Button_Trigger_Multi_Key_Selection_Numbered.png)
+    ![Management Console Pointing and Selecting tab with mouse selection trigger - Multi-key selection section](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Pointing_And_Selecting_Button_Trigger_Multi_Key_Selection_Numbered.png)
 
 5. Stop signal: When a multi-key selection capture has begun by pressing the keyboard key, this setting dictates how should that session is ended. Available options are to release the key, or to press the same key again to stop the capture.
