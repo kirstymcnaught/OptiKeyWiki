@@ -1,6 +1,6 @@
 With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-screen if using a tablet) to open the Management Console, then select the 'Other' tab at the top. The Management Console must be accessed using a physical mouse and keyboard.
 
-![Management Console Other tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Other_Numbered.png)
+![Management Console Other tab](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Other_Numbered.png)
 
 1. Show splash screen on startup: Enable/disable the welcome splash screen which shows for a few seconds when OptiKey starts.
 
