@@ -32,7 +32,7 @@ To add a phrase it is very similar:
 
 1. Clear the scratchpad using the Clear key:
 
-    ![Clear key](http://juliussweetland.github.io/OptiKey/images/Key_Clear_Up.png)
+    ![Clear key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Clear_Up.png)
 
 2. Type the phrase exactly as you would like it to be available in the dictionary. You don't need to capitalise the first letter unless it is a proper noun as OptiKey will auto capitalise the first letter if it is the start of a new sentence (if that setting is turned on - see [Auto-capitalisation](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#auto-capitalisation-and-auto-spacing) for more).
 
