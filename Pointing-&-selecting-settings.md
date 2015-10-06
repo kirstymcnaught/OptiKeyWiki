@@ -1,6 +1,6 @@
 With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-screen if using a tablet) to open the Management Console, then select the 'Pointing & Selecting' tab at the top. The Management Console must be accessed using a physical mouse and keyboard.
 
-![Management Console Pointing and Selecting tab with TheEyeTribe position and selecting source](http://juliussweetland.github.io/OptiKey/images/Management_Console_Pointing_And_Selecting_EyeTribe_Numbered.png)
+![Management Console Pointing and Selecting tab with TheEyeTribe position and selecting source](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Pointing_And_Selecting_EyeTribe_Numbered.png)
 
 <a name="pointing-with-an-eye-tracker">**Pointing with an eye tracker**</a>
 
