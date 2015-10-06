@@ -1,6 +1,6 @@
 With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-screen if using a tablet) to open the Management Console, then select the 'Visuals' tab at the top. The Management Console must be accessed using a physical mouse and keyboard.
 
-![Management Console Visual tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Visual_Numbered.png)
+![Management Console Visual tab](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Visual_Numbered.png)
 
 <a name="visuals-look">**Look**</a>
 
