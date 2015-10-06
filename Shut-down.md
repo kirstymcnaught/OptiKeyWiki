@@ -4,4 +4,4 @@ Closing/shutting down OptiKey is a manual operation. There are two ways to do it
 
 2. Right click on OptiKey's icon in the taskbar and then left click on 'Close Window':
 
-![Closing OptiKey using the mouse](http://juliussweetland.github.io/OptiKey/images/Closing_OptiKey_Using_The_Mouse.png)
+![Closing OptiKey using the mouse](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Closing_OptiKey_Using_The_Mouse.png)
