@@ -4,7 +4,7 @@
 
 3. Change the 'Theme'.
 
-  ![Change the theme from the Management Console](http://juliussweetland.github.io/OptiKey/images/Management_Console_Visual_Numbered.png)
+  ![Change the theme from the Management Console](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Visual_Numbered.png)
 
 4. Click the OK button at the bottom.
 
