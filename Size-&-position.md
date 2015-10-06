@@ -2,15 +2,15 @@
 
 1. Select the 'Menu' key:
 
-    ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
+    ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
 
 2. Select the 'Size' key (#6 on the menu keyboard):
 
-    ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
+    ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
 
 The size keyboard looks like this:
 
-![Size keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Size_Numbered.png)
+![Size keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Size_Numbered.png)
 
     #1-8: Expand OptiKey in selected direction by number of pixels shown on key #25
     #9-16: Shrink OptiKey in selected direction by number of pixels shown on key #25
@@ -26,15 +26,15 @@ The size keyboard looks like this:
 
 1. Select the 'Menu' key:
 
-    ![Menu key](http://juliussweetland.github.io/OptiKey/images/Key_Menu_Up.png)
+    ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
 
 2. Select the 'Position' key (#7 on the menu keyboard):
 
-    ![Menu keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Menu_Numbered.png)
+    ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
 
 The position keyboard looks like this:
 
-![Position keyboard with numbers](http://juliussweetland.github.io/OptiKey/images/Keyboard_Position_Numbered.png)
+![Position keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Position_Numbered.png)
 
     #1-8: Move OptiKey in selected direction by number of pixels shown on key #19
     #9-16: Move OptiKey by jumping it to the selected screen boundary
