@@ -1,6 +1,6 @@
 With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-screen if using a tablet) to open the Management Console, then select the 'Words' tab at the top. The Management Console must be accessed using a physical mouse and keyboard.
 
-![Management Console Words tab](http://juliussweetland.github.io/OptiKey/images/Management_Console_Words_Numbered.png)
+![Management Console Words tab](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Words_Numbered.png)
 
 1. Language: The dictionary used when auto-completing words and generating multi-key selection matches.
 
