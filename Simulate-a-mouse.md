@@ -14,7 +14,7 @@ The mouse keyboard looks like this:
 
 ---
 
-The mouse keyboard appears in two forms; either collapsed as a single bar containing the most common mouse actions (left click, left double click, scroll down, scroll up, etc), or expanded showing all possible mouse actions, which are split into two categories:
+The mouse keyboard appears in two forms; either collapsed as a single bar containing the most common mouse actions (left click, left double click, scroll down, scroll up, etc), or expanded showing all possible mouse actions. The expanded view is split into two categories:
 
 **"Do at current location..."**
 
