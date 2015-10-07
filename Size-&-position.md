@@ -4,7 +4,7 @@
 
     ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
 
-2. Select the 'Size' key (#6 on the menu keyboard):
+2. Select the 'Size' key:
 
     ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
 
