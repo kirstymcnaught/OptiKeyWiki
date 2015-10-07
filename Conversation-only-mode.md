@@ -4,7 +4,7 @@ If you only want to use OptiKey to generate speech and communicate, then you can
 
 2. Select the 'Visuals' tab at the top.
 
-3. Change the keyboard set to 'Conversation Only':
+3. Tick the checkbox 'Conversation only mode':
 
   ![Change the keyboard set from the Management Console](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Visual_Numbered.png)
 
