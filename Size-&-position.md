@@ -10,7 +10,7 @@
 
 The size & position keyboard looks like this:
 
-![Size & position keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Size_Numbered.png)
+![Size & position keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Size_And_Position_Numbered.png)
 
     #1-8: Expand in selected direction by number of pixels shown on key #33
     #9-16: Shrink in selected direction by number of pixels shown on key #33
