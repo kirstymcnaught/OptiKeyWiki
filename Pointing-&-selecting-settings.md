@@ -34,15 +34,11 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-scree
 
 13. Selection progress indicator behaviour - Only available if the key or point selection source is 'Fixations', this controls the selection progress animation that is displayed on the key or at the point being selected. You can choose to have a pie chart fill up to show your selection progress, or for a solid circle to shrink (to help draw your eye to the centre of the key if using an eye tracker), or grow.
 
-14. Selection progress indicator start size (%) - Only available if the 'Selection progress indicator behaviour' setting is 'Shrink' or 'Grow', this controls the selection progress indicators initial size (when starting a selection). The value is a percentage (0-100) where 100% is the full size of the key or cursor involved in the selection. When the progress indicator behaviour is 'Grow' this value must be less than the end size. When the behaviour is 'Shrink' this value must be greater than the end size.
-
-15. Selection progress indicator end size (%) - Only available if the 'Selection progress indicator behaviour' setting is 'Shrink' or 'Grow', this controls the selection progress indicators final size (when completing a selection). The value is a percentage (0-100) where 100% is the full size of the key or cursor involved in the selection. When the behaviour is 'Grow' this value must be greater than the start size. When the progress indicator behaviour is 'Shrink' this value must be less than the start size.
-
     <a name="multi-key-selection">**Multi-key selection**</a>
 
-16. Minimum dwell time on a key to include in capture (ms): When a multi-key selection (see ['Multi-key selection'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection) for more) is in progress this setting dictates the minimum amount of time that you must direct your attention to each key in order to register your interest in that key. Lower values allow you to complete the multi-key selection more quickly, but increase the chance that you will accidentally register interest in keys you are not actually interested in, resulting in less accurate matches. Higher values increase the amount of time required to complete each multi-key selection, but decrease the chance of registering keys accidentally.
+14. Minimum dwell time on a key to include in capture (ms): When a multi-key selection (see ['Multi-key selection'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection) for more) is in progress this setting dictates the minimum amount of time that you must direct your attention to each key in order to register your interest in that key. Lower values allow you to complete the multi-key selection more quickly, but increase the chance that you will accidentally register interest in keys you are not actually interested in, resulting in less accurate matches. Higher values increase the amount of time required to complete each multi-key selection, but decrease the chance of registering keys accidentally.
 
-17. Capture timeout (ms): The maximum duration of a multi-key capture. If a multi-key capture exceeds this amount of time the capture will be discarded.
+15. Capture timeout (ms): The maximum duration of a multi-key capture. If a multi-key capture exceeds this amount of time the capture will be discarded.
 
 ---
 
