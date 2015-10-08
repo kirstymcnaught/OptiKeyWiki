@@ -23,5 +23,3 @@ OptiKey can replace your mouse, allowing you to click, scroll and drag with prec
 To communicate naturally with those around you select the 'Speak' key and OptiKey will convert what you have typed into speech.
 
 [Get started...](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)
-
-**N.B.This wiki is in the process of being updated to cover the changes recently released in v2. Most information is correct, but some screenshots and info (especially regarding the available settings in the management console) may be slightly out of date.**
