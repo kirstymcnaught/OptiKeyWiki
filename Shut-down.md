@@ -1,7 +1,27 @@
-Closing/shutting down OptiKey is a manual operation. There are two ways to do it:
+Closing/shutting down/quitting OptiKey can be performed by selecting the QUIT key from the menu, or manually using your mouse or keyboard:
 
-1. Make sure OptiKey is selected (click on it) and then press ALT+F4. This is a standard Windows shortcut to close the currently focussed application.
+**From the menu**
 
-2. Right click on OptiKey's icon in the taskbar and then left click on 'Close Window':
+1. Select the 'Menu' key:
+
+    ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
+
+2. Select the 'Quit' key from the menu:
+
+    ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
+
+---
+
+**Using a physical keyboard**
+
+1. Make sure OptiKey has focus (this can be achieved by using your mouse to click on it, or toggle through the open applications until OptiKey is focused using ALT+TAB).
+
+2. Press ALT+F4 to exit. This is a standard Windows shortcut to close the currently focused application.
+
+---
+
+**Using a physical mouse**
+
+1. Right click on OptiKey's icon in the taskbar and then left click on 'Close Window':
 
 ![Closing OptiKey using the mouse](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Closing_OptiKey_Using_The_Mouse.png)
