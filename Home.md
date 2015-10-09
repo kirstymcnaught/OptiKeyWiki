@@ -6,8 +6,6 @@ OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed
 
 It works out of the box once you have your eye-tracking device installed and allows selections to be made using dwell selection, as well as physical buttons and assistive devices. If you do not have an eye tracking device you can use OptiKey with a mouse or your webcam.
 
-![Animation of conversation keyboard](https://i.imgur.com/UOKfzbv.gif)
-
 OptiKey was written to challenge the outrageously expensive, unreliable and difficult to use AAC (alternative and augmentative communication) products on the market. It is, therefore, fully open-source and free. Forever.
 
 ![The OptiKey keyboard showing the light and dark themes](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboards_Alpha_Showing_Light_And_Dark_Themes.png)
