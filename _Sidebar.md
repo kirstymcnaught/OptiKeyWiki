@@ -2,11 +2,11 @@
 
 **[Download ⇩](https://github.com/JuliusSweetland/OptiKey/releases/download/v2.1.1/OptiKeySetup-2.1.1.exe)**
 
-**[Videos](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)**
-
 **[Get started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 
 **[SPONSOR ME](https://github.com/JuliusSweetland/OptiKey/wiki/Sponsor-the-project)**
+
+**[Videos](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)**
 
 **User guides:**
 * [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)
