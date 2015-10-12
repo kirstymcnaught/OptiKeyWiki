@@ -6,7 +6,7 @@
 
 **[Get started...](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 
-**[Why?](https://github.com/JuliusSweetland/OptiKey/wiki/Why%3F)**
+**[SPONSOR ME](https://github.com/JuliusSweetland/OptiKey/wiki/Sponsor-the-project)**
 
 **User guides:**
 * [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)
