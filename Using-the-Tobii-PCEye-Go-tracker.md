@@ -1,4 +1,4 @@
-N.B. I have not tested the Tobii PCEye Go with OptiKey, but it should work provided that the PCEye Go has been updated to firmware version 1.1.5 or later. Here are a few threads discussing this:
+**N.B.** I have not personally tested the Tobii PCEyeGo with OptiKey and some users have reported issues getting this to work. According to the Tobii website this should work, provided that the PCEyeGo has been updated to firmware version 1.1.5 or later. Here are a few threads discussing this:
 
 1. http://developer.tobii.com/community/forums/topic/is-eyex-controller-same-as-tobii-pceye-go/
 2. http://developer.tobii.com/community/forums/topic/tobii-gaze-sdk-with-pceye-go/
