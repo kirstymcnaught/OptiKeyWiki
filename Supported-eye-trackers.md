@@ -18,7 +18,7 @@ OptiKey supports the following eye trackers...
 
 ² The PCEye Go must have firmware version 1.1.5 or later - [click here for more info](https://github.com/JuliusSweetland/OptiKey/wiki/Using-the-Tobii-PCEye-Go-tracker)*
 
-³ **N.B.**This tracker is not supported directly, but can instead be used to control the cursor position, which can in turn control OptiKey, as shown in this video: https://www.youtube.com/watch?v=1M7FVBuMcec
+³ The EyeTech TM5 is not currently supported, but instead it can be used to control the cursor position which can in turn can control OptiKey, as shown in this video: https://www.youtube.com/watch?v=1M7FVBuMcec
 
 OptiKey is designed to be used with an eye tracker, but you do not need one. You can control OptiKey with a standard mouse, or webcam ([see this page](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams)) if you want to try it out.
 
