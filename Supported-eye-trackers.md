@@ -12,7 +12,7 @@ OptiKey supports the following eye trackers...
 * [Tobii PCEye Go ¹ ²](http://www.tobiiati-webshop.com/products/tobii-pceye-go) - listed price $1,995
 * [Tobii X2-30 ¹](http://www.tobii.com/en/eye-tracking-research/global/products/hardware/tobii-x2-30-eye-tracker/) - prices are difficult to find, but an article from 2013 lists the price as $20,000 AUD (roughly $15,000 USD) + TAX
 * [Tobii X2-60 ¹](http://www.tobii.com/en/eye-tracking-research/global/products/hardware/tobii-x2-60-eye-tracker/) - prices are difficult to find, but an article from 2013 lists the price as $40,000 AUD (roughly $30,000 USD) + TAX
-* [EyeTech TM5 mini eye tracker ³](http://www.eyetechds.com/tm5-mini-assistive-tech.html)
+* [EyeTech TM5 mini eye tracker ³](http://www.eyetechds.com/tm5-mini-assistive-tech.html) - listed price £3,600+ on reseller sites
 
 ¹ All Tobii eye trackers must be used with the Tobii EyeX Engine available for [download here](http://www.tobii.com/en/eye-experience/dev/eyex-engine/)
 
