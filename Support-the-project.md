@@ -4,3 +4,10 @@ If you would like to sponsor this project please visit: https://www.patreon.com/
 
 Thank you,
 Julius
+
+---
+
+I would like to say a big thank you to my current patrons:
+
+Jerry
+Udo
