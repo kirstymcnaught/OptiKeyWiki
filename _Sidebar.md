@@ -4,7 +4,7 @@
 
 **[Get started](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
 
-**[SPONSOR ME](https://github.com/JuliusSweetland/OptiKey/wiki/Sponsor-the-project)**
+**[SUPPORT THE PROJECT](https://github.com/JuliusSweetland/OptiKey/wiki/Support-the-project)**
 
 **[Videos](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)**
 
