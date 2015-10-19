@@ -7,7 +7,7 @@ Julius
 
 ---
 
-I would like to say a big thank you to my current patrons:
+I would like to say a big thank you to my patrons:
 
 * Gerald Walden
 * Udo Heintz
