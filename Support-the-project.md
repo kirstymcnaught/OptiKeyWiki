@@ -9,5 +9,6 @@ Julius
 
 I would like to say a big thank you to my current patrons:
 
-* Jerry
-* Udo
+* Gerald Walden
+* Udo Heintz
+* Sean McLane
