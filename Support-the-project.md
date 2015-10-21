@@ -12,3 +12,4 @@ I would like to say a big thank you to my patrons:
 * Gerald Walden
 * Udo Heintz
 * Sean McLane
+* Nikolas
