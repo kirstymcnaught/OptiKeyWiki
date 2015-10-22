@@ -47,6 +47,7 @@
 * [Multiple monitors](https://github.com/JuliusSweetland/OptiKey/wiki/Multiple-monitors)
 * [No menu key, no mouse key](https://github.com/JuliusSweetland/OptiKey/wiki/No-Menu-key,-no-mouse-key)
 * [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection-issues)
+* [OS language has changed](https://github.com/JuliusSweetland/OptiKey/wiki/OS-language-has-been-changed)
 * [Other issues](https://github.com/JuliusSweetland/OptiKey/wiki/Other-issues)
 
 **[Supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)**
