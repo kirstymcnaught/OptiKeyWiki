@@ -4,7 +4,7 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-scree
 
 <a name="pointing-with-an-eye-tracker">**Pointing with an eye tracker**</a>
 
-1. Source: Which device is providing location data, e.g. the mouse, an eye tracker, etc. In this example the source is TheEyeTribe eye tracker.
+1. Source: Which device is providing location data, e.g. the mouse, an eye tracker, etc. In this example the source is TheEyeTribe eye tracker¹.
 
 2. Time until point becomess irrelevent (ms): If the source device (e.g. an eye tracker) timestamps the location data, then this setting controls how old a received point can be before it is considered too old to be useful. These "stale" points will be logged for debugging purposes and then discarded.
 
@@ -87,3 +87,11 @@ With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-scree
     ![Management Console Pointing and Selecting tab with mouse selection trigger - Multi-key selection section](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Pointing_And_Selecting_Button_Trigger_Multi_Key_Selection_Numbered.png)
 
 5. Stop signal: When a multi-key selection capture has begun by pressing the keyboard key, this setting dictates how should that session is ended. Available options are to release the key, or to press the same key again to stop the capture.
+
+---
+
+<a name="selection-with-an_eye_tracker_which_supports_processing_levels">**Selection with a tracker which supports different processing levels**</a>
+
+![Eye tracker processing levels](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Pointing_And_Selecting_Eye_Tracker_Processing_Level.png)
+
+¹ If you are using an eye tracker which supports a range of processing levels (the amount of smoothing or other processing that will be applied to the information the tracker produces about where you are looking) you can select a level of processing. Currently this works for the Tobii eye trackers which run on the EyeX engine, for example the EyeX tracker itself. A higher amount of processing can result in a more stable selection on the screen (but OptiKey will react very slightly slower as you look around), whilst a lower level of processing can result in a more responsive, but more erratic eye tracking experience.
