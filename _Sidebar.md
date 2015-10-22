@@ -51,6 +51,8 @@
 
 **[Supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)**
 
+**[Supported languages](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-languages)**
+
 **[System requirements](https://github.com/JuliusSweetland/OptiKey/wiki/System-requirements)**
 
 **[License](https://github.com/JuliusSweetland/OptiKey/wiki/License)**
