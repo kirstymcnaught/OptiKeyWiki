@@ -13,3 +13,4 @@ I would like to say a big thank you to my patrons:
 * Udo Heintz
 * Sean McLane
 * Nikolas
+* Rachael Hanson
