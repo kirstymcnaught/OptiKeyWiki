@@ -14,3 +14,4 @@ I would like to say a big thank you to my patrons:
 * Sean McLane
 * Nikolas
 * Rachael Hanson
+* Neal Wiggermann
