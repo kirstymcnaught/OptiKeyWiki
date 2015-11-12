@@ -15,3 +15,4 @@ I would like to say a big thank you to my patrons:
 * Nikolas
 * Rachael Hanson
 * Neal Wiggermann
+* Chris Brockett
