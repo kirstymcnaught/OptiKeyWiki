@@ -16,3 +16,4 @@ I would like to say a big thank you to my patrons:
 * Rachael Hanson
 * Neal Wiggermann
 * Chris Brockett
+* Bryan Powell
