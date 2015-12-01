@@ -1,16 +1,16 @@
-**[Home](https://github.com/OptiKey/OptiKey/wiki)**
+**[HOME](https://github.com/OptiKey/OptiKey/wiki)**
 
 **[DOWNLOAD ⇩](https://github.com/OptiKey/OptiKey/releases/download/v2.2.1/OptiKeySetup-2.2.1.exe)**
 
-**[Get started](https://github.com/OptiKey/OptiKey/wiki/Get-Started)**
+**[GET STARTED](https://github.com/OptiKey/OptiKey/wiki/Get-Started)**
 
 **[SUPPORT THE PROJECT](https://github.com/OptiKey/OptiKey/wiki/Support-the-project)**
-
-**[Videos](https://github.com/OptiKey/OptiKey/wiki/Videos)**
 
 **[SUPPORTED EYE TRACKERS](https://github.com/OptiKey/OptiKey/wiki/Supported-eye-trackers)**
 
 **[LANGUAGE SUPPORT](https://github.com/OptiKey/OptiKey/wiki/Supported-languages)**
+
+**[VIDEOS](https://github.com/OptiKey/OptiKey/wiki/Videos)**
 
 **User guides:**
 * [Type your first word](https://github.com/OptiKey/OptiKey/wiki/Type-your-first-word)
