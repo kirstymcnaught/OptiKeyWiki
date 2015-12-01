@@ -4,7 +4,7 @@
 
 **[GET STARTED](https://github.com/OptiKey/OptiKey/wiki/Get-Started)**
 
-**[SUPPORT THE PROJECT](https://github.com/OptiKey/OptiKey/wiki/Support-the-project)**
+**[SUPPORT THE PROJECT $](https://github.com/OptiKey/OptiKey/wiki/Support-the-project)**
 
 **[SUPPORTED EYE TRACKERS](https://github.com/OptiKey/OptiKey/wiki/Supported-eye-trackers)**
 
