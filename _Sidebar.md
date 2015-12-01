@@ -8,6 +8,10 @@
 
 **[Videos](https://github.com/OptiKey/OptiKey/wiki/Videos)**
 
+**[Supported eye trackers](https://github.com/OptiKey/OptiKey/wiki/Supported-eye-trackers)**
+
+**[Supported languages](https://github.com/OptiKey/OptiKey/wiki/Supported-languages)**
+
 **User guides:**
 * [Type your first word](https://github.com/OptiKey/OptiKey/wiki/Type-your-first-word)
 * [Numbers, symbols & diacritics](https://github.com/OptiKey/OptiKey/wiki/Numbers,-symbols-and-diacritics)
@@ -49,10 +53,6 @@
 * [Multi-key selection issues](https://github.com/OptiKey/OptiKey/wiki/Multi-key-selection-issues)
 * [OS language has changed](https://github.com/OptiKey/OptiKey/wiki/OS-language-has-been-changed)
 * [Other issues](https://github.com/OptiKey/OptiKey/wiki/Other-issues)
-
-**[Supported eye trackers](https://github.com/OptiKey/OptiKey/wiki/Supported-eye-trackers)**
-
-**[Supported languages](https://github.com/OptiKey/OptiKey/wiki/Supported-languages)**
 
 **[System requirements](https://github.com/OptiKey/OptiKey/wiki/System-requirements)**
 
