@@ -10,7 +10,7 @@
 
 **[LANGUAGE SUPPORT](https://github.com/OptiKey/OptiKey/wiki/Supported-languages)**
 
-**[FREE TTS VOICE](https://github.com/OptiKey/OptiKey/wiki/Free-TTS-Voices)**
+**[FREE TTS VOICE "RICH"](https://github.com/OptiKey/OptiKey/wiki/Free-TTS-Voices)**
 
 **[VIDEOS](https://github.com/OptiKey/OptiKey/wiki/Videos)**
 
