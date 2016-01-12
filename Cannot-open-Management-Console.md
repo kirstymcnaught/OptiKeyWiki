@@ -9,4 +9,8 @@ If the console is still not opening then check that you do not have any modifier
 
 Problem with the latest version of the Tobii EyeX software:
 
-* If you are using a Tobii tracker with EyeX software version 2.0.2.219 (or later) then the ALT key may change which application is focussed as the EyeX software has a built in window selection action which interferes with the Management Console shortcut (ALT+M). Make sure you are looking at the keyboard, or at OptiKey when the ALT key is pressed as part of the ALT+M shortcut. This will make sure that OptiKey keeps focus and the shortcut works correctly.
+* If you are using a Tobii tracker with EyeX software version 2.0.2.219 (or later) then the ALT key may change which application is focussed as the EyeX software has a built in window selection action ("Mouse Warp") which interferes with the Management Console shortcut (ALT+M). There are 2 possible work arounds;
+
+1. Disable "Mouse Warp" and ensure the "Mouse warp on click" and "Mouse clone" both have their keys set to "No Key". You might have to reset the EyeX settings (from Settings -> About) and reboot your computer for these settings to correctly take effect.
+
+2. If you require "Mouse Warp" to be on then make sure you are looking at the keyboard, or at OptiKey when the ALT key is pressed as part of the ALT+M shortcut. This will make sure that OptiKey keeps focus and the shortcut works correctly.
