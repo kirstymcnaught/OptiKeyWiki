@@ -1,7 +1,5 @@
 ![OptiKey logo](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/OptiKey-logo-600x200.png)
 
-![Build status](https://ci.appveyor.com/api/projects/status/rqj43c5p8jt86kjo/branch/master?svg=true)
-
 OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with a low cost eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations, such as people living with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
 
 OptiKey was written to challenge the outrageously expensive, unreliable and difficult to use AAC (alternative and augmentative communication) products on the market. It is, therefore, fully open-source and free. Forever.
