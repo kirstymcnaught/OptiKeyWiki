@@ -1,3 +1,5 @@
-If you would like to sponsor this project and help me dedicate more time to OptiKey please visit: https://www.patreon.com/OptiKey
+Please consider sponsoring this project and help me dedicate more time to OptiKey: https://www.patreon.com/OptiKey
 
-Have a question/problem/request? [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com), or @OptiKey_Julius
+Question/problem/request? [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com), or tweet me @OptiKey_Julius
+
+![Build status](https://ci.appveyor.com/api/projects/status/rqj43c5p8jt86kjo/branch/master?svg=true)
