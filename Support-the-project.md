@@ -20,3 +20,4 @@ I would like to say a big thank you to my patrons:
 * Alexander Blech
 * Peter Grant
 * Marcel Abraas
+* Rod Galvão
