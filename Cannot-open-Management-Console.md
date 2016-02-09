@@ -7,6 +7,12 @@ If the console is still not opening then check that you do not have any modifier
 
 ---
 
+**Alternatively use the right click context menu:**
+
+If you have OptiKey v2.2.3 (or later) you can right click anywhere ON OptiKey (NOT on the icon in the taskbar) and select 'Open Management Console'.
+
+---
+
 **Problem with the latest version of the Tobii EyeX software:**
 
 If you are using a Tobii tracker with EyeX software version 2.0.2.219 (or later) then the ALT key may change which application is focussed as the EyeX software has a built in window selection action ("Mouse Warp") which interferes with the Management Console shortcut (ALT+M). There are 2 possible work arounds;
