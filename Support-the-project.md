@@ -9,7 +9,7 @@ Julius
 
 I would like to say a big thank you to my patrons:
 
-* Gerald Walden
+* Gerald Walden (for his patronage, as well as very kindly donating an OpenBCI Ultracortex kit)
 * Udo Heintz
 * Sean McLane
 * Nikolas
