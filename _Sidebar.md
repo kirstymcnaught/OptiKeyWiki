@@ -1,6 +1,6 @@
 **[HOME](https://github.com/OptiKey/OptiKey/wiki)**
 
-**[DOWNLOAD ⇩](https://github.com/OptiKey/OptiKey/releases/download/v2.2.3/OptiKeySetup-2.2.3.exe)**
+**[DOWNLOAD ⇩](https://github.com/OptiKey/OptiKey/releases/download/v2.2.4/OptiKeySetup-2.2.4.exe)**
 
 **[GET STARTED](https://github.com/OptiKey/OptiKey/wiki/Get-Started)**
 
