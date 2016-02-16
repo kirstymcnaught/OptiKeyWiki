@@ -24,6 +24,8 @@ OptiKey is designed to be used with an eye tracker, but you do not need one. You
 
 Adding support for a new eye trackers may be possible - if you have an unsupported tracker then get in touch and I will see what I can do: [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
 
+---
+
 **Videos:**
 
 * Check out the differences between TheEyeTribe tracker and the Tobii EyeX tracker (the two lowest cost tracker available): ['The Eye Tribe Tracker vs. Tobii EyeX'](https://www.youtube.com/watch?v=rm2XhWzrC4o)
