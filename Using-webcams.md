@@ -2,7 +2,7 @@ OptiKey can be controlled with a mouse, or an eye tracker (the preferred method)
 
 These applications should all work with OptiKey:
 * [Enable Viacam](http://eviacam.sourceforge.net/index.php) - free and open source
-* [Camera Mouse](http://www.cameramouse.org/) - free
+* [Camera Mouse](http://www.cameramouse.org/) - free. [(click here for a demo video)](https://www.youtube.com/watch?v=BqHeZAkjTJs)
 * [Open Gazer](http://www.inference.phy.cam.ac.uk/opengazer/) - free and open source
 
 *You could also try any other solution (hardware or software) which can control the mouse position effectively, e.g. the [Quha Zono](http://www.quha.com/products-2/zono/), although hardware solution like these can be expensive.*
