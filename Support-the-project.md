@@ -22,3 +22,4 @@ I would like to say a big thank you to my patrons:
 * Marcel Abraas
 * Rod Galvão
 * Volluta
+* William Johnson
