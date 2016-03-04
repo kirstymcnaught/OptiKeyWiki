@@ -45,7 +45,7 @@
 * [Other settings](https://github.com/OptiKey/OptiKey/wiki/Other-settings)
 
 **Troubleshooting:**
-* [Smart Screen warning](https://github.com/OptiKey/OptiKey/wiki/Smart-Screen-warning)
+* [Smart Screen or Virus Scanner warnings](https://github.com/OptiKey/OptiKey/wiki/Smart-Screen-or-Virus-Scanner-warnings)
 * [Cannot open Management Console](https://github.com/OptiKey/OptiKey/wiki/Cannot-open-Management-Console)
 * [Eye tracker problems](https://github.com/OptiKey/OptiKey/wiki/Eye-tracker-problems)
 * [Factory reset all settings](https://github.com/OptiKey/OptiKey/wiki/Factory-reset-all-settings)
