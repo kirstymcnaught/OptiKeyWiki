@@ -2,7 +2,7 @@ OptiKey supports the following eye trackers...
 
 **Low cost:**
 
-* [**Tobii EyeX ¹**](http://www.tobii.com/xperience/products/buy/) - listed price (as at 10-Mar-2016) **$139 / €99** (while coupon code **CES2016** works the price is discounted to €83!)
+* [**Tobii EyeX ¹**](http://www.tobii.com/xperience/products/buy/) - listed price (as at 10-Mar-2016) **$139 / €119** (while coupon code **CES2016** works the price is discounted to €83!)
 * [**Steelseries Sentry Eye Tracker (this is actually a re-branded EyeX) ¹**](https://steelseries.com/gaming-controllers/sentry-gaming-eye-tracker) - listed price (as at 10-Mar-2016) **€199.99**
 * [**TheEyeTribe**](https://theeyetribe.com/order/) - listed price (as at 15-Jul-2015) **$99**
 * [ITU GazeTracker] (http://nuigroup.com/forums/viewthread/5022/) - cost varies as this is a DIY project
