@@ -8,7 +8,7 @@
 
 * [MIT project using OptiKey](https://vimeo.com/148316508)
 
-* [Controlling OptiKey using the EyeTech TM5 mini eye tracker](https://www.youtube.com/watch?v=1M7FVBuMcec) *- this tracker is not natively supported, but can be used via mouse control.*
+* [OptiKey demo using the EyeTech TM5 mini eye tracker](https://www.youtube.com/watch?v=1M7FVBuMcec) *- this tracker is not natively supported, but can be used via mouse control.*
 
 * [Full tour video](http://youtu.be/zMod7oExCbY) *- N.B. This is a tour of an old version of OptiKey*
 
@@ -17,3 +17,5 @@
 * [OptiKey demo with EyeX - video 2](https://youtu.be/CkWBLHRYx94) - courtesy of Kamol Chuengsatiansup
 
 * [OptiKey demo with EyeX - video 3](https://youtu.be/UTDgZo9hA-g) - courtesy of Handy Chandra
+
+* [OptiKey demo with Camera Mouse](https://youtu.be/BqHeZAkjTJs) - courtesy of Kamol Chuengsatiansup
