@@ -11,3 +11,9 @@
 * [Controlling OptiKey using the EyeTech TM5 mini eye tracker](https://www.youtube.com/watch?v=1M7FVBuMcec) *- this tracker is not currently supported, but the video shows how the tracker can control the mouse cursor position, and then how OptiKey can be controlled using the cursor.*
 
 * [Full tour video](http://youtu.be/zMod7oExCbY) *- N.B. This is a tour of an old version of OptiKey*
+
+* [OptiKey demo with EyeX - video 1](https://youtu.be/L1uYSJNoK-o) - courtesy of Kamol Chuengsatiansup
+
+* [OptiKey demo with EyeX - video 2](https://youtu.be/CkWBLHRYx94) - courtesy of Kamol Chuengsatiansup
+
+* [OptiKey demo with EyeX - video 3](https://youtu.be/UTDgZo9hA-g) - courtesy of Handy Chandra
