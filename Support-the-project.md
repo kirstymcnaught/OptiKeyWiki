@@ -23,3 +23,4 @@ I would like to say a big thank you to my patrons:
 * Rod Galvão
 * Volluta
 * William Johnson
+* Bill Sumner
