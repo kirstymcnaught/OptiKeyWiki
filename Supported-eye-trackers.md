@@ -15,9 +15,9 @@ OptiKey supports the following eye trackers...
 * [Tobii X2-60 ¹](http://www.tobii.com/en/eye-tracking-research/global/products/hardware/tobii-x2-60-eye-tracker/) - prices are difficult to find, but an article from 2013 lists the price as $40,000 AUD (roughly $30,000 USD) + TAX
 * [EyeTech TM5 mini eye tracker ³](http://www.eyetechds.com/tm5-mini-assistive-tech.html) - listed price £3,600+ on reseller sites
 
-¹ All Tobii eye trackers must be used with the Tobii EyeX Engine available for [download here](http://developer.tobii.com/?wpdmdl=181)
+¹ All Tobii eye trackers must be used with the Tobii EyeX Engine available for download at [Tobii EyeX downloads](http://developer.tobii.com/?wpdmdl=181)
 
-² The PCEye Go must have firmware version 1.1.5 or later - [click here for more info](https://github.com/JuliusSweetland/OptiKey/wiki/Using-the-Tobii-PCEye-Go-tracker)*
+² The PCEye Go must have firmware version 1.1.5 or later - see [Using the PCEye-Go-tracker](https://github.com/JuliusSweetland/OptiKey/wiki/Using-the-Tobii-PCEye-Go-tracker)
 
 ³ The EyeTech TM5 is not currently supported, but instead it can be used to control the cursor position which can in turn can control OptiKey, as shown in this video: https://www.youtube.com/watch?v=1M7FVBuMcec
 
@@ -25,9 +25,9 @@ OptiKey supports the following eye trackers...
 
 OptiKey is designed to be used with an eye tracker, but you do not need one. 
 
-If you have an eye tracker which isn't yet fully supported, you may be able to use mouse emulation to control OptiKey ([see this page](Using-mouse-emulation.md)).
+If you have an eye tracker which isn't yet fully supported, you may be able to use [mouse emulation](Using-mouse-emulation.md) to control OptiKey.
 
-You can also control OptiKey with a standard mouse, or webcam ([see this page](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams)) if you want to try it out.
+You can also control OptiKey with a standard mouse, or [use a webcam](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams) if you want to try it out.
 
 Adding full support for new eye trackers may be possible - if you have an unsupported tracker then get in touch and I will see what I can do: [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
 
