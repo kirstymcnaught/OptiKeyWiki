@@ -21,9 +21,15 @@ OptiKey supports the following eye trackers...
 
 ³ The EyeTech TM5 is not currently supported, but instead it can be used to control the cursor position which can in turn can control OptiKey, as shown in this video: https://www.youtube.com/watch?v=1M7FVBuMcec
 
-OptiKey is designed to be used with an eye tracker, but you do not need one. You can control OptiKey with a standard mouse, or webcam ([see this page](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams)) if you want to try it out.
+**Other input methods:**
 
-Adding support for a new eye trackers may be possible - if you have an unsupported tracker then get in touch and I will see what I can do: [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
+OptiKey is designed to be used with an eye tracker, but you do not need one. 
+
+If you have an eye tracker which isn't yet fully supported, you may be able to use mouse emulation to control OptiKey ([see this page](Using-mouse-emulation.md)).
+
+You can also control OptiKey with a standard mouse, or webcam ([see this page](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams)) if you want to try it out.
+
+Adding full support for new eye trackers may be possible - if you have an unsupported tracker then get in touch and I will see what I can do: [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
 
 ---
 
