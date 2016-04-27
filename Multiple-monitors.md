@@ -1,1 +1,3 @@
 OptiKey is designed to work on single monitor setups only. Attempting to move it between monitors, or across multiple monitors will almost certainly result in incorrect behaviour. This is a common limitation with eye tracking devices and not something I can solve quickly, although I may attempt a solution at some point.
+
+It is possible to use OptiKey on a monitor with a mirrored setup (both monitor and laptop showing the same screen), but when you first set it up you may experience incorrect behaviour in the size and position of OptiKey. To work around this, plug in your monitor, change your display settings to mirror the display and then **restart your computer**.
